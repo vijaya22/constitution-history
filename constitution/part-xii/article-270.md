@@ -1,23 +1,15 @@
 ---
 article: "270"
-title: "Taxes levied and collected by the Union and distributed between the Union and the States"
+title: "Taxes levied and distributed between the Union and the States"
 part: "XII"
 part_title: "FINANCE, PROPERTY, CONTRACTS AND SUITS"
 ---
-(1) Taxes on income other than agricultural income shall be levied and collected by the Government of India and distributed between the Union and the States in the manner provided in clause (2).
+(1) All taxes and duties referred to in the Union List, except the duties and taxes referred to in articles 268 and 269, respectively, surcharge on taxes and duties referred to in article 271 and any cess levied for specific purposes under any law made by Parliament shall be levied and collected by the Government of India and shall be distributed between the Union and the States in the manner provided in clause (2).
 
-(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to Union territories or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
+(2) Such percentage, as may be prescribed, of the net proceeds of any such tax or duty in any financial year shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax or duty is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed in the manner provided in clause (3).
 
-(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to Union territories.
-
-(4) In this article—
-
-(a) "taxes on income" does not include a corporation tax;
-
-(b) "prescribed" means—
+(3) In this article, "prescribed" means, —
 
 (i) until a Finance Commission has been constituted, prescribed by the President by order, and
 
-(ii) after a Finance Commission has been constituted, prescribed by the President by order after considering the recommendations of the Finance Commission;
-
-(c) "Union emoluments" includes all emoluments and pensions payable out of the Consolidated Fund of India in respect of which income-tax is chargeable.
+(ii) after a Finance Commission has been constituted, prescribed by the President by order after considering the recommendations of the Finance Commission.
