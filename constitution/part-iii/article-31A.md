@@ -24,7 +24,7 @@ Provided further that where any law makes any provision for the acquisition by t
 
 (a) the expression “estate” shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—
 
-(i) any jagir, inam or muafi or other similar grant and in the States of Madras and Kerala, any janmam right;
+(i) any jagir, inam or muafi or other similar grant and in the States of Tamil Nadu and Kerala, any janmam right;
 
 (ii) any land held under ryotwari settlement;
 
