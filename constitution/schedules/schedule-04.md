@@ -39,30 +39,32 @@ To each State or Union territory specified in the first column of the following 
 
 15. Rajasthan — 10
 
-16. Uttar Pradesh — 34
+16. Uttar Pradesh — 31
 
-17. West Bengal — 16
+17. Uttaranchal — 3
 
-18. Jammu and Kashmir — 4
+18. West Bengal — 16
 
-19. Nagaland — 1
+19. Jammu and Kashmir — 4
 
-20. Himachal Pradesh — 3
+20. Nagaland — 1
 
-21. Manipur — 1
+21. Himachal Pradesh — 3
 
-22. Tripura — 1
+22. Manipur — 1
 
-23. Meghalaya — 1
+23. Tripura — 1
 
-24. Sikkim — 1
+24. Meghalaya — 1
 
-25. Mizoram — 1
+25. Sikkim — 1
 
-26. Arunachal Pradesh — 1
+26. Mizoram — 1
 
-27. Delhi — 3
+27. Arunachal Pradesh — 1
 
-28. Pondicherry — 1
+28. Delhi — 3
+
+29. Pondicherry — 1
 
 ### Total 233
