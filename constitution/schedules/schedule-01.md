@@ -15,7 +15,7 @@ articles: "Articles 1 and 4"
 
 5. Kerala — The territories specified in sub-section (1) of section 5 of the States Reorganisation Act, 1956.
 
-6. Madhya Pradesh — The territories specified in sub-section (1) of section 9 of the States Reorganisation Act, 1956,.
+6. Madhya Pradesh — The territories specified in sub-section (1) of section 9 of the States Reorganisation Act, 1956 and the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959,.
 
 7. Madras — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Madras or were being administered as if they formed part of that Province and the territories specified in section 4 of the States Reorganisation Act, 1956, but excluding the territories specified in sub-section (1) of section 3 and sub-section (1) of section 4 of the Andhra State Act, 1953 and ⟨wording before the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 not yet imported⟩
 
@@ -25,7 +25,7 @@ articles: "Articles 1 and 4"
 
 10. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956
 
-11. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956.
+11. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
 
 13. Uttar Pradesh — 13. Uttar Pradesh
 
