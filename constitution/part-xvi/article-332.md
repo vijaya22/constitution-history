@@ -4,7 +4,7 @@ title: "Reservation of seats for Scheduled Castes and Scheduled Tribes in the Le
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 ---
-(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the tribal areas of Assam, in Nagaland and in Meghalaya, in the Legislative Assembly of every State.
+(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes, except the Scheduled Tribes in the autonomous districts of Assam, in the Legislative Assembly of every State.
 
 (2) Seats shall be reserved also for the autonomous districts in the Legislative Assembly of the State of Assam.
 
