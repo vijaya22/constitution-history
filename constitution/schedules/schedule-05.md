@@ -65,11 +65,13 @@ In particular and without prejudice to the generality of the foregoing power, su
 
 (a) direct that the whole or any specified part of a Scheduled Area shall cease to be a Scheduled Area or a part of such an area;
 
+(aa) increase the area of any Scheduled Area in a State after consultation with the Governor of that State;
+
 (b) alter, but only by way of rectification of boundaries, any Scheduled Area;
 
 (c) on any alteration of the boundaries of a State or on the admission into the Union or the establishment of a new State, declare any territory not previously included in any State to be, or to form part of, a Scheduled Area;
 
-and any such order may contain such incidental and consequential provisions as appear to the President to be necessary and proper, but save as aforesaid, the order made under sub-paragraph (1) of this paragraph shall not be varied by any subsequent order.
+(d) rescind, in relation to any State or States, any order or orders made under this paragraph, and in consultation with the Governor of the State concerned, make fresh orders redefining the areas which are to be Scheduled Areas; and any such order may contain such incidental and consequential provisions as appear to the President to be necessary and proper, but save as aforesaid, the order made under sub-paragraph (1) of this paragraph shall not be varied by any subsequent order.
 
 ### PART D
 
