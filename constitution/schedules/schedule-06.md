@@ -23,13 +23,13 @@ Provisions as to the Administration of Tribal Areas in ⟨wording before the Sta
 
 (f) unite two or more autonomous districts or parts thereof so as to form one autonomous district;
 
-;
+(ff) alter the name of any autonomous district;
 
 (g) define the boundaries of any autonomous district:
 
 Provided that no order shall be made by the Governor under clauses (c), (d), (e) and (f) of this sub-paragraph except after consideration of the report of a Commission appointed under sub-paragraph (1) of paragraph 14 of this Schedule:
 
-2. Constitution of District Councils and Regional Councils.—(1) There shall be a District Council for each autonomous district consisting of not more than twenty-four members, of whom not less than three-fourths shall be elected on the basis of adult suffrage.
+2. Constitution of District Councils and Regional Councils.—(1) There shall be a District Council for each autonomous district consisting of not more than thirty members, of whom not more than four persons shall be nominated by the Governor and the rest shall be elected on the basis of adult suffrage.
 
 (2) There shall be a separate Regional Council for each area constituted an autonomous region under sub-paragraph (2) of paragraph 1 of this Schedule.
 
@@ -49,23 +49,27 @@ Provided that no order shall be made by the Governor under clauses (c), (d), (e)
 
 (d) the qualifications for being elected at such elections as members of such Councils;
 
-(e) the term of office of members of such Councils;
+(e) the term of office of members of Regional Councils;
 
 (f) any other matter relating to or connected with elections or nominations to such Councils;
 
-(g) the procedure and the conduct of business in the District and Regional Councils;
+(g) the procedure and the conduct of business (including the power to act notwithstanding any vacancy) in the District and Regional Councils;
 
 (h) the appointment of officers and staff of the District and Regional Councils.
 
-(7) The District or the Regional Council may after its first constitution make rules with regard to the matters specified in sub-paragraph (6) of this paragraph and may also make rules regulating—
+(6A) The elected members of the District Council shall hold office for a term of five years from the date appointed for the first meeting of the Council after the general elections to the Council, unless the District Council is sooner dissolved under paragraph 16 and a nominated member shall hold office at the pleasure of the Governor:
+
+Provided that the said period of five years may, while a Proclamation of Emergency is in operation or if circumstances exist which, in the opinion of the Governor, render the holding of elections impracticable, be extended by the Governor for a period not exceeding one year at a time and in any case where a Proclamation of Emergency is in operation not extending beyond a period of six months after the Proclamation has ceased to operate:
+
+Provided further that a member elected to fill a casual vacancy shall hold office only for the remainder of the term of office of the member whom he replaces.
+
+(7) The District or the Regional Council may after its first constitution make rules with the approval of the Governor with regard to the matters specified in sub-paragraph (6) of this paragraph and may also make rules with like approval regulating—
 
 (a) the formation of subordinate local Councils or Boards and their procedure and the conduct of their business; and
 
 (b) generally all matters relating to the transaction of business pertaining to the administration of the district or region, as the case may be:
 
 Provided that until rules are made by the District or the Regional Council under this sub-paragraph the rules made by the Governor under sub-paragraph (6) of this paragraph shall have effect in respect of elections to, the officers and staff of, and the procedure and the conduct of business in, each such Council.
-
-Provided further that the Deputy Commissioner or the Sub-Divisional Officer, as the case may be, of the North Cachar and Mikir Hills shall be the Chairman ex-officio of the District Council in respect of the territories included in items 5 and 6 respectively of Part A of the table appended to paragraph 20 of this Schedule and shall have power for a period of six years after the first constitution of the District Council, subject to the control of the Governor, to annul or modify any resolution or decision of the District Council or to issue such instructions to the District Council, as he may consider appropriate, and the District Council shall comply with every such instruction issued.
 
 3. Powers of the District Councils and Regional Councils to make laws.—(1) The Regional Council for an autonomous region in respect of all areas within such region and the District Council for an autonomous district in respect of all areas within the district except those which are under the authority of Regional Councils, if any, within the district shall have power to make laws with respect to—
 
@@ -87,7 +91,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (h) the inheritance of property;
 
-(i) marriage;
+(i) marriage and divorce;
 
 (j) social customs.
 
@@ -113,13 +117,101 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (e) all other ancillary matters for the carrying out of the provisions of sub-paragraphs (1) and (2) of this paragraph.
 
+(5) On and from such date as the President may, ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩, by notification appoint in this behalf, this paragraph shall have effect in relation to such autonomous district or region as may be specified in the notification, as if—
+
+(i) in sub-paragraph (1), for the words “between the parties all of whom belong to Scheduled Tribes within such areas, other than suits and cases to which the provisions of sub-paragraph (1) of paragraph 5 of this Schedule apply,”, the words “not being suits and cases of the nature referred to in sub-paragraph (1) of paragraph (5) of this Schedule, which the Governor may specify in this behalf,” had been substituted;
+
+(ii) sub-paragraphs (2) and (3) had been omitted;
+
+(iii) in sub-paragraph (4)—
+
+(a) for the words “A Regional Council or District Council, as the case may be, may with the previous approval of the Governor make rules regulating”, the words “the Governor may make rules regulating” had been substituted; and
+
+(b) for clause (a), the following clause had been substituted, namely:—
+
+“(a) the constitution of village councils and courts, the powers to be exercised by them under this paragraph and the courts to which appeals from the decisions of village councils and courts shall lie;”;
+
+(c) for clause (c), the following clause had been substituted, namely:—
+
+“(c) the transfer of appeals and other proceedings pending before the Regional or District Council or any court constituted by such Council immediately before the date appointed by the President under sub-paragraph
+
+(5);”; and
+
+(d) in clause (e), for the words, brackets and figures “sub-paragraphs (1) and (2)”, the word, brackets and figure “sub-paragraph (1)” had been substituted.
+
 5. Conferment of powers under the Code of Civil Procedure, 1908, and the Code of Criminal Procedure, 18981, on the Regional and District Councils and on certain courts and officers for the trial of certain suits, cases and offences.—(1) The Governor may, for the trial of suits or cases arising out of any law in force in any autonomous district or region being a law specified in that behalf by the Governor, or for the trial of offences punishable with death, transportation for life, or imprisonment for a term of not less than five years under the Indian Penal Code or under any other law for the time being applicable to such district or region, confer on the District Council or the Regional Council having authority over such district or region or on courts constituted by such District Council or on any officer appointed in that behalf by the Governor, such powers under the Code of Civil Procedure, 1908, or, as the case may be, the Code of Criminal Procedure, 18981, as he deems appropriate, and thereupon the said Council, court or officer shall try the suits, cases or offences in exercise of the powers so conferred.
 
 (2) The Governor may withdraw or modify any of the powers conferred on a District Council, Regional Council, court or officer under sub-paragraph (1) of this paragraph.
 
 (3) Save as expressly provided in this paragraph, the Code of Civil Procedure, 1908, and the Code of Criminal Procedure, 18981, shall not apply to the trial of any suits, cases or offences in an autonomous district or in any autonomous region to which the provisions of this paragraph apply.
 
-paragraph 6
+(4) On and from the date appointed by the President under sub-paragraph (5) of paragraph 4 in relation to any autonomous district or autonomous region, nothing contained in this paragraph shall, in its application to that district or region, be deemed to authorise the Governor to confer on the District Council or Regional Council or on courts constituted by the District Council any of the powers referred to in sub-paragraph (1) of this paragraph.
+
+6. Powers of the District Council to establish primary schools, etc.— (1) The District Council for an autonomous district may establish, construct, or manage primary schools, dispensaries, markets, cattle ponds, ferries, fisheries, roads, road transport and waterways in the district and may, with the previous approval of the Governor, make regulations for the regulation and control thereof and, in particular, may prescribe the language and the manner in which primary education shall be imparted in the primary schools in the district.
+
+(2) The Governor may, with the consent of any District Council, entrust either conditionally or unconditionally to that Council or to its officers functions in relation to agriculture, animal husbandry, community projects, co-operative societies, social welfare, village planning or any other matter to which the executive power of the State of Assam or Meghalaya, as the case may be, extends.
+
+7. District and Regional Funds.—(1) There shall be constituted for each autonomous district, a District Fund and for each autonomous region, a Regional Fund to which shall be credited all moneys received respectively by the District Council for that district and the Regional Council for that region in the course of the administration of such district or region, as the case may be, in accordance with the provisions of this Constitution.
+
+(2) The Governor may make rules for the management of the District Fund, or, as the case may be, the Regional Fund and for the procedure to be followed in respect of payment of money into the said Fund, the withdrawal of moneys therefrom, the custody of moneys therein and any other matter connected with or ancillary to the matters aforesaid.
+
+(3) The accounts of the District Council or, as the case may be, the Regional Council shall be kept in such form as the Comptroller and Auditor-General of India may, with the approval of the President, prescribe.
+
+(4) The Comptroller and Auditor-General shall cause the accounts of the District and Regional Councils to be audited in such manner as he may think fit, and the reports of the Comptroller and Auditor-General relating to such accounts shall be submitted to the Governor who shall cause them to be laid before the Council.
+
+8. Powers to assess and collect land revenue and to impose taxes.—(1) The Regional Council for an autonomous region in respect of all lands within such region and the District Council for an autonomous district in respect of all lands within the district except those which are in the areas under the authority of Regional Councils, if any, within the district, shall have the power to assess and collect revenue in respect of such lands in accordance with the principles for the time being followed ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
+
+(2) The Regional Council for an autonomous region in respect of areas within such region and the District Council for an autonomous district in respect of all areas in the district except those which are under the authority of Regional Councils, if any, within the district, shall have power to levy and collect taxes on lands and buildings, and tolls on persons resident within such areas.
+
+(3) The District Council for an autonomous district shall have the power to levy and collect all or any of the following taxes within such district, that is to say —
+
+(a) taxes on professions, trades, callings and employments;
+
+(b) taxes on animals, vehicles and boats;
+
+(c) taxes on the entry of goods into a market for sale therein, and tolls on passengers and goods carried in ferries; and
+
+(d) taxes for the maintenance of schools, dispensaries or roads;
+
+(4) A Regional Council or District Council, as the case may be, may make regulations to provide for the levy and collection of any of the taxes specified in sub-paragraphs (2) and (3) of this paragraph and every such regulation shall be submitted forthwith to the Governor and, until assented to by him, shall have no effect.
+
+9. Licences or leases for the purpose of prospecting for, or extraction of, minerals.—(1) Such share of the royalties accruing each year from licences or leases for the purpose of prospecting for, or the extraction of, minerals granted by the Government of Assam in respect of any area within an autonomous district as may be agreed upon between the Government of Assam and the District Council of such district shall be made over to that District Council.
+
+(2) If any dispute arises as to the share of such royalties to be made over to a District Council, it shall be referred to the Governor for determination and the amount determined by the Governor in his discretion shall be deemed to be the amount payable under sub-paragraph (1) of this paragraph to the District Council and the decision of the Governor shall be final.
+
+10. Power of District Council to make regulations for the control of money-lending and trading by non-tribals.—(1) The District Council of an autonomous district may make regulations for the regulation and control of money-lending or trading within the district by persons other than Scheduled Tribes resident in the district.
+
+(2) In particular and without prejudice to the generality of the foregoing power, such regulations may—
+
+(a) prescribe that no one except the holder of a licence issued in that behalf shall carry on the business of money-lending;
+
+(b) prescribe the maximum rate of interest which may be charged or be recovered by a money-lender;
+
+(c) provide for the maintenance of accounts by money-lenders and for the inspection of such accounts by officers appointed in that behalf by the District Council;
+
+(d) prescribe that no person who is not a member of the Scheduled Tribes resident in the district shall carry on wholesale or retail business in any commodity except under a licence issued in that behalf by the District Council:
+
+Provided that no regulations may be made under this paragraph unless they are passed by a majority of not less than three-fourths of the total membership of the District Council:
+
+Provided further that it shall not be competent under any such regulations to refuse the grant of a licence to a money-lender or a trader who has been carrying on business within the district since before the time of the making of such regulations.
+
+(3) All regulations made under this paragraph shall be submitted forthwith to the Governor and, until assented to by him, shall have no effect.
+
+* * *
+
+11. Publication of laws, rules and regulations made under the Schedule.—All laws, rules and regulations made under this Schedule by a District Council or a Regional Council shall be published forthwith in the Official Gazette of the State and shall on such publication have the force of law.
+
+-
+
+12. ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩.— (1) Notwithstanding anything in this Constitution,—
+
+(a) no Act of the Legislature of the State in respect of any of the matters specified in paragraph 3 of this Schedule as matters with respect to which a District Council or a Regional Council may make laws, and no Act of the Legislature of the State of Assam prohibiting or restricting the consumption of any non-distilled alcoholic liquor shall apply to any autonomous district or autonomous region unless in either case the District Council for such district or having jurisdiction over such region by public notification so directs, and the District Council in giving such direction with respect to any Act may direct that the Act shall in its application to such district or region or any part thereof have effect subject to such exceptions or modifications as it thinks fit;
+
+(b) the Governor may, by public notification, direct that any Act of Parliament or of the Legislature of the State to which the provisions of clause (a) of this sub-paragraph do not apply shall not apply to an autonomous district or an autonomous region, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification.
+
+(2) Any direction given under sub-paragraph (1) of this paragraph may be given so as to have retrospective effect.
+
+⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
 
 13. Estimated receipts and expenditure pertaining to autonomous districts to be shown separately in the annual financial statement.—The estimated receipts and expenditure pertaining to an autonomous district which are to be credited to, or is to be made from, the Consolidated Fund of the State of Assam shall be first placed before the District Council for discussion and then after such discussion be shown separately in the annual financial statement of the State to be laid before the Legislature of the State under article 202.
 
@@ -135,13 +227,13 @@ paragraph 6
 
 (3) In allocating the business of the Government of the State among his Ministers the Governor may place one of his Ministers specially in charge of the welfare of the autonomous districts and autonomous regions in the State.
 
-15. Annulment or suspension of acts and resolutions of District and Regional Councils.—(1) If at any time the Governor is satisfied that an act or resolution of a District or a Regional Council is likely to endanger the safety of India, he may annul or suspend such act or resolution and take such steps as he may consider necessary (including the suspension of the Council and the assumption to himself of all or any of the powers vested in or exercisable by the Council) to prevent the commission or continuance of such act, or the giving of effect to such resolution.
+15. Annulment or suspension of acts and resolutions of District and Regional Councils.—(1) If at any time the Governor is satisfied that an act or resolution of a District or a Regional Council is likely to endanger the safety of India or is likely to be prejudicial to public order, he may annul or suspend such act or resolution and take such steps as he may consider necessary (including the suspension of the Council and the assumption to himself of all or any of the powers vested in or exercisable by the Council) to prevent the commission or continuance of such act, or the giving of effect to such resolution.
 
 (2) Any order made by the Governor under sub-paragraph (1) of this paragraph together with the reasons therefor shall be laid before the Legislature of the State as soon as possible and the order shall, unless revoked by the Legislature of the State, continue in force for a period of twelve months from the date on which it was so made:
 
 Provided that if and so often as a resolution approving the continuance in force of such order is passed by the Legislature of the State, the order shall unless cancelled by the Governor continue in force for a further period of twelve months from the date on which under this paragraph it would otherwise have ceased to operate.
 
-16. Dissolution of a District or a Regional Council.— The Governor may on the recommendation of a Commission appointed under paragraph 14 of this Schedule by public notification order the dissolution of a District or a Regional Council, and—
+16. Dissolution of a District or a Regional Council.— (1) The Governor may on the recommendation of a Commission appointed under paragraph 14 of this Schedule by public notification order the dissolution of a District or a Regional Council, and—
 
 (a) direct that a fresh general election shall be held immediately for the reconstitution of the Council; or
 
@@ -150,6 +242,12 @@ Provided that if and so often as a resolution approving the continuance in force
 Provided that when an order under clause (a) of this paragraph has been made, the Governor may take the action referred to in clause (b) of this paragraph with regard to the administration of the area in question pending the reconstitution of the Council on fresh general election:
 
 Provided further that no action shall be taken under clause (b) of this paragraph without giving the District or the Regional Council, as the case may be, an opportunity of placing its views before the Legislature of the State.
+
+(2) If at any time the Governor is satisfied that a situation has arisen in which the administration of an autonomous district or region cannot be carried on in accordance with the provisions of this Schedule, he may, by public notification, assume to himself all or any of the functions or powers vested in or exercisable by the District Council or, as the case may be, the Regional Council and declare that such functions or powers shall be exercisable by such person or authority as he may specify in this behalf, for a period not exceeding six months:
+
+Provided that the Governor may by a further order or orders extend the operation of the initial order by a period not exceeding six months on each occasion.
+
+(3) Every order made under sub-paragraph (2) of this paragraph with the reasons therefor shall be laid before the Legislature of the State and shall cease to operate at the expiration of thirty days from the date on which the State Legislature first sits after the issue of the order, unless, before the expiry of that period it has been approved by that State Legislature.
 
 17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam, the Governor may by order declare that any area within an autonomous district shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
 
