@@ -435,4 +435,6 @@ articles: "Article 31B"
 
 257. The Mahe Land Reforms (Amendment) Act, 1980 (Pondicherry Act 1 of 1981).
 
+257A. The Tamil Nadu Backward Classes, Scheduled Castes and Scheduled Tribes (Reservation of Seats in Educational Institutions and of appointments or posts in the Services under the State) Act, 1993 (Tamil Nadu Act 45 of 1994).
+
 Explanation:—Any acquisition made under the Rajasthan Tenancy Act, 1955 (Rajasthan Act 3 of 1955), in contravention of the second proviso to clause(1) of article 31A shall, to the entent of the contravention, be void.
