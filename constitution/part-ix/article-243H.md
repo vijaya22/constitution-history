@@ -1,0 +1,15 @@
+---
+article: "243H"
+title: "Powers to impose taxes by, and Funds of, the Panchayats"
+part: "IX"
+part_title: "THE PANCHAYATS"
+---
+The Legislature of a State may, by law,—
+
+(a) authorise a Panchayat to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;
+
+(b) assign to a Panchayat such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;
+
+(c) provide for making such grants-in-aid to the Panchayats from the Consolidated Fund of the State; and
+
+(d) provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Panchayats and also for the withdrawal of such moneys therefrom, as may be specified in the law.

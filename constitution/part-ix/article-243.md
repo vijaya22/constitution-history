@@ -1,8 +1,21 @@
 ---
 article: "243"
-title: "Administration of territories specified in Part D of the First Schedule and other territories not specified in that Schedule"
+title: "Definitions"
 part: "IX"
-part_title: "THE TERRITORIES IN PART D OF THE FIRST SCHEDULE AND OTHER TERRITORIES NOT SPECIFIED IN THAT SCHEDULE"
-status: "omitted"
+part_title: "THE PANCHAYATS"
 ---
+In this Part, unless the context otherwise requires,—
 
+(a) “district” means a district in a State;
+
+(b) “Gram Sabha” means a body consisting of persons registered in the electoral rolls relating to a village comprised within the area of Panchayat at the village level;
+
+(c) “intermediate level” means a level between the village and district levels specified by the Governor of a State by public notification to be the intermediate level for the purposes of this Part;
+
+(d) “Panchayat” means an institution (by whatever name called) of self-government constituted under article 243B, for the rural areas;
+
+(e) “Panchayat area” means the territorial area of a Panchayat;
+
+(f) “Population” means the population as ascertained at the last preceding census of which the relevant figures have been published;
+
+(g) “village” means a village specified by the Governor by public notification to be a village for the purposes of this Part and includes a group of villages so specified.
