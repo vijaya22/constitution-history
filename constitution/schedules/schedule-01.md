@@ -55,7 +55,7 @@ articles: "Articles 1 and 4"
 
 2. The Andaman and Nicobar Islands — The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner’s Province of the Andaman and Nicobar Islands.
 
-3. The Laccadive, Minicoy and Amindivi Islands — The territory specified in section 6 of the States Reorganisation Act, 1956.
+3. Lakshadweep — The territory specified in section 6 of the States Reorganisation Act, 1956.
 
 ⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
 

@@ -3,13 +3,12 @@ article: "240"
 title: "Power of President to make regulations for certain Union territories"
 part: "VIII"
 part_title: "THE UNION TERRITORIES"
-effective: "1972-02-15"
 ---
 (1) The President may make regulations for the peace, progress and good government of the Union territory of—
 
 (a) the Andaman and Nicobar Islands;
 
-(b) the Laccadive, Minicoy and Amindivi Islands.
+(b) Lakshadweep;
 
 (c) Dadra and Nagar Haveli;
 
