@@ -12,4 +12,6 @@ part_title: "THE UNION TERRITORIES"
 
 (c) Dadra and Nagar Haveli;
 
+(d) Goa, Daman and Diu
+
 (2) Any regulation so made may repeal or amend any Act made by Parliament or any existing law, which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.
