@@ -16,6 +16,8 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (b) in any other case, such number of seats as bears to the total number of seats, a proportion not less than the number (as on the said date) of members belonging to the Scheduled Tribes in the existing Assembly bears to the total number of seats in the existing Assembly.
 
+(3B) Notwithstanding anything contained in clause (3), until the re-adjustment, under article 170, takes effect on the basis of the first census after the year 2000, of the number of seats in the Legislative Assembly of the State of Tripura, the seats which shall be reserved for the Scheduled Tribes in the Legislative Assembly shall be, such number of seats as bears to the total number of seats, a proportion not less than the number, as on the date of coming into force of the Constitution (Seventy-second Amendment) Act, 1992, of members belonging to the Scheduled Tribes in the Legislative Assembly in existence on the said date bears to the total number of seats in that Assembly.
+
 (4) The number of seats reserved for an autonomous district in the Legislative Assembly of the State of Assam shall bear to the total number of seats in that Assembly a proportion not less than the population of the district bears to the total population of the State.
 
 (5) The constituencies for the seats reserved for any autonomous district of Assam shall not comprise any area outside that district.
