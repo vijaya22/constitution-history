@@ -2,9 +2,9 @@
 article: "221"
 title: "Salaries, etc., of Judges"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-(1) There shall be paid to the Judges of each High Court such salaries as are specified in the Second Schedule.
+(1) There shall be paid to the Judges of each High Court such salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such salaries as are specified in the Second Schedule.
 
 (2) Every Judge shall be entitled to such allowances and to such rights in respect of leave of absence and pension as may from time to time be determined by or under law made by Parliament and, until so determined, to such allowances and rights as are specified in the Second Schedule:
 

@@ -45,9 +45,9 @@ PROVISIONS AS TO THE JUDGES OF THE SUPREME COURT AND OF THE
 
 9. [(1) There shall be paid to the Judges of the Supreme Court, in respect of time spent on actual service, salary at the following rates per mensem, that is to say:—
 
-The Chief Justice — 5,000 rupees to 10,000 rupees.
+The Chief Justice — 10,000 rupees..
 
-Any other Judge — 4,000 rupees.
+Any other Judge — 9,000 rupees..
 
 Provided that if a Judge of the Supreme Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of any previous service under the Government of India or any of its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the Supreme Court shall be reduced—
 
@@ -71,9 +71,9 @@ Provided that if a Judge of the Supreme Court at the time of his appointment is 
 
 10. (1) There shall be paid to the Judges of High Courts, in respect of time spent on actual service, salary at the following rates per mensem, that is to say,—
 
-The Chief Justice — 4,000 rupees
+The Chief Justice — 9,000 rupees
 
-Any other Judge — 3,500 rupees:
+Any other Judge — 8,000 rupees:
 
 Provided that if a Judge of a High Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of any previous service under the Government of India or any of its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the High Court shall be reduced—
 
