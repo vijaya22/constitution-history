@@ -1,10 +1,10 @@
 ---
 article: "371"
-title: "Special provision with respect to the States of Andhra Pradesh Maharashtra and Gujarat"
+title: "Special provision with respect to the States of Maharashtra and Gujarat"
 part: "XXI"
-part_title: "TEMPORARY AND TRANSITIONAL PROVISIONS"
+part_title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
 ---
-(1) Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Andhra Pradesh or Punjab, provide for the constitution and functions of regional committees of the Legislative Assembly of the State, for the modifications to be made in the rules of business of the Government and in the rules of procedure of the Legislative Assembly of the State and for any special responsibility of the Governor in order to secure the proper functioning for the regional committees.
+(1) * * * * *
 
 (2) Notwithstanding anything in this Constitution, the President may by order made with respect to the State of Maharashtra or Gujarat, provide for any special responsibility of the Governor for—
 
