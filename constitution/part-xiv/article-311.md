@@ -6,14 +6,14 @@ part_title: "SERVICES UNDER THE UNION AND THE STATES"
 ---
 (1) No person who is a member of a civil service of the Union or an all-India service or a civil service of a State or holds a civil post under the Union or a State shall be dismissed or removed by an authority subordinate to that by which he was appointed.
 
-(2) No such person as aforesaid shall be dismissed or removed or reduced in rank until he has been given a reasonable opportunity of showing cause against the action proposed to be taken in regard to him:
+(2) No such person as aforesaid shall be dismissed or removed or reduced in rank except after an inquiry in which he has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges and where it is proposed, after such inquiry, to impose on him any such penalty, until he has been given a reasonable opportunity of making representation on the penalty proposed, but only on the basis of the evidence adduced during such inquiry:
 
 Provided that this clause shall not apply—
 
-(a) where a person is dismissed or removed or reduced in rank on the ground of conduct which has led to his conviction on a criminal charge;
+(a) where a person is dismissed or removed or reduced in rank on the ground of conduct which has led to his conviction on a criminal charge; or
 
-(b) where an authority empowered to dismiss or remove a person or to reduce him in rank is satisfied that for some reason, to be recorded by that authority in writing, it is not reasonably practicable to give to that person an opportunity of showing cause; or
+(b) where the authority empowered to dismiss or remove a person or to reduce him in rank is satisfied that for some reason, to be recorded by that authority in writing, it is not reasonably practicable to hold such inquiry; or
 
-(c) where the President or Governor, as the case may be, is satisfied that in the interest of the security of the State it is not expedient to give to that person such an opportunity.
+(c) where the President or the Governor, as the case may be, is satisfied that in the interest of the security of the State it is not expedient to hold such inquiry.
 
-(3) If any question arises whether it is reasonably practicable to give to any person an opportunity of showing cause under clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank, as the case may be, shall be final.
+(3) If, in respect of any such person as aforesaid, a question arises whether it is reasonably practicable to hold such inquiry as is referred to in clause (2), the decision thereon of the authority empowered to dismiss or remove such person or to reduce him in rank shall be final.

@@ -4,7 +4,7 @@ title: "Appointment and conditions of the office of a Judge of a High Court"
 part: "VI"
 part_title: "THE STATES"
 ---
-(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty years
+(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty-two years:
 
 Provided that—
 
@@ -27,3 +27,5 @@ Explanation.—For the purposes of this clause—
 (a) in computing the period during which a person has been an advocate of a High Court, there shall be included any period during which the person has held judicial office after he became an advocate;
 
 (b) in computing the period during which a person has held judicial office in the territory of India or been an advocate of a High Court, there shall be included any period before the commencement of this Constitution during which he has held judicial office in any area which was comprised before the fifteenth day of August, 1947, within India as defined by the Government of India Act, 1935, or has been an advocate of any High Court in any such area, as the case may be.
+
+(3) If any question arises as to the age of a Judge of a High Court, the question shall be decided by the President after consultation with the Chief Justice of India and the decision of the President shall be final.

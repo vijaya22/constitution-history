@@ -8,4 +8,4 @@ part_title: "THE STATES"
 
 (2) When any Judge of a High Court other than the Chief Justice is by reason of absence or for any other reason unable to perform the duties of his office or is appointed to act temporarily as Chief Justice, the President may appoint a duly qualified person to act as a Judge of that Court until the permanent Judge has resumed his duties.
 
-(3) No person appointed as an additional or acting Judge of a High Court shall hold office after attaining the age of sixty years.
+(3) No person appointed as an additional or acting Judge of a High Court shall hold office after attaining the age of sixty-two years.

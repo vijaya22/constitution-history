@@ -16,6 +16,8 @@ provided further that—
 
 (b) a Judge may be removed from his office in the manner provided in clause (4).
 
+(2A) The age of a Judge of the Supreme Court shall be determined by such authority and in such manner as Parliament may by law provide.
+
 (3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and—
 
 (a) has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or

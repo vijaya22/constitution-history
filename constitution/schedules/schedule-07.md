@@ -165,7 +165,7 @@ articles: "Article 246"
 
 77. Constitution, organisation, jurisdiction and powers of the Supreme Court (including contempt of such Court), and the fees taken therein; persons entitled to practise before the Supreme Court.
 
-78. Constitution and organisation of the High Courts except provisions as to officers and servants of High Courts; persons entitled to practise before the High Courts.
+78. Constitution and organisation (including vacations) of the High Courts except provisions as to officers and servants of High Courts; persons entitled to practise before the High Courts.
 
 79. Extension of the jurisdiction of a High Court to, and exclusion of the jurisdiction of a High Court from, any Union territory.
 
