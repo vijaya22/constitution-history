@@ -12,7 +12,9 @@ part_title: "THE UNION"
 
 (a) becomes subject to any of the disqualifications mentioned in cl. (1) of art. 102; or
 
-(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, his seat shall thereupon become vacant:
+(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, and his resignation is accepted by the Chairman or the Speaker, as the case may be, his seat shall thereupon become vacant:
+
+Provided that in the case of any resignation referred to in sub-clause (b), if from information received or otherwise and after making such inquiry as he thinks fit, the Chairman or the Speaker, as the case may be, is satisfied that such resignation is not voluntary or genuine, he shall not accept such resignation.
 
 (4) If for a period of sixty days a member of either House of Parliament is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:
 
