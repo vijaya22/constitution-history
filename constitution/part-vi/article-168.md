@@ -6,7 +6,7 @@ part_title: "THE STATES"
 ---
 (1) For every State there shall be a Legislature which shall consist of the Governor, and—
 
-(a) in the States of Bihar, Madhya Pradesh, Tamil Nadu, Maharashtra, Karnataka, and Uttar Pradesh, two Houses;
+(a) in the States of Bihar, Madhya Pradesh, Maharashtra, Karnataka, and Uttar Pradesh, two Houses;
 
 (b) in other States, one House.
 
