@@ -5,3 +5,5 @@ part: "XIV"
 part_title: "SERVICES UNDER THE UNION AND THE STATES"
 ---
 Until other provision is made in this behalf under this Constitution, all the laws in force immediately before the commencement of this Constitution and applicable to any public service or any post which continues to exist after the commencement of this Constitution, as an all-India service or as service or post under the Union or a State shall continue in force so far as consistent with the provisions of this Constitution.
+
+CHAPTER II.— PUBLIC SERVICE COMMISSIONS
