@@ -269,17 +269,77 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) All regulations made under clause (b) of sub-paragraph (1) of this paragraph shall be submitted forthwith to the President and, until assented to by him, shall have no effect.
 
-⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
+20. Tribal areas.—(1) The areas specified in Parts I, II and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya and the Union territory of Mizoram.
+
+(2) any reference in the table below to any district shall be construed as a reference to the territories comprised within the autonomous district of that name existing immediately before the day appointed under clause (b) of section 2 of the North-Eastern Areas (Reorganisation) Act, 1971:
+
+Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses (a), (b) and (d) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8 and clause (d) of sub-paragraph (2) of paragraph 10 of this Schedule, no part of the area comprised within the municipality of Shillong shall be deemed to be within the ⟨wording before the Government of Meghalaya Notification No. DCA 31/72/11 not yet imported⟩.
+
+### TABLE
+
+### PART I
+
+1. The North Cachar Hills District.
+
+2. The Mikir Hills District
+
+### PART II
+
+⟨wording before the Government of Meghalaya Notification No. DCA 31/72/11 not yet imported⟩
+
+3. The Garo Hills District.
+
+Tripura Tribal Areas District
 
 ### Part III
 
-The Mizo District.
+20A. Dissolution of the Mizo District Council.—(1) Notwithstanding anything in this Schedule, the District Council of the Mizo District existing immediately before the prescribed date (hereinafter referred to as the Mizo District Council) shall stand dissolved and cease to exist.
 
-⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
+(2) The Administrator of the Union territory of Mizoram may, by one or more orders, provide for all or any of the following matters, namely:—
 
-⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
+(a) the transfer, in whole or in part, of the assets, rights and liabilities of the Mizo District Council (including the rights and liabilities under any contract made by it) to the Union or to any other authority;
 
-⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
+(b) the substitution of the Union or any other authority for the Mizo District Council, or the addition of the Union or any other authority, as a party to any legal proceedings to which the Mizo District Council is a party;
+
+(c) the transfer or re-employment of any employees of the Mizo District Council to or by the Union or any other authority, the terms and conditions of service applicable to such employees after such transfer or re-employment;
+
+(d) the continuance of any laws, made by the Mizo District Council and in force immediately before its dissolution, subject to such adaptations and modifications, whether by way of repeal or amendment, as the Administrator may make in this behalf, until such laws are altered, repealed or amended by a competent Legislature or other competent authority;
+
+(e) such incidental, consequential and supplementary matters as the Administrator considers necessary. Explanation.—In this paragraph and in paragraph 20B of this Schedule, the expression "prescribed date" means the date on which the Legislative Assembly of the Union territory of Mizoram is duly constituted under and in accordance with the provisions of the Government of Union Territories Act, 1963. (20 of 1963)
+
+20B. Autonomous regions in the Union territory of Mizoram to be autonomous districts and transitory provisions consequent thereto.—(1) Notwithstanding anything in this Schedule,—
+
+(a) every autonomous region existing immediately before the prescribed date in the Union territory of Mizoram shall, on and from that date, be an autonomous district in that Union territory (hereafter referred to as the corresponding new district) and the Administrator thereof may, by one or more orders, direct that such consequential amendments as are necessary to give effect to the provisions of this clause shall be made in paragraph 20 of this Schedule (including Part III of the table appended to that paragraph) and thereupon the said paragraph and the said Part III shall be deemed to have been amended accordingly;
+
+(b) every Regional Council of an autonomous region in the Union territory of Mizoram existing immediately before the prescribed date (hereafter referred to as the existing Regional Council) shall, on and from that date and until a District Council is duly constituted for the corresponding new district, be deemed to be the District Council of that district (hereafter referred to as the corresponding new District Council).
+
+(2) Every member whether elected or nominated of an existing Regional Council shall be deemed to have been elected or, as the case may be, nominated to the corresponding new District Council and shall hold office until a District Council is duly constituted for the corresponding new district under this Schedule.
+
+(3) Until rules are made under sub-paragraph (7) of paragraph 2 and sub-paragraph (4) of paragraph 4 of this Schedule by the corresponding new District Council, the rules made under the said provisions by the existing Regional Council and in force immediately before the prescribed date shall have effect in relation to the corresponding new District Council subject to such adaptations and modifications as may be made therein by the Administrator of the Union territory of Mizoram.
+
+(4) The Administrator of the Union territory of Mizoram may, by one or more orders, provide for all or any of the following matters, namely:—
+
+(a) the transfer in whole or in part of the assets, rights and liabilities of the existing Regional Council (including the rights and liabilities under any contract made by it) to the corresponding new District Council;
+
+(b) the substitution of the corresponding new District Council for the existing Regional Council as a party to the legal proceedings to which the existing Regional Council is a party;
+
+(c) the transfer or re-employment of any employees of the existing Regional Council to or by the corresponding new District Council, the terms and conditions of service applicable to such employees after such transfer or re-employment;
+
+(d) the continuance of any laws made by the existing Regional Council and in force immediately before the prescribed date, subject to such adaptations and modifications, whether by way of repeal or amendment, as the Administrator may make in this behalf until such laws are altered, repealed or amended by a competent Legislature or other competent authority;
+
+(e) such incidental, consequential and supplementary matters as the Administrator considers necessary.
+
+20C. Interpretation.—Subject to any provision made in this behalf, the provisions of this Schedule shall, in their application to the Union territory of Mizoram, have effect—
+
+(1) as if references to the Governor and Government of the State were references to the Administrator of the Union territory appointed under article 239, references to State (except in the expression "Government of the State") were references to the Union territory of Mizoram and references to the State Legislature were references to the Legislative Assembly of the Union territory of Mizoram;
+
+(2) as if—
+
+(a) in sub-paragraph (5) of paragraph 4, the provision for consultation with the Government of the State concerned had been omitted;
+
+(b) in sub-paragraph (2) of paragraph 6, for the words "to which the executive power of the State extends", the words "with respect to which the Legislative Assembly of the Union territory of Mizoram has power to make laws" had been substituted;
+
+(c) in paragraph 13, the words and figures "under article 202" had been omitted.
 
 21. Amendment of the Schedule.—(1) Parliament may from time to time by law amend by way of addition, variation or repeal any of the provisions of this Schedule and, when the Schedule is so amended, any reference to this Schedule in this Constitution shall be construed as a reference to such Schedule as so amended.
 
