@@ -25,3 +25,5 @@ It shall be the duty of every citizen of India—
 (i) to safeguard public property and to abjure violence;
 
 (j) to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;
+
+(k) who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.

@@ -1,7 +1,7 @@
 ---
 article: "45"
-title: "Provision for free and compulsory education for children"
+title: "Provision for early childhood care and education to children below the age of six years"
 part: "IV"
 part_title: "DIRECTIVE PRINCIPLES OF STATE POLICY"
 ---
-The State shall endeavour to provide, within a period of ten years from the commencement of this Constitution, for free and compulsory education for all children until they complete the age of fourteen years.
+The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years.
