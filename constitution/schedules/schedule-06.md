@@ -5,7 +5,7 @@ articles: "Articles 244(2) and 275(1)"
 ---
 Provisions as to the Administration of Tribal Areas in ⟨wording before the State of Mizoram Act, 1986 not yet imported⟩
 
-1. Autonomous districts and autonomous regions.—(1) Subject to the provisions of this paragraph, the tribal areas in each item of Part I and II and in Part III of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
+1. Autonomous districts and autonomous regions.—(1) Subject to the provisions of this paragraph, the tribal areas in each item of Parts I, II and IIA and in Part III of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
 
 (2) If there are different Scheduled Tribes in an autonomous district, the Governor may, by public notification, divide the area or areas inhabited by them into autonomous regions.
 
@@ -219,6 +219,8 @@ Provided further that it shall not be competent under any such regulations to re
 
 (b) the President may, with respect to any Act of Parliament, by notification, direct that it shall not apply to an autonomous district or an autonomous region in the State of Meghalaya, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification and any such direction may be given so as to have retrospective effect.
 
+⟨wording before the Sixth Schedule to the Constitution (Amendment) Act, 1988 not yet imported⟩
+
 13. Estimated receipts and expenditure pertaining to autonomous districts to be shown separately in the annual financial statement.—The estimated receipts and expenditure pertaining to an autonomous district which are to be credited to, or is to be made from, the Consolidated Fund of the State shall be first placed before the District Council for discussion and then after such discussion be shown separately in the annual financial statement of the State to be laid before the Legislature of the State under article 202.
 
 14. Appointment of Commission to inquire into and report on the administration of autonomous districts and autonomous regions.—(1) The Governor may at any time appoint a Commission to examine and report on any matter specified by him relating to the administration of the autonomous districts and autonomous regions in the State, including matters specified in clauses (c), (d), (e) and (f) of sub-paragraph (3) of paragraph 1 of this Schedule, or may appoint a Commission to inquire into and report from time to time on the administration of autonomous districts and autonomous regions in the State generally and in particular on—
@@ -255,7 +257,7 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) Every order made under sub-paragraph (2) of this paragraph with the reasons therefor shall be laid before the Legislature of the State and shall cease to operate at the expiration of thirty days from the date on which the State Legislature first sits after the issue of the order, unless, before the expiry of that period it has been approved by that State Legislature.
 
-17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam or Meghalaya, the Governor may by order declare that any area within an autonomous district in the State of Assam or Meghalaya, as the case may be, shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
+17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam or Meghalaya or Tripura, the Governor may by order declare that any area within an autonomous district in the State of Assam or Meghalaya or Tripura, as the case may be, shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
 
 18. * * * * *
 
@@ -269,11 +271,13 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) All regulations made under clause (b) of sub-paragraph (1) of this paragraph shall be submitted forthwith to the President and, until assented to by him, shall have no effect.
 
-20. Tribal areas.—(1) The areas specified in Parts I, II and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya and the Union territory of Mizoram.
+20. Tribal areas.—(1) The areas specified in Parts I, II, IIA and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya, the State of Tripura and the Union territory of Mizoram.
 
-(2) any reference in the table below to any district shall be construed as a reference to the territories comprised within the autonomous district of that name existing immediately before the day appointed under clause (b) of section 2 of the North-Eastern Areas (Reorganisation) Act, 1971:
+(2) Any reference in Part I, Part II or Part III of the table below to any district shall be construed as a reference to the territories comprised within the autonomous district of that name existing immediately before the day appointed under clause (b) of section 2 of the North-Eastern Areas (Reorganisation) Act, 1971:
 
 Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses (a), (b) and (d) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8 and clause (d) of sub-paragraph (2) of paragraph 10 of this Schedule, no part of the area comprised within the municipality of Shillong shall be deemed to be within the Khasi Hills District.
+
+(3) The reference in Part IIA in the table below to the "Tripura Tribal Areas District" shall be construed as a reference to the territory comprising the tribal areas specified in the First Schedule to the Tripura Tribal Areas Autonomous District Council Act, 1979.
 
 ### TABLE
 
@@ -290,6 +294,8 @@ Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of pa
 2. Jaintia Hills District.
 
 3. The Garo Hills District.
+
+### PART IIA
 
 Tripura Tribal Areas District
 
