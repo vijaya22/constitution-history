@@ -25,7 +25,7 @@ articles: "Articles 1 and 4"
 
 10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
-11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956 and the territories referred to in Part II of the First Schedule to the Acquired Territories (Merger) Act, 1960 but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960
+11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956 and the territories referred to in Part II of the First Schedule to the Acquired Territories (Merger) Act, 1960 but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960 and the territories specified in sub-section (1) of section 3, section 4 and sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
 
 12. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
 
@@ -36,6 +36,8 @@ articles: "Articles 1 and 4"
 15. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
 
 16. Nagaland — The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.
+
+17. Haryana — 17. Haryana
 
 ### II. THE UNION TERRITORIES
 
@@ -52,6 +54,8 @@ articles: "Articles 1 and 4"
 ⟨wording before the Goa, Daman and Diu Reorganisation Act, 1987 not yet imported⟩
 
 8. Pondicherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
+
+9. Chandigarh — The territories specified in section 4 of the Punjab Reorganisation Act, 1966.
 
 ⟨wording before the State of Arunachal Pradesh Act, 1986 not yet imported⟩
 
