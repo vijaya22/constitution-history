@@ -1,0 +1,11 @@
+---
+article: "203"
+title: "Procedure in Legislature with respect to estimates"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+(1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of a State shall not be submitted to the vote of the Legislative Assembly, but nothing in this clause shall be construed as preventing the discussion in the Legislature of any of those estimates.
+
+(2) So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the Legislative Assembly, and the Legislative Assembly shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.
+
+(3) No demand for a grant shall be made except on the recommendation of the Governor.

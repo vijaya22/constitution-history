@@ -1,0 +1,9 @@
+---
+article: "23"
+title: "Prohibition of traffic in human beings and forced labour"
+part: "III"
+part_title: "FUNDAMENTAL RIGHTS"
+---
+(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.
+
+(2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.

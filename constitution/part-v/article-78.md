@@ -1,0 +1,13 @@
+---
+article: "78"
+title: "Duties of Prime Minister as respects the furnishing of information to the President, etc"
+part: "V"
+part_title: "THE UNION"
+---
+It shall be the duty of the Prime Minister—
+
+(a) to communicate to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union and proposals for legislation;
+
+(b) to furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for; and
+
+(c) if the President so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.

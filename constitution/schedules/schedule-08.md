@@ -1,0 +1,34 @@
+---
+schedule: "8"
+title: "Eighth Schedule"
+articles: "Articles 344(1) and 351"
+---
+### Languages
+
+1. Assamese.
+
+2. Bengali.
+
+3. Gujarati.
+
+4. Hindi.
+
+5. Kannada.
+
+6. Kashmiri.
+
+7. Malayalam.
+
+8. Marathi.
+
+9. Oriya.
+
+10. Punjabi.
+
+11. Sanskrit.
+
+12. Tamil.
+
+13. Telugu.
+
+14. Urdu.

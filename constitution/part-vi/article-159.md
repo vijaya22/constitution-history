@@ -1,0 +1,9 @@
+---
+article: "159"
+title: "Oath or affirmation by the Governor"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+Every Governor and every person discharging the functions of the Governor shall, before entering upon his office, make and subscribe in the presence of the Chief Justice of the High Court exercising jurisdiction in relation to the State, or, in his absence, the senior most Judge of that Court available, an oath or affirmation in the following form, that is to say—
+
+“I, A. B., do swear in the name of God/solemnly affirm that I will faithfully execute the office of Governor (or discharge the functions of the Governor) of.........(name of the State) and will to the best of my ability preserve, protect and defend the Constitution and the law and that I will devote myself to the service and well-being of the people of..……(name of the State).”.

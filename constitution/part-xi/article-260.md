@@ -1,0 +1,7 @@
+---
+article: "260"
+title: "Jurisdiction of the Union in relation to territories outside India"
+part: "XI"
+part_title: "RELATIONS BETWEEN THE UNION AND THE STATES"
+---
+The Government of India may by agreement with the Government of any territory not being part of the territory of India undertake any executive, legislative or judicial functions vested in the Government of such territory, but every such agreement shall be subject to, and governed by, any law relating to the exercise of foreign jurisdiction for the time being in force.

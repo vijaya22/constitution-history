@@ -1,0 +1,7 @@
+---
+article: "195"
+title: "Salaries and allowances of members"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+Members of the Legislative Assembly and the Legislative Council of a State shall be entitled to receive such salaries and allowances as may from time to time be determined, by the Legislature of the State by law and, until provision in that respect is so made, salaries and allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Legislative Assembly of the corresponding Province.

@@ -1,0 +1,9 @@
+---
+article: "147"
+title: "Interpretation"
+part: "V"
+part_title: "THE UNION"
+---
+In this Chapter and in Chapter V of Part VI, references to any substantial question of law as to the interpretation of this Constitution shall be construed as including references to any substantial question of law as to the interpretation of the Government of India Act, 1935 (including any enactment amending or supplementing that Act), or of any Order in Council or order made thereunder, or of the Indian Independence Act, 1947, or of any order made thereunder.
+
+CHAPTER V.—COMPTROLLER AND AUDITOR-GENERAL OF INDIA

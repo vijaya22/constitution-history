@@ -1,0 +1,7 @@
+---
+article: "106"
+title: "Salaries and allowances of members"
+part: "V"
+part_title: "THE UNION"
+---
+Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.

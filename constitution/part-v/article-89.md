@@ -1,0 +1,9 @@
+---
+article: "89"
+title: "The Chairman and Deputy Chairman of the Council of States"
+part: "V"
+part_title: "THE UNION"
+---
+(1) The Vice- President of India shall be ex officio Chairman of the Council of States.
+
+(2) The Council of States shall, as soon as may be, choose a member of the Council to be Deputy Chairman thereof and, so often as the office of Deputy Chairman becomes vacant, the Council shall choose another member to be Deputy Chairman thereof.

@@ -1,0 +1,7 @@
+---
+article: "178"
+title: "The Speaker and Deputy Speaker of the Legislative Assembly"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+Every Legislative Assembly of a State shall, as soon as may be, choose two members of the Assembly to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes vacant, the Assembly shall choose another member to be Speaker or Deputy Speaker, as the case may be.

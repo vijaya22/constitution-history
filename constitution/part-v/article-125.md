@@ -1,0 +1,11 @@
+---
+article: "125"
+title: "Salaries, etc., of Judges"
+part: "V"
+part_title: "THE UNION"
+---
+(1) There shall be paid to the Judges of the Supreme Court such salaries as are specified in the Second Schedule.
+
+(2) Every Judge shall be entitled to such privileges and allowances and to such rights in respect of leave of absence and pension as may from time to time be determined by or under law made by Parliament and, until so determined, to such privileges, allowances and rights as are specified in the Second Schedule:
+
+Provided that neither the privileges nor the allowances of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage after his appointment.

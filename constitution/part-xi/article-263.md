@@ -1,0 +1,13 @@
+---
+article: "263"
+title: "Provisions with respect to an inter-State Council"
+part: "XI"
+part_title: "RELATIONS BETWEEN THE UNION AND THE STATES"
+---
+If at any time it appears to the President that the public interests would be served by the establishment of a Council charged with the duty of—
+
+(a) inquiring into and advising upon disputes which may have arisen between States;
+
+(b) investigating and discussing subjects in which some or all of the States, or the Union and one or more of the States, have a common interest; or
+
+(c) making recommendations upon any such subject and, in particular, recommendations for the better co-ordination of policy and action with respect to that subject, it shall be lawful for the President by order to establish such a Council, and to define the nature of the duties to be performed by it and its organisation and procedure.

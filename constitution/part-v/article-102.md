@@ -1,0 +1,19 @@
+---
+article: "102"
+title: "Disqualifications for membership"
+part: "V"
+part_title: "THE UNION"
+---
+(1) A person shall be disqualified for being chosen as, and for being, a member of either House of Parliament—
+
+(a) if he holds any office of profit under the Government of India or the Government of any State, other than an office declared by Parliament by law not to disqualify its holder;
+
+(b) if he is of unsound mind and stands so declared by a competent court;
+
+(c) if he is an undischarged insolvent;
+
+(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;
+
+(e) if he is so disqualified by or under any law made by Parliament.
+
+(2) for the purposes of this art. a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State by reason only that he is a Minister either for the Union or for such State.

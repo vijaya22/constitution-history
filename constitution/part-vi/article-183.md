@@ -1,0 +1,15 @@
+---
+article: "183"
+title: "Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+A member holding office as Chairman or Deputy Chairman of a Legislative Council—
+
+(a) shall vacate his office if he ceases to be a member of the Council;
+
+(b) may at any time by writing under his hand addressed, if such member is the Chairman, to the Deputy Chairman, and if such member is the Deputy Chairman, to the Chairman, resign his office; and
+
+(c) may be removed from his office by a resolution of the Council passed by a majority of all the then members of the Council:
+
+Provided that no resolution for the purpose of clause (c) shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution.

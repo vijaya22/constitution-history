@@ -1,0 +1,9 @@
+---
+article: "64"
+title: "The Vice-President to be ex officio Chairman of the Council of States"
+part: "V"
+part_title: "THE UNION"
+---
+The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:
+
+Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.

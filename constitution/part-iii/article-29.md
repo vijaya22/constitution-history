@@ -1,0 +1,9 @@
+---
+article: "29"
+title: "Protection of interests of minorities"
+part: "III"
+part_title: "FUNDAMENTAL RIGHTS"
+---
+(1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.
+
+(2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.

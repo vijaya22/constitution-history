@@ -1,0 +1,9 @@
+---
+article: "142"
+title: "Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc"
+part: "V"
+part_title: "THE UNION"
+---
+(1) The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order1 prescribe.
+
+(2) Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself.

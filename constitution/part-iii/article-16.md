@@ -1,0 +1,15 @@
+---
+article: "16"
+title: "Equality of opportunity in matters of public employment"
+part: "III"
+part_title: "FUNDAMENTAL RIGHTS"
+---
+(1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.
+
+(2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.
+
+(3) Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office under any State specified in the First Schedule or any local or other authority within its territory, any requirement as to residence within that State prior to such employment or appointment.
+
+(4) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.
+
+(5) Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination.

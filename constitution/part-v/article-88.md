@@ -1,0 +1,7 @@
+---
+article: "88"
+title: "Rights of Ministers and Attorney-General as respects Houses"
+part: "V"
+part_title: "THE UNION"
+---
+Every Minister and the Attorney-General of India shall have the right to speak in, and otherwise to take part in the proceedings of, either House, any joint sitting of the Houses, and any committee of Parliament of which he may be named a member, but shall not by virtue of this article be entitled to vote.

@@ -1,0 +1,11 @@
+---
+article: "166"
+title: "Conduct of Business of the Government of a State"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+(1) All executive action of the Government of a State shall be expressed to be taken in the name of the Governor.
+
+(2) Orders and other instruments made and executed in the name of the Governor shall be authenticated in such manner as may be specified in rules to be made by the Governor, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the Governor.
+
+(3) The Governor shall make rules for the more convenient transaction of the business of the Government of the State, and for the allocation among Ministers of the said business in so far as it is not business with respect to which the Governor is by or under this Constitution required to act in his discretion.

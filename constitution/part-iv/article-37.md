@@ -1,0 +1,7 @@
+---
+article: "37"
+title: "Application of the principles contained in this Part"
+part: "IV"
+part_title: "DIRECTIVE PRINCIPLES OF STATE POLICY"
+---
+The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.

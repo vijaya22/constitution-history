@@ -1,0 +1,7 @@
+---
+article: "307"
+title: "Appointment of authority for carrying out the purposes of articles 301 to 304"
+part: "XIII"
+part_title: "TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA"
+---
+Parliament may by law appoint such authority as it considers appropriate for carrying out the purposes of articles 301, 302, 303 and 304, and confer on the authority so appointed such powers and such duties as it thinks necessary.

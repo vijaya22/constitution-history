@@ -1,0 +1,7 @@
+---
+article: "365"
+title: "Effect of failure to comply with, or to give effect to, directions given by the Union"
+part: "XIX"
+part_title: "MISCELLANEOUS"
+---
+Where any State has failed to comply with, or to give effect to, any directions given in the exercise of the executive power of the Union under any of the provisions of this Constitution, it shall be lawful for the President to hold that a situation has arisen in which the Government of the State cannot be carried on in accordance with the provisions of this Constitution.

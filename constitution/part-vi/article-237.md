@@ -1,0 +1,7 @@
+---
+article: "237"
+title: "Application of the provisions of this Chapter to certain class or classes of magistrates"
+part: "VI"
+part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+---
+The Governor may by public notification direct that the foregoing provisions of this Chapter and any rules made thereunder shall with effect from such date as may be fixed by him in that behalf apply in relation to any class or classes of magistrates in the State as they apply in relation to persons appointed to the judicial service of the State subject to such exceptions and modifications as may be specified in the notification.

@@ -1,0 +1,7 @@
+---
+article: "395"
+title: "Repeals"
+part: "XXII"
+part_title: "SHORT TITLE, COMMENCEMENT, AND REPEALS"
+---
+The Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction Act, 1949, are hereby repealed.

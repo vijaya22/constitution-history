@@ -1,0 +1,11 @@
+---
+article: "122"
+title: "Courts not to inquire into proceedings of Parliament"
+part: "V"
+part_title: "THE UNION"
+---
+(1) The validity of any proceedings in Parliament shall not be called in question on the ground of any alleged irregularity of procedure.
+
+(2) No officer or member of Parliament in whom powers are vested by or under this Constitution for regulating procedure or the conduct of business, or for maintaining order, in Parliament shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.
+
+CHAPTER III.—LEGISLATIVE POWERS OF THE PRESIDENT

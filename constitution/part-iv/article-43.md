@@ -1,0 +1,7 @@
+---
+article: "43"
+title: "Living wage, etc., for workers"
+part: "IV"
+part_title: "DIRECTIVE PRINCIPLES OF STATE POLICY"
+---
+The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas.

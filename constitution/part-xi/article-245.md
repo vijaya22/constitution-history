@@ -1,0 +1,9 @@
+---
+article: "245"
+title: "Extent of laws made by Parliament and by the Legislatures of States"
+part: "XI"
+part_title: "RELATIONS BETWEEN THE UNION AND THE STATES"
+---
+(1) Subject to the provisions of this Constitution, Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State.
+
+(2) No law made by Parliament shall be deemed to be invalid on the ground that it would have extra-territorial operation.

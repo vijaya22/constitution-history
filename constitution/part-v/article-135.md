@@ -1,0 +1,7 @@
+---
+article: "135"
+title: "Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court"
+part: "V"
+part_title: "THE UNION"
+---
+Until Parliament by law otherwise provides, the Supreme Court shall also have jurisdiction and powers with respect to any matter to which the provisions of article 133 or article 134 do not apply if jurisdiction and powers in relation to that matter were exercisable by the Federal Court immediately before the commencement of this Constitution under any existing law.

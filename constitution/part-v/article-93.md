@@ -1,0 +1,7 @@
+---
+article: "93"
+title: "The Speaker and Deputy Speaker of the House of the People"
+part: "V"
+part_title: "THE UNION"
+---
+The House of the People shall, as soon as may be, choose two members of the House to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes vacant, the House shall choose another member to be Speaker or Deputy Speaker, as the case may be.
