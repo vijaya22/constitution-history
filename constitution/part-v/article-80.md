@@ -4,7 +4,7 @@ title: "Composition of the Council of States"
 part: "V"
 part_title: "THE UNION"
 ---
-(1) The Council of States shall consist of—
+(1) Subject to the provisions of para. 4 of the Tenth Schedule, The Council of States shall consist of—
 
 (a) twelve members to be nominated by the President in accordance with the provisions of clause (3); and
 
