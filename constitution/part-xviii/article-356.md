@@ -31,5 +31,3 @@ Provided further that if the dissolution of the House of the People takes place 
 (a) a Proclamation of Emergency is in operation, in the whole of India or, as the case may be, in the whole or any part of the State, at the time of the passing of such resolution, and
 
 (b) the Election Commission certifies that the continuance in force of the Proclamation approved under clause (3) during the period specified in such resolution is necessary on account of difficulties in holding general elections to the Legislative Assembly of the State concerned:
-
-Provided that nothing in this clause shall apply to the Proclamation issued under clause (1) on the 11th day of May, 1987 with respect to the State of Punjab.
