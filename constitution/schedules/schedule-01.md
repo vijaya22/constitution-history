@@ -21,7 +21,7 @@ articles: "Articles 1 and 4"
 
 8. Maharashtra — The territories specified in sub-section (1) of section 8 of the States Reorganisation Act, 1956, but excluding the territories referred to in sub-section (1) of section 3 of the Bombay Reorganisation Act, 1960.
 
-9. Mysore — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956 but excluding the territory specified in the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968.
+9. Karnataka — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956 but excluding the territory specified in the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968.
 
 10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
