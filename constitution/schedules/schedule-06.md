@@ -281,7 +281,7 @@ Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of pa
 
 1. The North Cachar Hills District.
 
-2. The Mikir Hills District
+2. The Karbi Anglong District.
 
 ### PART II
 
