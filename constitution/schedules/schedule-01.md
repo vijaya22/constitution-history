@@ -9,7 +9,7 @@ articles: "Articles 1 and 4"
 
 2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962 and the territories specified in sections 5, 6 and 7 of the North-Eastern Areas (Reorganisation) Act, 1971
 
-3. Bihar — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Bihar or were being administered as if they formed part of that Province and the territories specified in clause (a) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, but excluding the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956, and the territories specified in clause (b) of sub-section (1) of section 3 of the first mentioned Act.
+3. Bihar — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Bihar or were being administered as if they formed part of that Province and the territories specified in clause (a) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, but excluding the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956, and the territories specified in clause (b) of sub-section (1) of section 3 of the first mentioned Act and the territories specified in section 3 of the Bihar Reorganisation Act, 2000.
 
 4. Gujarat — The territories referred to in sub-section (1) of section 3 of the Bombay Reorganisation Act, 1960.
 
@@ -58,6 +58,8 @@ articles: "Articles 1 and 4"
 26. Chhattisgarh — The territories specified in section 3 of the Madhya Pradesh Reorganisation Act, 2000.
 
 27. Uttaranchal — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
+
+28. Jharkhand — The territories specified in section 3 of the Bihar Reorganisation Act, 2000.
 
 ### II. THE UNION TERRITORIES
 
