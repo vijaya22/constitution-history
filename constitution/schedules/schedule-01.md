@@ -49,6 +49,8 @@ articles: "Articles 1 and 4"
 
 ⟨wording before the Goa, Daman and Diu Reorganisation Act, 1987 not yet imported⟩
 
+8. Pondicherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
+
 ⟨wording before the State of Arunachal Pradesh Act, 1986 not yet imported⟩
 
 ⟨wording before the State of Arunachal Pradesh Act, 1986 not yet imported⟩
