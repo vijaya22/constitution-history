@@ -13,3 +13,5 @@ part_title: "FUNDAMENTAL RIGHTS"
 (a) “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;
 
 (b) “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.
+
+(4) Nothing in this article shall apply to any amendment of this Constitution made under article 368.
