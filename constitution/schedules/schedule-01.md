@@ -7,7 +7,7 @@ articles: "Articles 1 and 4"
 
 1. Andhra Pradesh — ⟨wording before the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968 not yet imported⟩.
 
-2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951
+2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962
 
 3. Bihar — ⟨wording before the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968 not yet imported⟩
 
@@ -34,6 +34,8 @@ articles: "Articles 1 and 4"
 14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956
 
 15. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
+
+16. Nagaland — The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.
 
 ### II. THE UNION TERRITORIES
 
