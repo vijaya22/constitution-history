@@ -2,11 +2,19 @@
 article: "164"
 title: "Other provisions as to Ministers"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
 (1) The Chief Minister shall be appointed by the Governor and the other Ministers shall be appointed by the Governor on the advice of the Chief Minister, and the Ministers shall hold office during the pleasure of the Governor:
 
 Provided that in the States of Bihar, Madhya Pradesh and Orissa there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and backward classes or any other work.
+
+(1A) The total number of Ministers, including the Chief Minister, in the Council of Ministers in a State shall not exceed fifteen per cent. of the total number of members of the Legislative Assembly of that State:
+
+Provided that the number of Ministers, including the Chief Minister in a State shall not be less than twelve:
+
+Provided further that where the total number of Ministers including the Chief Minister in the Council of Ministers in any State at the commencement of the Constitution (Ninety-first Amendment) Act, 2003 exceeds the said fifteen per cent. or the number specified in the first proviso, as the case may be, then the total number of Ministers in that State shall be brought in conformity with the provisions of this clause within six months from such date4 as the President may by public notification appoint.
+
+(1B) A member of the Legislative Assembly of a State or either House of the Legislature of a State having Legislative Council belonging to any political party who is disqualified for being a member of that House under paragraph 2 of the Tenth Schedule shall also be disqualified to be appointed as a Minister under clause (1) for duration of the period commencing from the date of his disqualification till the date on which the term of his office as such member would expire or where he contests any election to the Legislative Assembly of a State or either House of the Legislature of a State having Legislative Council, as the case may be, before the expiry of such period, till the date on which he is declared elected, whichever is earlier.
 
 (2) The Council of Ministers shall be collectively responsible to the Legislative Assembly of the State.
 
