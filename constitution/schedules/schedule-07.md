@@ -201,6 +201,8 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 92. Taxes on the sale or purchase of newspapers and on advertisements published therein.
 
+92A. Taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce.
+
 93. Offences against laws with respect to any of the matters in this List.
 
 94. Inquires, surveys and statistics for the purpose of any of the matters in this List.
@@ -323,7 +325,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 53. Taxes on the consumption or sale of electricity.
 
-54. Taxes on the sale or purchase of goods other than newspapers.
+54. Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I.
 
 55. Taxes on advertisements other than advertisements published in the newspapers.
 
