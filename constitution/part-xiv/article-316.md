@@ -10,7 +10,7 @@ Provided that as nearly as may be one-half of the members of every Public Servic
 
 (1A) If the office of the Chairman of the Commission becomes vacant or if any such Chairman is by reason of absence or for any other reason unable to perform the duties of his office, those duties shall, until some person appointed under clause (1) to the vacant office has entered on the duties thereof or, as the case may be, until the Chairman has resumed his duties, be performed by such one of the other members of the Commission as the President, in the case of the Union Commission or a Joint Commission, and the Governor of the State in the case of a State Commission, may appoint for the purpose.
 
-(2) A member of a Public Service Commission shall hold office for a term of six years from the date on which he enters upon his office or until he attains, in the case of the Union Commission, the age of sixty-five years, and in the case of a State Commission or a Joint Commission, the age of sixty years, whichever is earlier:
+(2) A member of a Public Service Commission shall hold office for a term of six years from the date on which he enters upon his office or until he attains, in the case of the Union Commission, the age of sixty-five years, and in the case of a State Commission or a Joint Commission, the age of sixty-two years, whichever is earlier:
 
 Provided that—
 
