@@ -17,3 +17,5 @@ Provided further that whenever the said Legislature is dissolved, or its functio
 (b) may be withdrawn at any time by the administrator after obtaining instructions from the President in that behalf.
 
 (3) If and so far as an Ordinance under this article makes any provision which would not be valid if enacted in an Act of the Legislature of the Union territory made after complying with the provisions in that behalf contained in any such law as is referred to in clause (1) of article 239A, it shall be void.
+
+(4) Notwithstanding anything in this Constitution, the satisfaction of administrator mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.

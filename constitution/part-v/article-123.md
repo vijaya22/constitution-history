@@ -15,3 +15,5 @@ part_title: "THE UNION"
 Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.
 
 (3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.
+
+(4) Notwithstanding anything in this Constitution, the satisfaction of the President mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.

@@ -19,3 +19,13 @@ part_title: "EMERGENCY PROVISIONS"
 (ii) a provision requiring all Money Bills or other Bills to which the provisions of article 207 apply to be reserved for the consideration of the President after they are passed by the Legislature of the State;
 
 (b) it shall be competent for the President during the period any Proclamation issued under this article is in operation to issue directions for the reduction of salaries and allowances of all or any class of persons serving in connection with the affairs of the Union including the Judges of the Supreme Court and the High Courts.
+
+(5) Notwithstanding anything in this Constitution—
+
+(a) the satisfaction of the President mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground;
+
+(b) subject to the provisions of clause (2), neither the Supreme Court nor any other court shall have jurisdiction to entertain any question, on any ground, regarding the validity of—
+
+(i) a declaration made by Proclamation by the President to the effect stated in clause (1); or
+
+(ii) the continued operation of such Proclamation.

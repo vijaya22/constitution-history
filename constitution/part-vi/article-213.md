@@ -2,7 +2,7 @@
 article: "213"
 title: "Power of Governor to promulgate Ordinances during recess of Legislature"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
 (1) If at any time, except when the Legislative Assembly of a State is in session, or where there is a Legislative Council in a State, except when both Houses of the Legislature are in session, the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:
 
@@ -25,5 +25,7 @@ Explanation.—Where the Houses of the Legislature of a State having a Legislati
 (3) If and so far as an Ordinance under this article makes any provision which would not be valid if enacted in an Act of the Legislature of the State assented to by the Governor, it shall be void:
 
 Provided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of the Legislature of a State which is repugnant to an Act of Parliament or an existing law with respect to a matter enumerated in the Concurrent List, an Ordinance promulgated under this article in pursuance of instructions from the President shall be deemed to be an Act of the Legislature of the State which has been reserved for the consideration of the President and assented to by him.
+
+(4) Notwithstanding anything in this Constitution, the satisfaction of the Governor mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.
 
 CHAPTER V.—THE HIGH COURTS IN THE STATES
