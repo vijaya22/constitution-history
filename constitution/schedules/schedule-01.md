@@ -39,11 +39,13 @@ articles: "Articles 1 and 4"
 
 17. Haryana — 17. Haryana
 
+18. Himachal Pradesh — The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioners’ Provinces under the names of Himachal Pradesh and Bilaspur and the territories specified in sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
+
 ### II. THE UNION TERRITORIES
 
 1. Delhi — The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner’s Province of Delhi.
 
-⟨wording before the State of Himachal Pradesh Act, 1970 not yet imported⟩
+⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
 
 4. The Andaman and Nicobar Islands — The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner’s Province of the Andaman and Nicobar Islands.
 
