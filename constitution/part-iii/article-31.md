@@ -6,9 +6,13 @@ part_title: "FUNDAMENTAL RIGHTS"
 ---
 (1) No person shall be deprived of his property save by authority of law.
 
-(2) No property shall be compulsorily acquired or requisitioned save for a public purpose and save by authority of a law which provides for compensation for the property so acquired or requisitioned and either fixes the amount of the compensation or specifies the principles on which, and the manner in which, the compensation is to be determined and given; and no such law shall be called in question in any court on the ground that the compensation provided by that law is not adequate.
+(2) No property shall be compulsorily acquired or requisitioned save for a public purpose and save by authority of a law which provides for acquisition or requisitioning of the property for an amount which may be fixed by such law or which may be determined in accordance with such principles and given in such manner as may be specified in such law; and no such law shall be called in question in any court on the ground that the amount so fixed or determined is not adequate or that the whole or any part of such amount is to be given otherwise than in cash:
+
+Provided that in making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1) of article 30, the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.
 
 (2A) Where a law does not provide for the transfer of the ownership or right to possession of any property to the State or to a corporation owned or controlled by the State, it shall not be deemed to provide for the compulsory acquisition or requisitioning of property, notwithstanding that it deprives any person of his property.
+
+(2B) Nothing in sub-clause (f) of clause (1) of article 19 shall affect any such law as is referred to in clause (2).
 
 (3) No such law as is referred to in clause (2) made by the Legislature of a State shall have effect unless such law, having been reserved for the consideration of the President, has received his assent.
 
