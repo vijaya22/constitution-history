@@ -17,20 +17,26 @@ articles: "Articles 344(1) and 351"
 
 6. Kashmiri.
 
-7. Malayalam.
+7. Konkani.
 
-8. Marathi.
+8. Malayalam.
 
-9. Oriya.
+9. Manipuri.
 
-10. Punjabi.
+10. Marathi.
 
-11. Sanskrit.
+11. Nepali.
 
-12. Sindhi.
+12. Oriya.
 
-13. Tamil.
+13. Punjabi.
 
-14. Telugu.
+14. Sanskrit.
 
-15. Urdu.
+15. Sindhi.
+
+16. Tamil.
+
+17. Telugu.
+
+18. Urdu.
