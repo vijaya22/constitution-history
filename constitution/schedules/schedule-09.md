@@ -131,4 +131,8 @@ articles: "Article 31B"
 
 64. The Tripura Land Revenue and Land Reforms Act, 1960 (Central Act 43 of 1960).
 
+65. The Kerala Land Reforms (Amendment) Act, 1969 (Kerala Act 35 of 1969).
+
+66. The Kerala Land Reforms (Amendment) Act, 1971 (Kerala Act 25 of 1971).
+
 Explanation:—Any acquisition made under the Rajasthan Tenancy Act, 1955 (Rajasthan Act 3 of 1955), in contravention of the second proviso to clause(1) of article 31A shall, to the entent of the contravention, be void.
