@@ -4,12 +4,10 @@ title: "Sessions of Parliament, prorogation and dissolution"
 part: "V"
 part_title: "THE UNION"
 ---
-(1) The Houses of Parliament shall be summoned to meet twice at least in every year, and six months shall not intervene between their last sitting in one session and the date appointed for their first sitting in the next session.
+(1) The President shall from time to time summon each House of Parliament to meet at such time and place as he thinks fit, but six months shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session.
 
-(2) Subject to the provisions of clause (1), the President may from time to time—
+(2) The President may from time to time—
 
-(a) summon the Houses or either House to meet at such time and place as he thinks fit;
+(a) prorogue the Houses or either House;
 
-(b) prorogue the Houses;
-
-(c) dissolve the House of the People.
+(b) dissolve the House of the People.
