@@ -6,7 +6,9 @@ part_title: "FUNDAMENTAL RIGHTS"
 ---
 (1) No person shall be deprived of his property save by authority of law.
 
-(2) No property, movable or immovable, including any interest in, or in any company owning, any commercial or industrial undertaking, shall be taken possession of or acquired for public purposes under any law authorising the taking of such possession or such acquisition, unless the law provides for compensation for the property taken possession of or acquired and either fixes the amount of the compensation, or specifies the principles on which, and the manner in which, the compensation is to be determined and given.
+(2) No property shall be compulsorily acquired or requisitioned save for a public purpose and save by authority of a law which provides for compensation for the property so acquired or requisitioned and either fixes the amount of the compensation or specifies the principles on which, and the manner in which, the compensation is to be determined and given; and no such law shall be called in question in any court on the ground that the compensation provided by that law is not adequate.
+
+(2A) Where a law does not provide for the transfer of the ownership or right to possession of any property to the State or to a corporation owned or controlled by the State, it shall not be deemed to provide for the compulsory acquisition or requisitioning of property, notwithstanding that it deprives any person of his property.
 
 (3) No such law as is referred to in clause (2) made by the Legislature of a State shall have effect unless such law, having been reserved for the consideration of the President, has received his assent.
 

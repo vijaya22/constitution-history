@@ -4,12 +4,22 @@ title: "Saving of laws providing for acquisition of estates, etc"
 part: "III"
 part_title: "FUNDAMENTAL RIGHTS"
 ---
-(1) Notwithstanding anything in the foregoing provisions of the part, no law providing for the acquisition by the State of any estate or of any rights therein or for the extinguishment or modification of any such rights shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part:
+(1) Notwithstanding anything contained in article 13, no law providing for—
 
-Provided that where such law is a law made by the Legislature of a State, the provisions of this Article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.
+(a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights; or
+
+(b) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property; or
+
+(c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations; or
+
+(d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof; or
+
+(e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence, shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by article 14, article 19 or article 31:
+
+Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:
 
 (2) In this article,—
 
-(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include any jagir, inam or muafi or other similar grant;
+(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include any jagir, inam or muafi or other similar grant and in the States of Madras and Travancore-Cochin, any janmam right;
 
-(b) the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, or other intermediary and any rights or privileges in respect of land revenue.
+(b) the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.
