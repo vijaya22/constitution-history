@@ -42,10 +42,6 @@ part_title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
 
 (d) contain such supplemental, incidental and consequential provisions (including provisions as to fees and as to limitation, evidence or for the application of any law for the time being in force subject to any exceptions or modifications) as the President may deem necessary.
 
-(5) The Order of the Administrative Tribunal finally disposing of any case shall become effective upon its confirmation by the State Government or on the expiry of three months from the date on which the order is made, whichever is earlier:
-
-Provided that the State Government may, by special order made in writing and for reasons to be specified therein, modify or annul any order of the Administrative Tribunal before it becomes effective and in such a case, the order of the Administrative Tribunal shall have effect only in such modified form or be of no effect, as the case may be.
-
 (6) Every special order made by the State Government under the proviso to clause (5) shall be laid, as soon as may be after it is made, before both Houses of the State Legislature.
 
 (7) The High Court for the State shall not have any powers of superintendence over the Administrative Tribunal and no court (other than the Supreme Court) or tribunal shall exercise any jurisdiction, power or authority in respect of any matter subject to the jurisdiction, power or authority of, or in relation to, the Administrative Tribunal.
