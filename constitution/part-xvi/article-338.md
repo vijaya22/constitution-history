@@ -1,12 +1,12 @@
 ---
 article: "338"
-title: "National Commission for Scheduled Castes and Scheduled Tribes"
+title: "National Commission for Scheduled Castes"
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 ---
-(1) There shall be a Commission for the Scheduled Castes and Scheduled Tribes to be known as the National Commission for the Scheduled Castes and Scheduled Tribes.
+(1) There shall be a Commission for the Scheduled Castes to be known as the National Commission for the Scheduled Castes.
 
-(2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist of a Chairperson, Vice-Chairperson and five other Members and the conditions of service and tenure of office of the Chairperson, Vice-Chairperson and other Members so appointed shall be such as the President may by rule determine.
+(2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist of a Chairperson, Vice-Chairperson and three other Members and the conditions of service and tenure of office of the Chairperson, Vice-Chairperson and other Members so appointed shall be such as the President may by rule determine.
 
 (3) The Chairperson, Vice-Chairperson and other Members of the Commission shall be appointed by the President by warrant under his hand and seal.
 
@@ -14,17 +14,17 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (5) It shall be the duty of the Commission—
 
-(a) to investigate and monitor all matters relating to the safeguards provided for the Scheduled Castes and Scheduled Tribes under this Constitution or under any other law for the time being in force or under any order of the Government and to evaluate the working of such safeguards;
+(a) to investigate and monitor all matters relating to the safeguards provided for the Scheduled Castes under this Constitution or under any other law for the time being in force or under any order of the Government and to evaluate the working of such safeguards;
 
-(b) to inquire into specific complaints with respect to the deprivation of rights and safeguards of the Scheduled Castes and Scheduled Tribes;
+(b) to inquire into specific complaints with respect to the deprivation of rights and safeguards of the Scheduled Castes;
 
-(c) to participate and advise on the planning process of socio-economic development of the Scheduled Castes National Commission for Scheduled Castes and Scheduled Tribes and to evaluate the progress of their development under the Union and any State;
+(c) to participate and advise on the planning process of socio-economic development of the Scheduled Castes and to evaluate the progress of their development under the Union and any State;
 
 (d) to present to the President, annually and at such other times as the Commission may deem fit, reports upon the working of those safeguards;
 
-(e) to make in such reports recommendations as to the measures that should be taken by the Union or any State for the effective implementation of those safeguards and other measures for the protection, welfare and socio-economic development of the Scheduled Castes and Scheduled Tribes; and
+(e) to make in such reports recommendations as to the measures that should be taken by the Union or any State for the effective implementation of those safeguards and other measures for the protection, welfare and socio-economic development of the Scheduled Castes; and
 
-(f) to discharge such other functions in relation to the protection, welfare and development and advancement of the Scheduled Castes and Scheduled Tribes as the President may, subject to the provisions of any law made by Parliament, by rule specify.
+(f) to discharge such other functions in relation to the protection, welfare and development and advancement of the Scheduled Castes as the President may, subject to the provisions of any law made by Parliament, by rule specify.
 
 (6) The President shall cause all such reports to be laid before each House of Parliament along with a memorandum explaining the action taken or proposed to be taken on the recommendations relating to the Union and the reasons for the non-acceptance, if any, of any of such recommendations.
 
@@ -44,6 +44,6 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (f) any other matter which the President may, by rule, determine.
 
-(9) The Union and every State Government shall consult the Commission on all major policy matters affecting Scheduled Castes and Scheduled Tribes.
+(9) The Union and every State Government shall consult the Commission on all major policy matters affecting Scheduled Castes.
 
-(10) In this article, references to the Scheduled Castes and Scheduled Tribes shall be construed as including references to such other backward classes as the President may, on receipt of the report of a Commission appointed under cl. (1) of article 340, by order specify and also to the Anglo-Indian community.
+(10) In this article, references to the Scheduled Castes shall be construed as including references to such other backward classes as the President may, on receipt of the report of a Commission appointed under cl. (1) of article 340, by order specify and also to the Anglo-Indian community.
