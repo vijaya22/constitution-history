@@ -5,3 +5,5 @@ part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 ---
 The claims of the members of the Scheduled Castes and the Scheduled Tribes shall be taken into consideration, consistently with the maintenance of efficiency of administration, in the making of appointments to services and posts in connection with the affairs of the Union or of a State:
+
+Provided that nothing in this article shall prevent in making of any provision in favour of the members of the Scheduled Castes and the Scheduled Tribes for relaxation in qualifying marks in any examination or lowering the standards of evaluation, for reservation in matters or promotion to any class or classes of services or posts in connection with the affairs of the Union or of a State.
