@@ -16,6 +16,8 @@ part_title: "THE PANCHAYATS"
 
 (b) shall be construed to affect the functions and powers of the Darjeeling Gorkha Hill Council constituted under such law.
 
+(3A) Nothing in article 243D, relating to reservation of seats for the Scheduled Castes, shall apply to the State of Arunachal Pradesh.
+
 (4) Notwithstanding anything in this Constitution,—
 
 (a) the Legislature of a State referred to in sub-clause (a) of clause (2) may, by law, extend this Part to that State, except the areas, if any, referred to in clause (1), if the Legislative Assembly of that State passes a resolution to that effect by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting;
