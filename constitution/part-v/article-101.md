@@ -10,7 +10,7 @@ part_title: "THE UNION"
 
 (3) If a member of either House of Parliament—
 
-(a) becomes subject to any of the disqualifications mentioned in cl. (1) of art. 102; or
+(a) becomes subject to any of the disqualifications mentioned in clause (1) or clause (2) of article 102; or
 
 (b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, and his resignation is accepted by the Chairman or the Speaker, as the case may be, his seat shall thereupon become vacant:
 

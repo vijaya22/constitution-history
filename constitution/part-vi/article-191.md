@@ -2,7 +2,7 @@
 article: "191"
 title: "Disqualifications for membership"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
 (1) A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State—
 
@@ -16,4 +16,6 @@ part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
 
 (e) if he is so disqualified by or under any law made by Parliament.
 
-(2) For the purposes of this article, a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State specified in the First Schedule by reason only that he is a Minister either for the Union or for such State.
+Explanation.—For the purposes of this clause, a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State specified in the First Schedule by reason only that he is a Minister either for the Union or for such State.
+
+(2) A person shall be disqualified for being a member of the Legislative Assembly or Legislative Council of a State if he is so disqualified under the Tenth Schedule.

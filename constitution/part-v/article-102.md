@@ -16,4 +16,6 @@ part_title: "THE UNION"
 
 (e) if he is so disqualified by or under any law made by Parliament.
 
-(2) for the purposes of this art. a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State by reason only that he is a Minister either for the Union or for such State.
+Explanation.—For the purposes of this clause a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State by reason only that he is a Minister either for the Union or for such State.
+
+(2) A person shall be disqualified for being a member of either House of Parliament if he is so disqualified under the Tenth Schedule.
