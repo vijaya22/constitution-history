@@ -207,6 +207,8 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 92B. Taxes on the consignments of goods (whether the consignment is to the person making it or to any other person), where such consignment takes place in the course of inter-State trade or commerce.
 
+92C. Taxes on services.
+
 93. Offences against laws with respect to any of the matters in this List.
 
 94. Inquires, surveys and statistics for the purpose of any of the matters in this List.
