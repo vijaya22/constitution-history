@@ -3,9 +3,8 @@ article: "228"
 title: "Transfer of certain cases to High Court"
 part: "VI"
 part_title: "THE STATES"
-effective: "1977-02-01"
 ---
-If the High Court is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the case, it shall withdraw the case and subject to the provisions of article 131A, may—
+If the High Court is satisfied that a case pending in a court subordinate to it involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the case, it shall withdraw the case and may—
 
 (a) either dispose of the case itself, or
 
