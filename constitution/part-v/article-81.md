@@ -24,4 +24,4 @@ Provided that the reference in this clause to the last preceding census of which
 
 (i) for the purposes of sub-clause (a) of clause (2) and the proviso to that clause, as a reference to the 1971 census; and
 
-(ii) for the purposes of sub-clause (b) of clause (2) as a reference to the 1991 census.
+(ii) for the purposes of sub-clause (b) of clause (2) as a reference to the 2001 census.

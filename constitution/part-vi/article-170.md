@@ -10,7 +10,7 @@ part_title: "THE STATES"
 
 Explanation.—In this clause, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
 
-Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed as a reference to the 1991 census.
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed as a reference to the 2001 census.
 
 (3) Upon the completion of each census, the total number of seats in the Legislative Assembly of each State and the division of each State into territorial constituencies shall be readjusted by such authority and in such manner as Parliament may by law determine:
 
@@ -22,4 +22,4 @@ Provided also that until the relevant figures for the first census taken after t
 
 (i) the total number of seats in the Legislative Assembly of each State as readjusted on the basis of the 1971 census; and
 
-(ii) the division of such State into territorial constituencies as may be readjusted on the basis of the 1991 census, under this clause.
+(ii) the division of such State into territorial constituencies as may be readjusted on the basis of the 2001 census, under this clause.

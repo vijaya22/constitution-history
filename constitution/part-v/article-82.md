@@ -14,4 +14,4 @@ Provided also that until the relevant figures for the first census taken after t
 
 (i) the allocation of seats in the House of the People to the States as readjusted on the basis of the 1971 census; and
 
-(ii) the division of each State into territorial constituencies as may be readjusted on the basis of the 1991 census, under this article.
+(ii) the division of each State into territorial constituencies as may be readjusted on the basis of the 2001 census, under this article.

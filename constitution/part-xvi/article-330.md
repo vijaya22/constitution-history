@@ -18,4 +18,4 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 Explanation.—In this article and in article 332, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
 
-Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed as a reference to the 1991 census.
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed as a reference to the 2001 census.
