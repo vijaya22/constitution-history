@@ -293,6 +293,10 @@ Tripura Tribal Areas District
 
 ### Part III
 
+1. The Chakma District.
+
+⟨wording before the Sixth Schedule to the Constitution (Amendment) Act, 1988 not yet imported⟩
+
 20A. Dissolution of the Mizo District Council.—(1) Notwithstanding anything in this Schedule, the District Council of the Mizo District existing immediately before the prescribed date (hereinafter referred to as the Mizo District Council) shall stand dissolved and cease to exist.
 
 (2) The Administrator of the Union territory of Mizoram may, by one or more orders, provide for all or any of the following matters, namely:—
