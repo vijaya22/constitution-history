@@ -1,0 +1,15 @@
+---
+article: "243X"
+title: "Power to impose taxes by, and Funds of, the Municipalities"
+part: "IXA"
+part_title: "THE MUNICIPALITIES"
+---
+The Legislature of a State may, by law,—
+
+(a) authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;
+
+(b) assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;
+
+(c) provide for making such grants-in-aid to the Municipalities from the Consolidated Fund of the State; and
+
+(d) provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Municipalities and also for the withdrawal of such moneys therefrom, as may be specified in the law.

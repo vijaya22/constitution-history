@@ -16,6 +16,8 @@ part_title: "FINANCE, PROPERTY, CONTRACTS AND SUITS"
 
 (bb) the measures needed to augment the Consolidated Fund of a State to supplement the resources of the Panchayats in the State on the basis of the recommendations made by the Finance Commission of the State;
 
-(c) any other matter referred to the Commission by the President in the interests of sound finance.
+(c) the measures needed to augment the Consolidated Fund of a State to supplement the resources of the Municipalities in the State on the basis of the recommendations made by the Finance Commission of the State;
+
+(d) any other matter referred to the Commission by the President in the interests of sound finance.
 
 (4) The Commission shall determine their procedure and shall have such powers in the performance of their functions as Parliament may by law confer on them.
