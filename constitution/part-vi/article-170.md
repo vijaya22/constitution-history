@@ -8,8 +8,14 @@ part_title: "THE STATES"
 
 (2) For the purposes of clause (1), each State shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it shall, so far as practicable, be the same throughout the State.
 
-Explanation.—In this clause, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published.
+Explanation.—In this clause, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
+
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
 
 (3) Upon the completion of each census, the total number of seats in the Legislative Assembly of each State and the division of each State into territorial constituencies shall be readjusted by such authority and in such manner as Parliament may by law determine:
 
 Provided that such readjustment shall not affect representation in the Legislative Assembly until the dissolution of the then existing Assembly:
+
+Provided further that such readjustment shall take effect from such date as the President may, by order, specify and until such readjustment takes effect, any election to the Legislative Assembly may be held on the basis of the territorial constituencies existing before such readjustment:
+
+Provided also that until the relevant figures for the first census taken after the year 2000 have been published, it shall not be necessary to readjust the total number of seats in the Legislative Assembly of each State and the division of such State into territorial constituencies under this clause.

@@ -16,4 +16,4 @@ The State shall, in particular, direct its policy towards securing—
 
 (e) that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;
 
-(f) that childhood and youth are protected against exploitation and against moral and material abandonment.
+(f) that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment.

@@ -6,9 +6,11 @@ part_title: "SERVICES UNDER THE UNION AND THE STATES"
 ---
 (1) No person who is a member of a civil service of the Union or an all-India service or a civil service of a State or holds a civil post under the Union or a State shall be dismissed or removed by an authority subordinate to that by which he was appointed.
 
-(2) No such person as aforesaid shall be dismissed or removed or reduced in rank except after an inquiry in which he has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges and where it is proposed, after such inquiry, to impose on him any such penalty, until he has been given a reasonable opportunity of making representation on the penalty proposed, but only on the basis of the evidence adduced during such inquiry:
+(2) No such person as aforesaid shall be dismissed or removed or reduced in rank except after an inquiry in which he has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges:
 
-Provided that this clause shall not apply—
+Provided that where it is proposed after such inquiry, to impose upon him any such penalty, such penalty may be imposed on the basis of the evidence adduced during such inquiry and it shall not be necessary to give such person any opportunity of making representation on the penalty proposed:
+
+Provided further that this clause shall not apply—
 
 (a) where a person is dismissed or removed or reduced in rank on the ground of conduct which has led to his conviction on a criminal charge; or
 

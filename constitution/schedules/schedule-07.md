@@ -9,6 +9,8 @@ articles: "Article 246"
 
 2. Naval, military and air forces; any other armed forces of the Union.
 
+2A. Deployment of any armed force of the Union or any other force subject to the control of the Union or any contingent or unit thereof in any State in aid of the civil power; powers, jurisdiction, privileges and liabilities of the members of such forces while on such deployment.
+
 3. Delimitation of cantonment areas, local self-government in such areas, the constitution and powers within such areas of cantonment authorities and the regulation of house accommodation (including the control of rents) in such areas.
 
 4. Naval, military and air force works.
@@ -215,11 +217,11 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 ### List II—State List
 
-1. Public order (but not including the use of naval, military or air forces or any other armed forces of the Union in aid of the civil power).
+1. Public order (but not including the use of any naval, military or air force or any other armed force of the Union or of any other force subject to the control of the Union or of any contingent or unit thereof in aid of the civil power).
 
-2. Police, including railway and village police.
+2. Police (including railway and village police) subject to the provisions of entry 2A of List I.
 
-3. Administration of justice; constitution and organisation of all courts, except the Supreme Court and the High Court; Officers and servants of the High Court; procedure in rent and revenue courts; fees taken in all courts except the Supreme Court.
+3. Officers and servants of the High Court; procedure in rent and revenue courts; fees taken in all courts except the Supreme Court.
 
 4. Prisons, reformatories, Borstal institutions and other institutions of a like nature, and persons detained therein; arrangements with other States for the use of prisons and other institutions.
 
@@ -235,7 +237,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 10. Burials and burial grounds; cremations and cremation grounds.
 
-11. Education including universities, subject to the provisions of entries 63, 64, 65 and 66 of List I and entry 25 of List III.
+11.  * * * * *
 
 12. Libraries, museums and other similar institutions controlled or financed by the State; ancient and historical monuments and records other than those declared by or under law made by Parliament to be of national importance.
 
@@ -251,9 +253,9 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 18. Land, that is to say, rights in or over land, land tenures including the relation of landlord and tenant, and the collection of rents; transfer and alienation of agricultural land; land improvement and agricultural loans; colonization.
 
-19. Forests.
+19.  * * * * *
 
-20. Protection of wild animals and birds.
+20.  * * * * *
 
 21. Fisheries.
 
@@ -271,7 +273,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 28. Markets and fairs.
 
-29. Weights and measures except establishment of standards.
+29.  * * * * *
 
 30. Money-lending and money-lenders; relief of agricultural indebtedness.
 
@@ -327,7 +329,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 54. Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I.
 
-55. Taxes on advertisements other than advertisements published in the newspapers.
+55. Taxes on advertisements other than advertisements published in the newspapers and advertisements broadcast by radio or television.
 
 56. Taxes on goods and passengers carried by road or on inland waterways.
 
@@ -375,6 +377,8 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 11. Administrators-general and official trustees.
 
+11A. Administration of Justice; constitution and organisation of all courts, except the Supreme Court and the High Courts.
+
 12. Evidence and oaths; recognition of laws, public acts and records, and judicial proceedings.
 
 13. Civil procedure, including all matters included in the Code of Civil Procedure at the commencement of this Constitution, limitation and arbitration.
@@ -387,11 +391,17 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 17. Prevention of cruelty to animals.
 
+17A. Forests.
+
+17B. Protection of wild animals and birds.
+
 18. Adulteration of foodstuffs and other goods.
 
 19. Drugs and poisons, subject to the provisions of entry 59 of List I with respect to opium.
 
 20. Economic and social planning.
+
+20A. Population control and family planning.
 
 21. Commercial and industrial monopolies, combines and trusts.
 
@@ -401,7 +411,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 24. Welfare of labour including conditions of work, provident funds, employers' liability, workmen's compensation, invalidity and old age pensions and maternity benefits.
 
-25. Vocational and technical training of labour.
+25. Education, including technical education, medical education and universities, subject to the provisions of entries 63, 64, 65 and 66 of List I; vocational and technical training of labour.
 
 26. Legal, medical and other professions.
 
@@ -428,6 +438,8 @@ but including medicinal and toilet preparations containing alcohol or any substa
 (d) raw cotton, whether ginned or unginned, and cotton seed; and
 
 (e) raw jute.
+
+33A. Weights and measures except establishment of standards.
 
 34. Price control.
 

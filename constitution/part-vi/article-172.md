@@ -2,9 +2,9 @@
 article: "172"
 title: "Duration of State Legislatures"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-(1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for five years from the date appointed for its first meeting and no longer and the expiration of the said period of five years shall operate as a dissolution of the Assembly:
+(1) Every Legislative Assembly of every State, unless sooner dissolved, shall continue for six years from the date appointed for its first meeting and no longer and the expiration of the said period of six years shall operate as a dissolution of the Assembly:
 
 Provided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.
 

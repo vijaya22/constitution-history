@@ -16,4 +16,6 @@ part_title: "THE UNION"
 
 (3) The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.
 
-Explanation.—In this article, the expression "population" means the population as ascertained at the last preceding census of which the relevant figures have been published.
+Explanation.—In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
+
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
