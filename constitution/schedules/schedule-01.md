@@ -5,7 +5,7 @@ articles: "Articles 1 and 4"
 ---
 ### I. THE STATES
 
-1. Andhra Pradesh — ⟨wording before the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968 not yet imported⟩.
+1. Andhra Pradesh — The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, sub-section (1) of section 3 of the States Reorganisation Act, 1956, the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, and the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968, but excluding the territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959.
 
 2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962
 
@@ -21,7 +21,7 @@ articles: "Articles 1 and 4"
 
 8. Maharashtra — The territories specified in sub-section (1) of section 8 of the States Reorganisation Act, 1956, but excluding the territories referred to in sub-section (1) of section 3 of the Bombay Reorganisation Act, 1960.
 
-9. Mysore — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956
+9. Mysore — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956 but excluding the territory specified in the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968.
 
 10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
