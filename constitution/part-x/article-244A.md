@@ -4,7 +4,7 @@ title: "Formation of an autonomous State comprising certain tribal areas in Assa
 part: "X"
 part_title: "THE SCHEDULED AND TRIBAL AREAS"
 ---
-(1) Notwithstanding anything in this Constitution, Parliament may, by law, form within the State of Assam an autonomous State comprising (whether wholly or in part) all or any of the tribal areas specified in Part A of the table appended to paragraph 20 of the Sixth Schedule and create therefor—
+(1) Notwithstanding anything in this Constitution, Parliament may, by law, form within the State of Assam an autonomous State comprising (whether wholly or in part) all or any of the tribal areas specified in Part I of the table appended to paragraph 20 of the Sixth Schedule and create therefor—
 
 (a) a body, whether elected or partly nominated and partly elected, to function as a Legislature for the autonomous State, or
 

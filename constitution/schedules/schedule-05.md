@@ -11,7 +11,7 @@ Provisions as to the Administration and Control of Scheduled Areas and
 
 ### GENERAL
 
-1. Interpretation.—In this Schedule, unless the context otherwise requires, the expression “State” does not include the State of Assam
+1. Interpretation.—In this Schedule, unless the context otherwise requires, the expression “State” does not include the States of Assam and Meghalaya
 
 2. Executive power of a State in Scheduled Areas.—Subject to the provisions of this Schedule, the executive power of a State extends to the Scheduled Areas therein.
 

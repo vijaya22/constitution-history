@@ -12,6 +12,6 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (4) The number of seats reserved for an autonomous district in the Legislative Assembly of the State of Assam shall bear to the total number of seats in that Assembly a proportion not less than the population of the district bears to the total population of the State.
 
-(5) The constituencies for the seats reserved for any autonomous district of Assam shall not comprise any area outside that district except in the case of the constituency comprising the cantonment and municipality of Shillong.
+(5) The constituencies for the seats reserved for any autonomous district of Assam shall not comprise any area outside that district.
 
-(6) No person who is not a member of a Scheduled Tribe of any autonomous district of the State of Assam shall be eligible for election to the Legislative Assembly of the State from any constituency of that district except from the constituency comprising the cantonment and municipality of Shillong:
+(6) No person who is not a member of a Scheduled Tribe of any autonomous district of the State of Assam shall be eligible for election to the Legislative Assembly of the State from any constituency of that district:

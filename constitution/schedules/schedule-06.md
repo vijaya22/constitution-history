@@ -5,15 +5,15 @@ articles: "Articles 244(2) and 275(1)"
 ---
 Provisions as to the Administration of Tribal Areas in ⟨wording before the State of Mizoram Act, 1986 not yet imported⟩
 
-1. Autonomous districts and autonomous regions.—(1) Subject to the provisions of this paragraph, the tribal areas in each item of Part A of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
+1. Autonomous districts and autonomous regions.—(1) Subject to the provisions of this paragraph, the tribal areas in each item of Part I and II and in Part III of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
 
 (2) If there are different Scheduled Tribes in an autonomous district, the Governor may, by public notification, divide the area or areas inhabited by them into autonomous regions.
 
 (3) The Governor may, by public notification,—
 
-(a) include any area in Part A of the said table;
+(a) include any area in any of the Parts of the said table;
 
-(b) exclude any area from Part A of the said table;
+(b) exclude any area from any of the Parts of the said table;
 
 (c) create a new autonomous district;
 
@@ -28,6 +28,8 @@ Provisions as to the Administration of Tribal Areas in ⟨wording before the Sta
 (g) define the boundaries of any autonomous district:
 
 Provided that no order shall be made by the Governor under clauses (c), (d), (e) and (f) of this sub-paragraph except after consideration of the report of a Commission appointed under sub-paragraph (1) of paragraph 14 of this Schedule:
+
+Provided further that any order made by the Governor under this sub-paragraph may contain such incidental and consequential provisions (including any amendment of paragraph 20 and of any item in any of the Parts of the said Table) as appear to the Governor to be necessary for giving effect to the provisions of the order.
 
 2. Constitution of District Councils and Regional Councils.—(1) There shall be a District Council for each autonomous district consisting of not more than thirty members, of whom not more than four persons shall be nominated by the Governor and the rest shall be elected on the basis of adult suffrage.
 
@@ -75,7 +77,7 @@ Provided that until rules are made by the District or the Regional Council under
 
 (a) the allotment, occupation or use, or the setting apart, of land, other than any land which is a reserved forest for the purposes of agriculture or grazing or for residential or other non-agricultural purposes or for any other purpose likely to promote the interests of the inhabitants of any village or town:
 
-Provided that nothing in such laws shall prevent the compulsory acquisition of any land, whether occupied or unoccupied, for public purposes by the Government of Assam in accordance with the law for the time being in force authorising such acquisition;
+Provided that nothing in such laws shall prevent the compulsory acquisition of any land, whether occupied or unoccupied, for public purposes by the Government of the State concerned in accordance with the law for the time being in force authorising such acquisition;
 
 (b) the management of any forest not being a reserved forest;
 
@@ -103,7 +105,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (2) Notwithstanding anything in this Constitution, the Regional Council for an autonomous region or any court constituted in that behalf by the Regional Council or, if in respect of any area within an autonomous district there is no Regional Council, the District Council for such district, or any court constituted in that behalf by the District Council, shall exercise the powers of a court of appeal in respect of all suits and cases triable by a village council or court constituted under sub-paragraph (1) of this paragraph within such region or area, as the case may be, other than those to which the provisions of sub-paragraph (1) of paragraph 5 of this Schedule apply, and no other court except the High Court and the Supreme Court shall have jurisdiction over such suits or cases.
 
-(3) The High Court of Assam shall have and exercise such jurisdiction over the suits and cases to which the provisions of sub-paragraph (2) of this paragraph apply as the Governor may from time to time by order specify.
+(3) The High Court shall have and exercise such jurisdiction over the suits and cases to which the provisions of sub-paragraph (2) of this paragraph apply as the Governor may from time to time by order specify.
 
 (4) A Regional Council or District Council, as the case may be, may with the previous approval of the Governor make rules regulating —
 
@@ -117,7 +119,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (e) all other ancillary matters for the carrying out of the provisions of sub-paragraphs (1) and (2) of this paragraph.
 
-(5) On and from such date as the President may, ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩, by notification appoint in this behalf, this paragraph shall have effect in relation to such autonomous district or region as may be specified in the notification, as if—
+(5) On and from such date as the President may, after consulting the Government of the State concerned, by notification appoint in this behalf, this paragraph shall have effect in relation to such autonomous district or region as may be specified in the notification, as if—
 
 (i) in sub-paragraph (1), for the words “between the parties all of whom belong to Scheduled Tribes within such areas, other than suits and cases to which the provisions of sub-paragraph (1) of paragraph 5 of this Schedule apply,”, the words “not being suits and cases of the nature referred to in sub-paragraph (1) of paragraph (5) of this Schedule, which the Governor may specify in this behalf,” had been substituted;
 
@@ -149,7 +151,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 6. Powers of the District Council to establish primary schools, etc.— (1) The District Council for an autonomous district may establish, construct, or manage primary schools, dispensaries, markets, cattle ponds, ferries, fisheries, roads, road transport and waterways in the district and may, with the previous approval of the Governor, make regulations for the regulation and control thereof and, in particular, may prescribe the language and the manner in which primary education shall be imparted in the primary schools in the district.
 
-(2) The Governor may, with the consent of any District Council, entrust either conditionally or unconditionally to that Council or to its officers functions in relation to agriculture, animal husbandry, community projects, co-operative societies, social welfare, village planning or any other matter to which the executive power of the State of Assam or Meghalaya, as the case may be, extends.
+(2) The Governor may, with the consent of any District Council, entrust either conditionally or unconditionally to that Council or to its officers functions in relation to agriculture, animal husbandry, community projects, co-operative societies, social welfare, village planning or any other matter to which the executive power of the State extends.
 
 7. District and Regional Funds.—(1) There shall be constituted for each autonomous district, a District Fund and for each autonomous region, a Regional Fund to which shall be credited all moneys received respectively by the District Council for that district and the Regional Council for that region in the course of the administration of such district or region, as the case may be, in accordance with the provisions of this Constitution.
 
@@ -159,7 +161,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (4) The Comptroller and Auditor-General shall cause the accounts of the District and Regional Councils to be audited in such manner as he may think fit, and the reports of the Comptroller and Auditor-General relating to such accounts shall be submitted to the Governor who shall cause them to be laid before the Council.
 
-8. Powers to assess and collect land revenue and to impose taxes.—(1) The Regional Council for an autonomous region in respect of all lands within such region and the District Council for an autonomous district in respect of all lands within the district except those which are in the areas under the authority of Regional Councils, if any, within the district, shall have the power to assess and collect revenue in respect of such lands in accordance with the principles for the time being followed ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
+8. Powers to assess and collect land revenue and to impose taxes.—(1) The Regional Council for an autonomous region in respect of all lands within such region and the District Council for an autonomous district in respect of all lands within the district except those which are in the areas under the authority of Regional Councils, if any, within the district, shall have the power to assess and collect revenue in respect of such lands in accordance with the principles for the time being followed by the Government of the State in assessing lands for the purpose of land revenue in the State generally.
 
 (2) The Regional Council for an autonomous region in respect of areas within such region and the District Council for an autonomous district in respect of all areas in the district except those which are under the authority of Regional Councils, if any, within the district, shall have power to levy and collect taxes on lands and buildings, and tolls on persons resident within such areas.
 
@@ -175,7 +177,7 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (4) A Regional Council or District Council, as the case may be, may make regulations to provide for the levy and collection of any of the taxes specified in sub-paragraphs (2) and (3) of this paragraph and every such regulation shall be submitted forthwith to the Governor and, until assented to by him, shall have no effect.
 
-9. Licences or leases for the purpose of prospecting for, or extraction of, minerals.—(1) Such share of the royalties accruing each year from licences or leases for the purpose of prospecting for, or the extraction of, minerals granted by the Government of Assam in respect of any area within an autonomous district as may be agreed upon between the Government of Assam and the District Council of such district shall be made over to that District Council.
+9. Licences or leases for the purpose of prospecting for, or extraction of, minerals.—(1) Such share of the royalties accruing each year from licences or leases for the purpose of prospecting for, or the extraction of, minerals granted by the Government of the State in respect of any area within an autonomous district as may be agreed upon between the Government of the State and the District Council of such district shall be made over to that District Council.
 
 (2) If any dispute arises as to the share of such royalties to be made over to a District Council, it shall be referred to the Governor for determination and the amount determined by the Governor in his discretion shall be deemed to be the amount payable under sub-paragraph (1) of this paragraph to the District Council and the decision of the Governor shall be final.
 
@@ -203,17 +205,21 @@ Provided further that it shall not be competent under any such regulations to re
 
 -
 
-12. ⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩.— (1) Notwithstanding anything in this Constitution,—
+12. Application of Acts of Parliament and of the Legislature of the State of Assam to autonomous districts and autonomous regions in the State of Assam.— (1) Notwithstanding anything in this Constitution,—
 
-(a) no Act of the Legislature of the State in respect of any of the matters specified in paragraph 3 of this Schedule as matters with respect to which a District Council or a Regional Council may make laws, and no Act of the Legislature of the State of Assam prohibiting or restricting the consumption of any non-distilled alcoholic liquor shall apply to any autonomous district or autonomous region unless in either case the District Council for such district or having jurisdiction over such region by public notification so directs, and the District Council in giving such direction with respect to any Act may direct that the Act shall in its application to such district or region or any part thereof have effect subject to such exceptions or modifications as it thinks fit;
+(a) no Act of the Legislature of the State of Assam in respect of any of the matters specified in paragraph 3 of this Schedule as matters with respect to which a District Council or a Regional Council may make laws, and no Act of the Legislature of the State of Assam prohibiting or restricting the consumption of any non-distilled alcoholic liquor shall apply to any autonomous district or autonomous region in that State unless in either case the District Council for such district or having jurisdiction over such region by public notification so directs, and the District Council in giving such direction with respect to any Act may direct that the Act shall in its application to such district or region or any part thereof have effect subject to such exceptions or modifications as it thinks fit;
 
-(b) the Governor may, by public notification, direct that any Act of Parliament or of the Legislature of the State to which the provisions of clause (a) of this sub-paragraph do not apply shall not apply to an autonomous district or an autonomous region, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification.
+(b) the Governor may, by public notification, direct that any Act of Parliament or of the Legislature of the State of Assam to which the provisions of clause (a) of this sub-paragraph do not apply shall not apply to an autonomous district or an autonomous region in that State, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification.
 
 (2) Any direction given under sub-paragraph (1) of this paragraph may be given so as to have retrospective effect.
 
-⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
+12A. Application of Acts of Parliament and of the Legislature of the State of Meghalaya to autonomous districts and autonomous regions in the State of Meghalaya.—Notwithstanding anything in this Constitution,—
 
-13. Estimated receipts and expenditure pertaining to autonomous districts to be shown separately in the annual financial statement.—The estimated receipts and expenditure pertaining to an autonomous district which are to be credited to, or is to be made from, the Consolidated Fund of the State of Assam shall be first placed before the District Council for discussion and then after such discussion be shown separately in the annual financial statement of the State to be laid before the Legislature of the State under article 202.
+(a) if any provision of a law made by a District or Regional Council in the State of Meghalaya with respect to any matter specified in sub-paragraph (1) of paragraph 3 of this Schedule or if any provision of any regulation made by a District Council or a Regional Council in that State under paragraph 8 or paragraph 10 of this Schedule, is repugnant to any provision of a law made by the Legislature of the State of Meghalaya with respect to that matter, then, the law or regulation made by the District Council or, as the case may be, the Regional Council whether made before or after the law made by the Legislature of the State of Meghalaya, shall, to the extent of repugnancy, be void and the law made by the Legislature of the State of Meghalaya shall prevail;
+
+(b) the President may, with respect to any Act of Parliament, by notification, direct that it shall not apply to an autonomous district or an autonomous region in the State of Meghalaya, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification and any such direction may be given so as to have retrospective effect.
+
+13. Estimated receipts and expenditure pertaining to autonomous districts to be shown separately in the annual financial statement.—The estimated receipts and expenditure pertaining to an autonomous district which are to be credited to, or is to be made from, the Consolidated Fund of the State shall be first placed before the District Council for discussion and then after such discussion be shown separately in the annual financial statement of the State to be laid before the Legislature of the State under article 202.
 
 14. Appointment of Commission to inquire into and report on the administration of autonomous districts and autonomous regions.—(1) The Governor may at any time appoint a Commission to examine and report on any matter specified by him relating to the administration of the autonomous districts and autonomous regions in the State, including matters specified in clauses (c), (d), (e) and (f) of sub-paragraph (3) of paragraph 1 of this Schedule, or may appoint a Commission to inquire into and report from time to time on the administration of autonomous districts and autonomous regions in the State generally and in particular on—
 
@@ -223,7 +229,7 @@ Provided further that it shall not be competent under any such regulations to re
 
 (c) the administration of the laws, rules and regulations made by the District and Regional Councils; and define the procedure to be followed by such Commission.
 
-(2) The report of every such Commission with the recommendations of the Governor with respect thereto shall be laid before the Legislature of the State by the Minister concerned together with an explanatory memorandum regarding the action proposed to be taken thereon by the Government of Assam
+(2) The report of every such Commission with the recommendations of the Governor with respect thereto shall be laid before the Legislature of the State by the Minister concerned together with an explanatory memorandum regarding the action proposed to be taken thereon by the Government of the State.
 
 (3) In allocating the business of the Government of the State among his Ministers the Governor may place one of his Ministers specially in charge of the welfare of the autonomous districts and autonomous regions in the State.
 
@@ -249,17 +255,9 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) Every order made under sub-paragraph (2) of this paragraph with the reasons therefor shall be laid before the Legislature of the State and shall cease to operate at the expiration of thirty days from the date on which the State Legislature first sits after the issue of the order, unless, before the expiry of that period it has been approved by that State Legislature.
 
-17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam, the Governor may by order declare that any area within an autonomous district shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
+17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam or Meghalaya, the Governor may by order declare that any area within an autonomous district in the State of Assam or Meghalaya, as the case may be, shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
 
-18. Application of the provisions of this Schedule to areas specified in Part B of the table appended to paragraph 20.—(1) The Governor may—
-
-(a) subject to the previous approval of the President, by public notification, apply all or any of the foregoing provisions of this Schedule to any tribal area specified in Part B of the table appended to paragraph 20 of this Schedule or any part of such area and thereupon such area or part shall be administered in accordance with such provisions, and
-
-(b) with like approval, by public notification, exclude from the said table any tribal area specified in Part B of that table or any part of such area.
-
-(2) Until a notification is issued under sub-paragraph (1) of this paragraph in respect of any tribal area specified in Part B of the said table or any part of such area, the administration of such area or part thereof, as the case may be, shall be carried on by the President through the Governor of Assam as his agent and the provisions of Part IX shall apply thereto as if such area or part thereof were a territory specified in Part D of the First Schedule.
-
-(3) In the discharge of his functions under sub-paragraph (2) of this paragraph as the agent of the President the Governor shall act in his discretion.
+18. * * * * *
 
 19. Transitional provisions.—(1) As soon as possible after the commencement of this Constitution the Governor shall take steps for the constitution of a District Council for each autonomous district in the State under this Schedule and, until a District Council is so constituted for an autonomous district, the administration of such district shall be vested in the Governor and the following provisions shall apply to the administration of the areas within such district instead of the foregoing provisions of this Schedule, namely:—
 
@@ -271,13 +269,13 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) All regulations made under clause (b) of sub-paragraph (1) of this paragraph shall be submitted forthwith to the President and, until assented to by him, shall have no effect.
 
-⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
+⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
 
 ### Part III
 
 The Mizo District.
 
-⟨wording before the North-Eastern Areas (Reorganisation) Act, 1971 not yet imported⟩
+⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
 
 ⟨wording before the Government of Union Territory (Amendment) Act, 1971 not yet imported⟩
 

@@ -10,7 +10,7 @@ Provided that there shall be paid out of the Consolidated Fund of India as grant
 
 Provided further that there shall be paid out of the Consolidated Fund of India as grants-in-aid of the revenues of the State of Assam sums, capital and recurring, equivalent to—
 
-(a) the average excess of expenditure over the revenues during the two years immediately preceding the commencement of this Constitution in respect of the administration of the tribal areas specified in Part A of the table appended to paragraph 20 of the Sixth Schedule; and
+(a) the average excess of expenditure over the revenues during the two years immediately preceding the commencement of this Constitution in respect of the administration of the tribal areas specified in Part I of the table appended to paragraph 20 of the Sixth Schedule; and
 
 (b) the costs of such schemes of development as may be undertaken by that State with the approval of the Government of India for the purpose of raising the level of administration of the said areas to that of the administration of the rest of the areas of that State.
 

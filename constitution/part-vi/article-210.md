@@ -10,4 +10,4 @@ Provided that the Speaker of the Legislative Assembly or Chairman of the Legisla
 
 (2) Unless the Legislature of the State by law otherwise provides, this article shall, after the expiration of a period of fifteen years from the commencement of this Constitution, have effect as if the words “or in English” were omitted therefrom:
 
-Provided that in relation to the Legislature of the State of Himachal Pradesh this clause shall have effect as if for the words “fifteen years” occurring therein, the words “twenty-five years” were substituted:
+Provided that in relation to the Legislatures of the States of Himachal Pradesh, Manipur, Meghalaya and Tripura this clause shall have effect as if for the words “fifteen years” occurring therein, the words “twenty-five years” were substituted:
