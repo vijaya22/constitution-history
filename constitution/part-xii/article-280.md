@@ -14,8 +14,6 @@ part_title: "FINANCE, PROPERTY, CONTRACTS AND SUITS"
 
 (b) the principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India;
 
-(c) the continuance or modification of the terms of any agreement entered into by the Government of India with the Government of any State specified in Part B of the First Schedule under clause (1) of article 278 or under article 306; and
-
-(d) any other matter referred to the Commission by the President in the interests of sound finance.
+(c) any other matter referred to the Commission by the President in the interests of sound finance.
 
 (4) The Commission shall determine their procedure and shall have such powers in the performance of their functions as Parliament may by law confer on them.

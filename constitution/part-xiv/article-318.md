@@ -4,7 +4,7 @@ title: "Power to make regulations as to conditions of service of members and sta
 part: "XIV"
 part_title: "SERVICES UNDER THE UNION AND THE STATES"
 ---
-In the case of the Union Commission or a Joint Commission, the President and, in the case of a State Commission, the Governor or Rajpramukh of the State may by regulations—
+In the case of the Union Commission or a Joint Commission, the President and, in the case of a State Commission, the Governor of the State may by regulations—
 
 (a) determine the number of members of the Commission and their conditions of service; and
 

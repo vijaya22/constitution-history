@@ -4,9 +4,9 @@ title: "Provisions in case of failure of constitutional machinery in States"
 part: "XVIII"
 part_title: "EMERGENCY PROVISIONS"
 ---
-(1) If the President, on receipt of a report from the Governor or Rajpramukh of a State or otherwise, is satisfied that a situation has arisen in which the Government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation—
+(1) If the President, on receipt of a report from the Governor of a State or otherwise, is satisfied that a situation has arisen in which the Government of the State cannot be carried on in accordance with the provisions of this Constitution, the President may by Proclamation—
 
-(a) assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor or Rajpramukh, as the case may be or any body or authority in the State other than the Legislature of the State;
+(a) assume to himself all or any of the functions of the Government of the State and all or any of the powers vested in or exercisable by the Governor or any body or authority in the State other than the Legislature of the State;
 
 (b) declare that the powers of the Legislature of the State shall be exercisable by or under the authority of Parliament;
 

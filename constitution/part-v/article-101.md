@@ -6,7 +6,7 @@ part_title: "THE UNION"
 ---
 (1) No person shall be a member of both Houses of Parliament and provision shall be made by Parliament by law for the vacation by a person who is chosen a member of both Houses of his seat in one House or the other.
 
-(2) No person shall be a member both of Parliament and of a House of the Legislature of a State specified in Part A or Part B of the First Schedule, and if a person is chosen a member both of Parliament and of a House of the Legislature of such a State, then, at the expiration of such period as may be specified in rules made by the President, that person’s seat in Parliament shall become vacant, unless he has previously resigned his seat in the Legislature of the State.
+(2) No person shall be a member both of Parliament and of a House of the Legislature of a State, and if a person is chosen a member both of Parliament and of a House of the Legislature of a State, then, at the expiration of such period as may be specified in rules made by the President, that person’s seat in Parliament shall become vacant, unless he has previously resigned his seat in the Legislature of the State.
 
 (3) If a member of either House of Parliament—
 

@@ -2,6 +2,6 @@
 article: "152"
 title: "Definition"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-In this Part, unless the context otherwise requires, the expression “State” means a State specified in Part A of the First Schedule.
+In this Part, unless the context otherwise requires, the expression “State” does not include the State of Jammu and Kashmir.

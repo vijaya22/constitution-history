@@ -5,27 +5,19 @@ articles: "Articles 59(3), 65(3), 75(6), 97, 125, 148(3), 158(3), 164 (5), 186 a
 ---
 ### PART A
 
-PROVISIONS AS TO THE PRESIDENT AND THE GOVERNORS OF STATES specified in Part A of the First Schedule
+PROVISIONS AS TO THE PRESIDENT AND THE GOVERNORS OF STATES
 
-1. There shall be paid to the President and to the Governors of the States specified in Part A of the First Schedule the following emoluments per mensem, that is to say:—
+1. There shall be paid to the President and to the Governors of the States the following emoluments per mensem, that is to say:—
 
 The President — 10,000 rupees.
 
 The Governor of a State — 5,500 rupees.
 
-2. There shall also be paid to the President and to the Governors of the States so specified such allowances as were payable respectively to the Governor-General of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.
+2. There shall also be paid to the President and to the Governors of the States such allowances as were payable respectively to the Governor-General of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.
 
-3. The President and the Governors of such states throughout their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively entitled immediately before the commencement of this Constitution.
+3. The President and the Governors of the States throughout their respective terms of office shall be entitled to the same privileges to which the Governor-General and the Governors of the corresponding Provinces were respectively entitled immediately before the commencement of this Constitution.
 
 4. While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor, he shall be entitled to the same emoluments, allowances and privileges as the President or the Governor whose functions he discharges or for whom he acts, as the case may be.
-
-### PART B
-
-### PROVISIONS AS TO THE MINISTERS FOR THE UNION AND FOR THE STATES IN PART A AND PART B OF THE FIRST SCHEDULE
-
-5. There shall be paid to the Prime Minister and to each of the other Ministers for the Union such salaries and allowances as were payable respectively to the Prime Minister and to each of the other Ministers for the Dominion of India immediately before the commencement of this Constitution.
-
-6. There shall be paid to the Ministers for any State specified in Part A or Part B of the First Schedule such salaries and allowances as were payable to such Ministers for the corresponding Province or the corresponding Indian State, as the case may be, immediately before the commencement of this Constitution.
 
 ### PART C
 
@@ -35,21 +27,21 @@ OF THE PEOPLE AND THE CHAIRMAN AND THE DEPUTY CHAIRMAN
 
 OF THE COUNCIL OF STATES AND THE SPEAKER AND THE
 
-DEPUTY SPEAKER OF THE LEGISLATIVE ASSEMBLY OF A STATE IN PART A OF THE FIRST SCHEDULE
+DEPUTY SPEAKER OF THE LEGISLATIVE ASSEMBLY
 
 ### AND THE CHAIRMAN AND THE DEPUTY CHAIRMAN
 
-### OF THE LEGISLATIVE COUNCIL OF ANY SUCH STATE.
+### OF THE LEGISLATIVE COUNCIL OF A STATE
 
 7. There shall be paid to the Speaker of the House of the People and the Chairman of the Council of States such salaries and allowances as were payable to the Speaker of the Constituent Assembly of the Dominion of India immediately before the commencement of this Constitution, and there shall be paid to the Deputy Speaker of the House of the People and to the Deputy Chairman of the Council of States such salaries and allowances as were payable to the Deputy Speaker of the Constituent Assembly of the Dominion of India immediately before such commencement.
 
-8. There shall be paid to the Speaker and the Deputy Speaker of the Legislative Assembly of a State specified in Part A of the First Schedule and to the Chairman and the Deputy Chairman of the Legislative Council of such State such salaries and allowances as were payable respectively to the Speaker and the Deputy Speaker of the Legislative Assembly and the President and the Deputy President of the Legislative Council of the corresponding Province immediately before the commencement of this Constitution and, where the corresponding Province had no Legislative Council immediately before such commencement, there shall be paid to the Chairman and the Deputy Chairman of the Legislative Council of the State such salaries and allowances as the Governor of the State may determine.
+8. There shall be paid to the Speaker and the Deputy Speaker of the Legislative Assembly and to the Chairman and the Deputy Chairman of the Legislative Council of a State such salaries and allowances as were payable respectively to the Speaker and the Deputy Speaker of the Legislative Assembly and the President and the Deputy President of the Legislative Council of the corresponding Province immediately before the commencement of this Constitution and, where the corresponding Province had no Legislative Council immediately before such commencement, there shall be paid to the Chairman and the Deputy Chairman of the Legislative Council of the State such salaries and allowances as the Governor of the State may determine.
 
 ### PART D
 
 PROVISIONS AS TO THE JUDGES OF THE SUPREME COURT AND OF THE
 
-### HIGH COURTS IN STATES IN PART A OF THE FIRST SCHEDULE
+### HIGH COURTS
 
 9. [(1) There shall be paid to the Judges of the Supreme Court, in respect of time spent on actual service, salary at the following rates per mensem, that is to say:—
 
@@ -57,7 +49,13 @@ The Chief Justice — 5,000 rupees to 10,000 rupees.
 
 Any other Judge — 4,000 rupees.
 
-Provided that if a Judge of the Supreme Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of any previous service under the Government of India or any of its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the Supreme Court shall be reduced by the amount of that pension
+Provided that if a Judge of the Supreme Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of any previous service under the Government of India or any of its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the Supreme Court shall be reduced—
+
+(a) by the amount of that pension; and
+
+(b) if he has, before such appointment, received in lieu of a portion of the pension due to him in respect of such previous service the commuted value thereof, by the amount of that portion of the pension; and
+
+(c) if he has, before such appointment, received a retirement gratuity in respect of such previous service, by the pension equivalent of that gratuity.
 
 (2) Every Judge of the Supreme Court shall be entitled without payment of rent to the use of an official residence.
 
@@ -71,11 +69,19 @@ Provided that if a Judge of the Supreme Court at the time of his appointment is 
 
 (5) The rights in respect of leave of absence (including leave allowances) and pension of the Judges of the Supreme Court shall be governed by the provisions which, immediately before the commencement of this Constitution, were applicable to the Judges of the Federal Court.
 
-10. (1) There shall be paid to the Judges of the High Court of each State specified in Part A of the First Schedule, in respect of time spent on actual service, salary at the following rates per mensem, that is to say:—
+10. (1) There shall be paid to the Judges of High Courts, in respect of time spent on actual service, salary at the following rates per mensem, that is to say,—
 
 The Chief Justice — 4,000 rupees
 
-Any other Judge — 3,500 rupees
+Any other Judge — 3,500 rupees:
+
+Provided that if a Judge of a High Court at the time of his appointment is in receipt of a pension (other than a disability or wound pension) in respect of any previous service under the Government of India or any of its predecessor Governments or under the Government of a State or any of its predecessor Governments, his salary in respect of service in the High Court shall be reduced—
+
+(a) by the amount of that pension; and
+
+(b) if he has, before such appointment, received in lieu of a portion of the pension due to him in respect of such previous service the commuted value thereof, by the amount of that portion of the pension; and
+
+(c) if he has, before such appointment, received a retirement gratuity in respect of such previous service, by the pension equivalent of that gratuity.
 
 (2) Every person who immediately before the commencement of this Constitution—
 
@@ -83,9 +89,7 @@ Any other Judge — 3,500 rupees
 
 (b) was holding office as any other Judge of a High Court in any Province and has on such commencement become a Judge (other than the Chief Justice) of the High Court in the corresponding State under the said clause, shall, if he was immediately before such commencement drawing a salary at a rate higher than that specified in sub-paragraph (1) of this paragraph, be entitled to receive in respect of time spent on actual service as such Chief Justice or other Judge, as the case may be, in addition to the salary specified in the said sub-paragraph as special pay an amount equivalent to the difference between the salary so specified and the salary which he was drawing immediately before such commencement.
 
-(3) Every Judge of a High Court shall receive such reasonable allowances to reimburse him for expenses incurred in travelling on duty within the territory of India and shall be afforded such reasonable facilities in connection with travelling as the President may from time to time prescribe.
-
-(4) The rights in respect of leave of absence (including leave allowances) and pension of the Judges of the High Court of any State shall be governed by the provisions which, immediately before the commencement of this Constitution, were applicable to the Judges of the High Court in the corresponding Province.
+(3) Any person who, immediately before the commencement of the Constitution (Seventh Amendment) Act, 1956, was holding office as the Chief Justice of the High Court of a State specified in Part B of the First Schedule and has on such commencement become the Chief Justice of the High Court of a State specified in the said Schedule as amended by the said Act, shall, if he was immediately before such commencement drawing any amount as allowance in addition to his salary, be entitled to receive in respect of time spent on actual service as such Chief Justice, the same amount as allowance in addition to the salary specified in sub-paragraph (1) of this paragraph..
 
 11. In this Part, unless the context otherwise requires,—
 

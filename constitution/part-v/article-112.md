@@ -24,7 +24,7 @@ part_title: "THE UNION"
 
 (ii) the pensions payable to or in respect of Judges of the Federal Court;
 
-(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in a Province corresponding to a State specified in Part A of the First Schedule;
+(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in a Governor's Province of the Dominion of India;
 
 (e) the salary, allowances and pension payable to or in respect of the Comptroller and Auditor-General of India;
 

@@ -67,9 +67,9 @@ articles: "Article 246"
 
 31. Posts and telegraphs; telephones, wireless, broadcasting and other like forms of communication.
 
-32. Property of the Union and the revenue therefrom, but as regards property situated in a State specified in Part A or Part B of the First Schedule subject to legislation by the State, save in so far as Parliament by law otherwise provides.
+32. Property of the Union and the revenue therefrom, but as regards property situated in a State subject to legislation by the State, save in so far as Parliament by law otherwise provides.
 
-33. Acquisition or requisitioning of property for the purposes of the Union.
+33.  * * * * *
 
 34. Courts of wards for the estates of Rulers of Indian States.
 
@@ -143,7 +143,7 @@ articles: "Article 246"
 
 66. Co-ordination and determination of standards in institutions for higher education or research and scientific and technical institutions.
 
-67. Ancient and historical monuments and records, and archaeological sites and remains, declared by Parliament by law to be of national importance.
+67. Ancient and historical monuments and records, and archaeological sites and remains, declared by or under law made by Parliament to be of national importance.
 
 68. The Survey of India, the Geological, Botanical, Zoological and Anthropological Surveys of India; Meteorological organisations.
 
@@ -167,7 +167,7 @@ articles: "Article 246"
 
 78. Constitution and organisation of the High Courts except provisions as to officers and servants of High Courts; persons entitled to practise before the High Courts.
 
-79. Extension of the jurisdiction of a High Court having its principal seat in any State to, and exclusion of the jurisdiction of any such High Court from, any area outside that State.
+79. Extension of the jurisdiction of a High Court to, and exclusion of the jurisdiction of a High Court from, any Union territory.
 
 80. Extension of the powers and jurisdiction of members of a police force belonging to any State to any area outside that State, but not so as to enable the police of one State to exercise powers and jurisdiction in any area outside that State without the consent of the Government of the State in which such area is situated; extension of the powers and jurisdiction of members of a police force belonging to any State to railway areas outside that State.
 
@@ -237,7 +237,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 11. Education including universities, subject to the provisions of entries 63, 64, 65 and 66 of List I and entry 25 of List III.
 
-12. Libraries, museums and other similar institutions controlled or financed by the State; ancient and historical monuments and records other than those declared by Parliament by law to be of national importance.
+12. Libraries, museums and other similar institutions controlled or financed by the State; ancient and historical monuments and records other than those declared by or under law made by Parliament to be of national importance.
 
 13. Communications, that is to say, roads, bridges, ferries, and other means of communication not specified in List I; municipal tramways; ropeways; inland waterways and traffic thereon subject to the provisions of List I and List III with regard to such waterways; vehicles other than mechanically propelled vehicles.
 
@@ -261,7 +261,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 23. Regulation of mines and mineral development subject to the provisions of List I with respect to regulation and development under the control of the Union.
 
-24. Industries subject to the provisions of entry 52 of List I.
+24. Industries subject to the provisions of entries 7 and 52 of List I.
 
 25. Gas and gas-works.
 
@@ -285,7 +285,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 35. Works, lands and buildings vested in or in the possession of the State.
 
-36. Acquisition or requisitioning of property, except for the purposes of the Union, subject to the provisions of entry 42 of List III.
+36.  * * * * *
 
 37. Elections to the Legislature of the State subject to the provisions of any law made by Parliament.
 
@@ -441,11 +441,11 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 39. Newspapers, books and printing presses.
 
-40. Archaeological sites and remains other than those declared by Parliament by law to be of national importance.
+40. Archaeological sites and remains other than those declared by or under law made by Parliament to be of national importance.
 
 41. Custody, management and disposal of property (including agricultural land) declared by law to be evacuee property.
 
-42. Principles on which compensation for property acquired or requisitioned for the purposes of the Union or of a State or for any other public purpose is to be determined, and the form and the manner in which such compensation is to be given.
+42. Acquisition and requisitioning of property.
 
 43. Recovery in a State of claims in respect of taxes and other public demands, including arrears of land-revenue and sums recoverable as such arrears, arising outside that State.
 

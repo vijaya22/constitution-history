@@ -1,9 +1,11 @@
 ---
 article: "224"
-title: "Attendance of retired Judges at sittings of High Courts"
+title: "Appointment of additional and acting Judges"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-Notwithstanding anything in this Chapter, the Chief Justice of a High Court for any State may at any time, with the previous consent of the President, request any person who has held the office of a Judge of that Court or of any other High Court to sit and act as a Judge of the High Court for that State, and every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that High Court:
+(1) If by reason of any temporary increase in the business of a High Court or by reason of arrears of work therein, it appears to the President that the number of the Judges of that Court should be for the time being increased, the President may appoint duly qualified persons to be additional Judges of the Court for such period not exceeding two years as he may specify.
 
-Provided that nothing in this article shall be deemed to require any such person as aforesaid to sit and act as a Judge of that High Court unless he consents so to do.
+(2) When any Judge of a High Court other than the Chief Justice is by reason of absence or for any other reason unable to perform the duties of his office or is appointed to act temporarily as Chief Justice, the President may appoint a duly qualified person to act as a Judge of that Court until the permanent Judge has resumed his duties.
+
+(3) No person appointed as an additional or acting Judge of a High Court shall hold office after attaining the age of sixty years.

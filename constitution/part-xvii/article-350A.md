@@ -1,0 +1,7 @@
+---
+article: "350A"
+title: "Facilities for instruction in mother-tongue at primary stage"
+part: "XVII"
+part_title: "OFFICIAL LANGUAGE"
+---
+It shall be the endeavour of every State and of every local authority within the State to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and the President may issue such directions to any State as he considers necessary or proper for securing the provision of such facilities.

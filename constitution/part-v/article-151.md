@@ -6,4 +6,4 @@ part_title: "THE UNION"
 ---
 (1) The reports of the Comptroller and Auditor-General of India relating to the accounts of the Union shall be submitted to the President, who shall cause them to be laid before each House of Parliament.
 
-(2) The reports of the Comptroller and Auditor-General of India relating to the accounts of a State shall be submitted to the Governor or Rajpramukh of the State, who shall cause them to be laid before the Legislature of the State.
+(2) The reports of the Comptroller and Auditor-General of India relating to the accounts of a State shall be submitted to the Governor of the State, who shall cause them to be laid before the Legislature of the State.

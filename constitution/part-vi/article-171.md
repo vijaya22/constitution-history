@@ -2,9 +2,9 @@
 article: "171"
 title: "Composition of the Legislative Councils"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-(1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-fourth of the total number of members in the Legislative Assembly of that State:
+(1) The total number of members in the Legislative Council of a State having such a Council shall not exceed one-third of the total number of members in the Legislative Assembly of that State:
 
 Provided that the total number of members in the Legislative Council of a State shall in no case be less than forty.
 

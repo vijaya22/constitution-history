@@ -20,6 +20,6 @@ Provided that where such law is a law made by the Legislature of a State, the pr
 
 (2) In this article,—
 
-(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include any jagir, inam or muafi or other similar grant and in the States of Madras and Travancore-Cochin, any janmam right;
+(a) the expression "estate" shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include any jagir, inam or muafi or other similar grant and in the States of Madras and Kerala, any janmam right;
 
 (b) the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, raiyat, under-raiyat or other intermediary and any rights or privileges in respect of land revenue.

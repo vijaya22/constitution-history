@@ -11,11 +11,11 @@ Provisions as to the Administration and Control of Scheduled Areas and
 
 ### GENERAL
 
-1. Interpretation.—In this Schedule, unless the context otherwise requires, the expression “State” means a State specified in Part A or Part B of the First Schedule but does not include the State of Assam
+1. Interpretation.—In this Schedule, unless the context otherwise requires, the expression “State” does not include the State of Assam
 
 2. Executive power of a State in Scheduled Areas.—Subject to the provisions of this Schedule, the executive power of a State extends to the Scheduled Areas therein.
 
-3. Report by the Governor or Rajpramukh to the President regarding the administration of Scheduled Areas.—The Governor or Rajpramukh of each State having Scheduled Areas therein shall annually, or whenever so required by the President, make a report to the President regarding the administration of the Scheduled Areas in that State and the executive power of the Union shall extend to the giving of directions to the State as to the administration of the said areas.
+3. Report by the Governor to the President regarding the administration of Scheduled Areas.—The Governor of each State having Scheduled Areas therein shall annually, or whenever so required by the President, make a report to the President regarding the administration of the Scheduled Areas in that State and the executive power of the Union shall extend to the giving of directions to the State as to the administration of the said areas.
 
 ### PART B
 
@@ -27,9 +27,9 @@ ADMINISTRATION AND CONTROL OF SCHEDULED AREAS AND
 
 Provided that if the number of representatives of the Scheduled Tribes in the Legislative Assembly of the State is less than the number of seats in the Tribes Advisory Council to be filled by such representatives, the remaining seats shall be filled by other members of those tribes.
 
-(2) It shall be the duty of the Tribes Advisory Council to advise on such matters pertaining to the welfare and advancement of the Scheduled Tribes in the State as may be referred to them by the Governor or Rajpramukh, as the case may be.
+(2) It shall be the duty of the Tribes Advisory Council to advise on such matters pertaining to the welfare and advancement of the Scheduled Tribes in the State as may be referred to them by the Governor.
 
-(3) The Governor or Rajpramukh may make rules prescribing or regulating, as the case may be,—
+(3) The Governor may make rules prescribing or regulating, as the case may be,—
 
 (a) the number of members of the Council, the mode of their appointment and the appointment of the Chairman of the Council and of the officers and servants thereof;
 
@@ -37,7 +37,7 @@ Provided that if the number of representatives of the Scheduled Tribes in the Le
 
 (c) all other incidental matters.
 
-5. Law applicable to Scheduled Areas.—(1) Notwithstanding anything in this Constitution, the Governor or Rajpramukh, as the case may be may by public notification direct that any particular Act of Parliament or of the Legislature of the State shall not apply to a Scheduled Area or any part thereof in the State or shall apply to a Scheduled Area or any part thereof in the State subject to such exceptions and modifications as he may specify in the notification and any direction given under this sub-paragraph may be given so as to have retrospective effect.
+5. Law applicable to Scheduled Areas.—(1) Notwithstanding anything in this Constitution, the Governor may by public notification direct that any particular Act of Parliament or of the Legislature of the State shall not apply to a Scheduled Area or any part thereof in the State or shall apply to a Scheduled Area or any part thereof in the State subject to such exceptions and modifications as he may specify in the notification and any direction given under this sub-paragraph may be given so as to have retrospective effect.
 
 (2) The Governor may make regulations for the peace and good government of any area in a State which is for the time being a Scheduled Area.
 
@@ -49,11 +49,11 @@ In particular and without prejudice to the generality of the foregoing power, su
 
 (c) regulate the carrying on of business as money-lender by persons who lend money to members of the Scheduled Tribes in such area.
 
-(3) In making any such regulation as is referred to in sub-paragraph (2) of this paragraph, the Governor or Rajpramukh may repeal or amend any Act of Parliament or of the Legislature of the State or any existing law which is for the time being applicable to the area in question.
+(3) In making any such regulation as is referred to in sub-paragraph (2) of this paragraph, the Governor may repeal or amend any Act of Parliament or of the Legislature of the State or any existing law which is for the time being applicable to the area in question.
 
 (4) All regulations made under this paragraph shall be submitted forthwith to the President and, until assented to by him, shall have no effect.
 
-(5) No regulation shall be made under this paragraph unless the Governor or Rajpramukh making the regulation has, in the case where there is a Tribes Advisory Council for the State, consulted such Council.
+(5) No regulation shall be made under this paragraph unless the Governor making the regulation has, in the case where there is a Tribes Advisory Council for the State, consulted such Council.
 
 ### PART C
 

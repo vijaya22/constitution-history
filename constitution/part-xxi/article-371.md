@@ -1,9 +1,15 @@
 ---
 article: "371"
-title: "Temporary provisions with respect to States in Part B of the First Schedule"
+title: "Special provision with respect to the States of Andhra Pradesh Maharashtra and Gujarat"
 part: "XXI"
 part_title: "TEMPORARY AND TRANSITIONAL PROVISIONS"
 ---
-Notwithstanding anything in this Constitution, during a period of ten years from the commencement thereof, or during such longer or shorter period as Parliament may by law provide in respect of any State, the Government of every State specified in Part B of the First Schedule shall be under the general control of, and comply with such particular directions, if any, as may from time to time be given by, the President:
+(1) Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Andhra Pradesh or Punjab, provide for the constitution and functions of regional committees of the Legislative Assembly of the State, for the modifications to be made in the rules of business of the Government and in the rules of procedure of the Legislative Assembly of the State and for any special responsibility of the Governor in order to secure the proper functioning for the regional committees.
 
-Provided that the President may by order direct that the provisions of this article shall not apply to any State specified in the order.
+(2) Notwithstanding anything in this Constitution, the President may by order made with respect to the State of Bombay, provide for any special responsibility of the Governor for—
+
+(a) the establishment of separate development boards for Vidarbha, Marathwada, the rest of Maharashtra, Saurashtra, Kutch and the rest of Gujarat with the provision that a report on the working of each of these boards will be placed each year before the State Legislative Assembly;
+
+(b) the equitable allocation of funds for developmental expenditure over the said areas, subject to the requirements of the State as a whole; and
+
+(c) an equitable arrangement providing adequate facilities for technical education and vocational training, and adequate opportunities for employment in services under the control of the State Government, in respect of all the said areas, subject to the requirements of the State as a whole.

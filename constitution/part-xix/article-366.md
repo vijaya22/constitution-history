@@ -62,15 +62,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (b) any other line of communication wholly situate in one State and declared by Parliament by law not to be a railway;
 
-(21) "Rajpramukh" means—
-
-(a) in relation to the State of Hyderabad, the person who for the time being is recognised by the President as the Nizam of Hyderabad;
-
-(b) in relation to the State of Jammu and Kashmir or the State of Mysore, the person who for the time being is recognised by the President as the Maharaja of that State; and
-
-(c) in relation to any other State specified in Part B of the First Schedule, the person who for the time being is recognised by the President as the Rajpramukh of that State,
-
-and includes in relation to any of the said States any person for the time being recognised by the President as competent to exercise the powers of the Rajpramukh in relation to that State;
+(21) * * * *
 
 (22) "Ruler" in relation to an Indian State means the Prince, Chief or other person by whom any such covenant or agreement as is referred to in clause (1) of article 291 was entered into and who for the time being is recognised by the President as the Ruler of the State, and includes any person who for the time being is recognised by the President as the successor of such Ruler;
 
@@ -92,4 +84,4 @@ and includes in relation to any of the said States any person for the time being
 
 (29) “tax on income” includes a tax in the nature of an excess profits tax;
 
-(30) "Uparajpramukh" in relation to any State specified in Part B of the First Schedule means the person who for the time being is recognised by the President as the Uparajpramukh of that State.
+(30) "Union territory" means any Union territory specified in the First Schedule and includes any other territory comprised within the territory of India but not specified in that Schedule.

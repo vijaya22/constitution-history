@@ -12,7 +12,7 @@ Provided that as nearly as may be one-half of the members of every Public Servic
 
 Provided that—
 
-(a) a member of a Public Service Commission may, by writing under his hand addressed, in the case of the Union Commission or a Joint Commission, to the President, and in the case of a State Commission, to the Governor or Rajpramukh of the State, resign his office;
+(a) a member of a Public Service Commission may, by writing under his hand addressed, in the case of the Union Commission or a Joint Commission, to the President, and in the case of a State Commission, to the Governor of the State, resign his office;
 
 (b) a member of a Public Service Commission may be removed from his office in the manner provided in clause (1) or clause (3) of article 317.
 

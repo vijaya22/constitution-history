@@ -4,14 +4,16 @@ title: "Composition of the House of the People"
 part: "V"
 part_title: "THE UNION"
 ---
-(1) (a) Subject to the provisions of clause (2) and of articles 82 and 331, the House of the People shall consist of not more than five hundred members directly elected by the voters in the States.
+(1) subject to the provisions of art. 331, the House of the People shall consist of—
 
-(b) For the purpose of sub-clause (a), the States shall be divided, grouped or formed into territorial constituencies and the number of members to be allotted to each such constituency shall be so determined as to ensure that there shall be not less than one member for every 750,000 of the population and not more than one member for every 500,000 of the population.
+(a) not more than five hundred and twenty-five members chosen by direct election from territorial constituencies in the States; and
 
-(c) The ratio between the number of members allotted to each territorial constituency and the population of that constituency as ascertained at the last preceding census of which the relevant figures have been published shall, so far as practicable, be the same throughout the territory of India.
+(b) not more than twenty members to represent the Union territories, chosen in such manner as Parliament may by law provide.
 
-(2) The representation in the House of the People of the territories comprised within the territory of India but not included within any State shall be such as Parliament may by law provide.
+(2) For the purposes of sub-clause (a) of clause (1),—
 
-(3) Upon the completion of each census, the representation of the several territorial constituencies in the House of the People shall be readjusted by such authority, in such manner and with effect from such date as Parliament may by law determine:
+(a) there shall be allotted to each State a number of seats in the House of the People in such manner that the ratio between that number and the population of the State is, so far as practicable, the same for all States; and
 
-Provided that such readjustment shall not affect representation in the House of the People until the dissolution of the then existing House.
+(b) each State shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it is, so far as practicable, the same throughout the State:
+
+(3) In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:

@@ -16,4 +16,4 @@ Provided that if such amendment seeks to make any change in—
 
 (d) the representation of States in Parliament; or
 
-(e) the provisions of this article, the amendment shall also require to be ratified by the Legislatures of not less than one-half of the States specified in Part A and Part B of the First Schedule by resolutions to that effect passed by those Legislatures before the Bill making provision for such amendment is presented to the President for assent.
+(e) the provisions of this article, the amendment shall also require to be ratified by the Legislatures of not less than one-half of the States by resolutions to that effect passed by those Legislatures before the Bill making provision for such amendment is presented to the President for assent.

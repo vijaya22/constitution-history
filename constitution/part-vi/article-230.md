@@ -1,13 +1,13 @@
 ---
 article: "230"
-title: "Extension of or exclusion from the jurisdiction of High Courts"
+title: "Extension of jurisdiction of High Courts to Union territories"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-Parliament may by law—
+(1) Parliament may by law extend the jurisdiction of a High Court to, or exclude the jurisdiction of a High Court from, any Union territory.
 
-(a) extend the jurisdiction of a High Court to, or
+(2) Where the High Court of a State exercises jurisdiction in relation to a Union territory,—
 
-(b) exclude the jurisdiction of a High Court from,
+(a) nothing in this Constitution shall be construed as empowering the Legislature of the State to increase, restrict or abolish that jurisdiction; and
 
-any State specified in the First Schedule other than, or any area not within, the State in which the High Court has its principal seat.
+(b) the reference in article 227 to the Governor shall, in relation to any rules, forms or tables for subordinate courts in that territory, be construed as a reference to the President.

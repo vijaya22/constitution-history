@@ -1,15 +1,9 @@
 ---
 article: "239"
-title: "Administration of States in Part C of the First Schedule"
+title: "Administration of Union territories"
 part: "VIII"
-part_title: "THE STATES IN PART C OF THE FIRST SCHEDULE"
+part_title: "THE UNION TERRITORIES"
 ---
-(1) Subject to the other provisions of this Part, a State specified in Part C of the First Schedule shall be administered by the President acting, to such extent as he thinks fit, through a Chief Commissioner or a Lieutenant-Governor to be appointed by him or through the Government of a neighbouring State:
+(1) Save as otherwise provided by Parliament by law, every Union territory shall be administered by the President acting, to such extent as he thinks fit, through an administrator to be appointed by him with such designation as he may specify.
 
-Provided that the President shall not act through the Government of a neighbouring State save after—
-
-(a) consulting the Government concerned; and
-
-(b) ascertaining in such manner as the President considers most appropriate the views of the people of the State to be so administered.
-
-(2) In this article, references to a State shall include references to a part of a State.
+(2) Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State as the administrator of an adjoining Union territory, and where a Governor is so appointed, he shall exercise his functions as such administrator independently of his Council of Ministers.

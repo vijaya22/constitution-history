@@ -14,4 +14,4 @@ part_title: "THE UNION"
 
 (2) Nothing in sub-clause (a) of clause (1) shall affect the power conferred by law on any officer of the Armed Forces of the Union to suspend, remit or commute a sentence passed by a Court Martial.
 
-(3) Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor or Rajpramukh of a State under any law for the time being in force.
+(3) Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor of a State under any law for the time being in force.

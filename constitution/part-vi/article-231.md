@@ -1,13 +1,17 @@
 ---
 article: "231"
-title: "Restrictions on the powers of the Legislatures of States to make laws with respect to jurisdiction of a High Court in a State having jurisdiction outside that State"
+title: "Establishment of a common High Court for two or more States"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-Where a High Court exercises jurisdiction in relation to any area outside the State in which it has its principal seat, nothing in this Constitution shall be construed—
+(1) Notwithstanding anything contained in the preceding provisions of this Chapter, Parliament may by law establish a common High Court for two or more States or for two or more States and a Union territory.
 
-(a) as empowering the Legislature of the State in which the Court has its principal seat to increase, restrict or abolish that jurisdiction;
+(2) In relation to any such High Court,—
 
-(b) as empowering the Legislature of a State specified in Part A or Part B of the First Schedule in which any such area is situate, to abolish that jurisdiction; or
+(a) the reference in article 217 to the Governor of the State shall be construed as reference to the Governors of all the States in relation to which the High Court exercises jurisdiction
 
-(c) as preventing the Legislature having power to make laws in that behalf for any such area, from passing, subject to the provisions of clause (b), such laws with respect to the jurisdiction of the Court in relation to that area as it would be competent to pass if the principal seat of the Court were in that area.
+(b) the reference in article 227 to the Governor shall, in relation to any rules, forms or tables for subordinate courts, be construed as a reference to the Governor of the State in which the subordinate courts are situate; and
+
+(c) the references in articles 219 and 229 to the State shall be construed as a reference to the State in which the High Court has its principal seat:
+
+Provided that if such principal seat is in a Union territory, the references in articles 219 and 229 to the Governor, Public Service Commission, Legislature and Consolidated Fund of the State shall be construed respectively as references to the President, Union Public Service Commission, Parliament and Consolidated Fund of India.

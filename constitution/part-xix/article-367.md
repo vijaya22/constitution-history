@@ -6,7 +6,7 @@ part_title: "MISCELLANEOUS"
 ---
 (1) Unless the context otherwise requires, the General Clauses Act, 1897, shall, subject to any adaptations and modifications that may be made therein under article 372, apply for the interpretation of this Constitution as it applies for the interpretation of an Act of the Legislature of the Dominion of India.
 
-(2) Any reference in this Constitution to Acts or laws of, or made by, Parliament, or to Acts or laws of, or made by, the Legislature of a State specified in Part A or Part B of the First Schedule, shall be construed as including a reference to an Ordinance made by the President or, to an Ordinance made by a Governor or Rajpramukh, as the case may be.
+(2) Any reference in this Constitution to Acts or laws of, or made by, Parliament, or to Acts or laws of, or made by, the Legislature of a State, shall be construed as including a reference to an Ordinance made by the President or, to an Ordinance made by a Governor, as the case may be.
 
 (3) For the purposes of this Constitution “foreign State” means any State other than India:
 

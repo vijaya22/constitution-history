@@ -12,4 +12,4 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (c) the Scheduled Tribes in the autonomous districts of Assam.
 
-(2) The number of seats reserved in any State for the Scheduled Castes or the Scheduled Tribes under clause (1) shall bear, as nearly as may be, the same proportion to the total number of seats allotted to that State in the House of the People as the population of the Scheduled Castes in the State or of the Scheduled Tribes in the State or part of the State, as the case may be, in respect of which seats are so reserved, bears to the total population of the State.
+(2) The number of seats reserved in any State or Union territory for the Scheduled Castes or the Scheduled Tribes under clause (1) shall bear, as nearly as may be, the same proportion to the total number of seats allotted to that State or Union territory in the House of the People as the population of the Scheduled Castes in the State or Union territory or of the Scheduled Tribes in the State or Union territory or part of the State or Union territory, as the case may be, in respect of which seats are so reserved, bears to the total population of the State or Union territory.

@@ -14,4 +14,4 @@ part_title: "THE UNION"
 
 (2) A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.
 
-Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor or Rajpramukh or Uparajpramukh of any State or is a Minister either for the Union or for any State.
+Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor of any State or is a Minister either for the Union or for any State.

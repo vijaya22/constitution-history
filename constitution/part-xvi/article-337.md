@@ -4,7 +4,7 @@ title: "Special provision with respect to educational grants for the benefit of 
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 ---
-During the first three financial years after the commencement of this Constitution, the same grants, if any, shall be made by the Union and by each State specified in Part A or Part B of the First Schedule for the benefit of the Anglo-Indian community in respect of education as were made in the financial year ending on the thirty-first day of March, 1948.
+During the first three financial years after the commencement of this Constitution, the same grants, if any, shall be made by the Union and by each State for the benefit of the Anglo-Indian community in respect of education as were made in the financial year ending on the thirty-first day of March, 1948.
 
 During every succeeding period of three years the grants may be less by ten per cent. than those for the immediately preceding period of three years:
 

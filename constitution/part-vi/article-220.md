@@ -1,7 +1,9 @@
 ---
 article: "220"
-title: "Prohibition of practising in courts or before any authority by Judges"
+title: "Restriction on practice after being a permanent Judge"
 part: "VI"
-part_title: "THE STATES IN PART A OF THE FIRST SCHEDULE"
+part_title: "THE STATES"
 ---
-No person who has held office as a Judge of a High Court after the commencement of this Constitution shall plead or act in any court or before any authority within the territory of India.
+No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.
+
+Explanation.—In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement4 of the Constitution (Seventh Amendment) Act, 1956.
