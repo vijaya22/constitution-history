@@ -12,7 +12,7 @@ part_title: "THE UNION TERRITORIES"
 
 (c) Dadra and Nagar Haveli;
 
-(d) Goa, Daman and Diu
+(d) Daman and Diu;
 
 (e) Pondicherry;
 

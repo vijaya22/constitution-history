@@ -6,7 +6,7 @@ part_title: "THE UNION"
 ---
 (1) Subject to the provisions of article 331, the House of the People shall consist of—
 
-(a) not more than five hundred and twenty-five members chosen by direct election from territorial constituencies in the States; and
+(a) not more than five hundred and thirty members chosen by direct election from territorial constituencies in the States; and
 
 (b) not more than twenty members to represent the Union territories, chosen in such manner as Parliament may by law provide.
 

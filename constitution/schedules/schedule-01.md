@@ -53,6 +53,8 @@ articles: "Articles 1 and 4"
 
 24. Arunachal Pradesh — The territories specified in section 7 of the North-Eastern Areas (Reorganisation) Act, 1971.
 
+25. Goa — The territories specified in section 3 of the Goa, Daman and Diu Reorganisation Act, 1987.
+
 ### II. THE UNION TERRITORIES
 
 1. Delhi — The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner’s Province of Delhi.
@@ -65,7 +67,7 @@ articles: "Articles 1 and 4"
 
 ⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
 
-⟨wording before the Goa, Daman and Diu Reorganisation Act, 1987 not yet imported⟩
+*⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
 
 6. Pondicherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
 

@@ -12,4 +12,4 @@ Provided that the Speaker of the Legislative Assembly or Chairman of the Legisla
 
 Provided that in relation to the Legislatures of the States of Himachal Pradesh, Manipur, Meghalaya and Tripura this clause shall have effect as if for the words “fifteen years” occurring therein, the words “twenty-five years” were substituted:
 
-Provided further that in relation to the Legislatures of the States of Arunachal Pradesh and Mizoram, this clause shall have effect as if for the words "fifteen years" occurring therein, the words "forty years" were substituted.
+Provided further that in relation to the Legislatures of the States of Arunachal Pradesh, Goa and Mizoram, this clause shall have effect as if for the words "fifteen years" occurring therein, the words "forty years" were substituted.
