@@ -273,7 +273,7 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (2) any reference in the table below to any district shall be construed as a reference to the territories comprised within the autonomous district of that name existing immediately before the day appointed under clause (b) of section 2 of the North-Eastern Areas (Reorganisation) Act, 1971:
 
-Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses (a), (b) and (d) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8 and clause (d) of sub-paragraph (2) of paragraph 10 of this Schedule, no part of the area comprised within the municipality of Shillong shall be deemed to be within the ⟨wording before the Government of Meghalaya Notification No. DCA 31/72/11 not yet imported⟩.
+Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of paragraph 3, paragraph 4, paragraph 5, paragraph 6, sub-paragraph (2), clauses (a), (b) and (d) of sub-paragraph (3) and sub-paragraph (4) of paragraph 8 and clause (d) of sub-paragraph (2) of paragraph 10 of this Schedule, no part of the area comprised within the municipality of Shillong shall be deemed to be within the Khasi Hills District.
 
 ### TABLE
 
@@ -285,7 +285,9 @@ Provided that for the purposes of clauses (e) and (f) of sub-paragraph (1) of pa
 
 ### PART II
 
-⟨wording before the Government of Meghalaya Notification No. DCA 31/72/11 not yet imported⟩
+1. Khasi Hills District.
+
+2. Jaintia Hills District.
 
 3. The Garo Hills District.
 
