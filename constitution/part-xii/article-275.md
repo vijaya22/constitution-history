@@ -14,6 +14,12 @@ Provided further that there shall be paid out of the Consolidated Fund of India 
 
 (b) the costs of such schemes of development as may be undertaken by that State with the approval of the Government of India for the purpose of raising the level of administration of the said areas to that of the administration of the rest of the areas of that State.
 
+(1A) On and from the formation of the autonomous State under article 244A,—
+
+(i) any sums payable under clause (a) of the second proviso to clause (1) shall, if the autonomous State comprises all the tribal areas referred to therein, be paid to the autonomous State, and, if the autonomous State comprises only some of those tribal areas, be apportioned between the State of Assam and the autonomous State as the President may, by order, specify;
+
+(ii) there shall be paid out of the Consolidated Fund of India as grants-in-aid of the revenues of the autonomous State sums, capital and recurring, equivalent to the costs of such schemes of development as may be undertaken by the autonomous State with the approval of the Government of India for the purpose of raising the level of administration of that State to that of the administration of the rest of the State of Assam.
+
 (2) Until provision is made by Parliament under clause (1), the powers conferred on Parliament under that clause shall be exercisable by the President by order and any order made by the President under this clause shall have effect subject to any provision so made by Parliament:
 
 Provided that after a Finance Commission has been constituted no order shall be made under this clause by the President except after considering the recommendations of the Finance Commission.
