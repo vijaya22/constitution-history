@@ -64,7 +64,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (21) * * * *
 
-(22) "Ruler" in relation to an Indian State means the Prince, Chief or other person by whom any such covenant or agreement as is referred to in clause (1) of article 291 was entered into and who for the time being is recognised by the President as the Ruler of the State, and includes any person who for the time being is recognised by the President as the successor of such Ruler;
+(22) “Ruler” means the Prince, Chief or other person who, at any time before the commencement of the Constitution (Twenty-sixth Amendment) Act, 1971, was recognised by the President as the Ruler of an Indian State or any person who, at any time before such commencement, was recognised by the President as the successor of such Ruler;
 
 (23) “Schedule” means a Schedule to this Constitution;
 
