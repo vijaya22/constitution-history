@@ -25,7 +25,7 @@ articles: "Articles 1 and 4"
 
 10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
-11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956 but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960
+11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956 and the territories referred to in Part II of the First Schedule to the Acquired Territories (Merger) Act, 1960 but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960
 
 12. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
 
