@@ -10,4 +10,8 @@ Provided that such readjustment shall not affect representation in the House of 
 
 Provided further that such readjustment shall take effect from such date as the President may, by order, specify and until such readjustment takes effect, any election to the House may be held on the basis of the territorial constituencies existing before such readjustment:
 
-Provided also that until the relevant figures for the first census taken after the year 2000 have been published, it shall not be necessary to readjust the allocation of seats in the House of the People to the States and the division of each State into territorial constituencies under this article.
+Provided also that until the relevant figures for the first census taken after the year 2026 have been published, it shall not be necessary to readjust,—
+
+(i) the allocation of seats in the House of the People to the States as readjusted on the basis of the 1971 census; and
+
+(ii) the division of each State into territorial constituencies as may be readjusted on the basis of the 1991 census, under this article.

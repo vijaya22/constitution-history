@@ -20,4 +20,8 @@ Provided that the provisions of sub-clause (a) of this clause shall not be appli
 
 (3) In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
 
-Provided that the reference in this clause to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
+Provided that the reference in this clause to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed,—
+
+(i) for the purposes of sub-clause (a) of clause (2) and the proviso to that clause, as a reference to the 1971 census; and
+
+(ii) for the purposes of sub-clause (b) of clause (2) as a reference to the 1991 census.

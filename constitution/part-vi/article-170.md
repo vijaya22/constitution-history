@@ -10,7 +10,7 @@ part_title: "THE STATES"
 
 Explanation.—In this clause, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:
 
-Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year 2026 have been published, be construed as a reference to the 1991 census.
 
 (3) Upon the completion of each census, the total number of seats in the Legislative Assembly of each State and the division of each State into territorial constituencies shall be readjusted by such authority and in such manner as Parliament may by law determine:
 
@@ -18,4 +18,8 @@ Provided that such readjustment shall not affect representation in the Legislati
 
 Provided further that such readjustment shall take effect from such date as the President may, by order, specify and until such readjustment takes effect, any election to the Legislative Assembly may be held on the basis of the territorial constituencies existing before such readjustment:
 
-Provided also that until the relevant figures for the first census taken after the year 2000 have been published, it shall not be necessary to readjust the total number of seats in the Legislative Assembly of each State and the division of such State into territorial constituencies under this clause.
+Provided also that until the relevant figures for the first census taken after the year 2026 have been published, it shall not be necessary to readjust—
+
+(i) the total number of seats in the Legislative Assembly of each State as readjusted on the basis of the 1971 census; and
+
+(ii) the division of such State into territorial constituencies as may be readjusted on the basis of the 1991 census, under this clause.
