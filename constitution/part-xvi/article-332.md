@@ -23,3 +23,5 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 (5) The constituencies for the seats reserved for any autonomous district of Assam shall not comprise any area outside that district.
 
 (6) No person who is not a member of a Scheduled Tribe of any autonomous district of the State of Assam shall be eligible for election to the Legislative Assembly of the State from any constituency of that district:
+
+Provided that for elections to the Legislative Assembly of the State of Assam, the representation of the Scheduled Tribes and non-Scheduled Tribes in the constituencies included in the Bodoland Territorial Areas District, so notified, and existing prior to the constitution of Bodoland Territorial Areas District, shall be maintained.
