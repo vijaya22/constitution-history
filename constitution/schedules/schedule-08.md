@@ -27,8 +27,10 @@ articles: "Articles 344(1) and 351"
 
 11. Sanskrit.
 
-12. Tamil.
+12. Sindhi.
 
-13. Telugu.
+13. Tamil.
 
-14. Urdu.
+14. Telugu.
+
+15. Urdu.
