@@ -47,6 +47,8 @@ articles: "Articles 1 and 4"
 
 21. Meghalaya — The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971
 
+22. Sikkim — The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.
+
 ### II. THE UNION TERRITORIES
 
 1. Delhi — The territory which immediately before the commencement of this Constitution was comprised in the Chief Commissioner’s Province of Delhi.
