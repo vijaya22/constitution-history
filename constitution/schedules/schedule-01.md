@@ -49,6 +49,8 @@ articles: "Articles 1 and 4"
 
 22. Sikkim — The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.
 
+23. Mizoram — The territories specified in section 6 of the North-Eastern Areas (Reorganisation) Act, 1971.
+
 24. Arunachal Pradesh — The territories specified in section 7 of the North-Eastern Areas (Reorganisation) Act, 1971.
 
 ### II. THE UNION TERRITORIES
@@ -69,6 +71,6 @@ articles: "Articles 1 and 4"
 
 7. Chandigarh — The territories specified in section 4 of the Punjab Reorganisation Act, 1966.
 
-⟨wording before the State of Mizoram Act, 1986 not yet imported⟩
+* * * * *
 
-⟨wording before the State of Mizoram Act, 1986 not yet imported⟩
+* * * * *

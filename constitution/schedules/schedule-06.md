@@ -3,7 +3,9 @@ schedule: "6"
 title: "Sixth Schedule"
 articles: "Articles 244(2) and 275(1)"
 ---
-Provisions as to the Administration of Tribal Areas in ⟨wording before the State of Mizoram Act, 1986 not yet imported⟩
+Provisions as to the Administration of Tribal Areas in the States of
+
+Assam, Meghalaya, Tripura and Mizoram
 
 1. Autonomous districts and autonomous regions.—(1) Subject to the provisions of this paragraph, the tribal areas in each item of Parts I, II and IIA and in Part III of the table appended to paragraph 20 of this Schedule shall be an autonomous district.
 
@@ -257,7 +259,7 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) Every order made under sub-paragraph (2) of this paragraph with the reasons therefor shall be laid before the Legislature of the State and shall cease to operate at the expiration of thirty days from the date on which the State Legislature first sits after the issue of the order, unless, before the expiry of that period it has been approved by that State Legislature.
 
-17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam or Meghalaya or Tripura, the Governor may by order declare that any area within an autonomous district in the State of Assam or Meghalaya or Tripura, as the case may be, shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
+17. Exclusion of areas from autonomous districts in forming constituencies in such districts.—For the purposes of elections to the Legislative Assembly of Assam or Meghalaya or Tripura or Mizoram, the Governor may by order declare that any area within an autonomous district in the State of Assam or Meghalaya or Tripura or Mizoram, as the case may be, shall not form part of any constituency to fill a seat or seats in the Assembly reserved for any such district but shall form part of a constituency to fill a seat or seats in the Assembly not so reserved to be specified in the order.
 
 18. * * * * *
 
@@ -271,7 +273,7 @@ Provided that the Governor may by a further order or orders extend the operation
 
 (3) All regulations made under clause (b) of sub-paragraph (1) of this paragraph shall be submitted forthwith to the President and, until assented to by him, shall have no effect.
 
-20. Tribal areas.—(1) The areas specified in Parts I, II, IIA and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya, the State of Tripura and the Union territory of Mizoram.
+20. Tribal areas.—(1) The areas specified in Parts I, II, IIA and III of the table below shall respectively be the tribal areas within the State of Assam, the State of Meghalaya, the State of Tripura and the State of Mizoram.
 
 (2) Any reference in Part I, Part II or Part III of the table below to any district shall be construed as a reference to the territories comprised within the autonomous district of that name existing immediately before the day appointed under clause (b) of section 2 of the North-Eastern Areas (Reorganisation) Act, 1971:
 

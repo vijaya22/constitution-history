@@ -16,8 +16,6 @@ part_title: "THE UNION TERRITORIES"
 
 (e) Pondicherry;
 
-(f) Mizoram;
-
 Provided that when any body is created under article 239A to function as a Legislature for the Union territory of Pondicherry, the President shall not make any regulation for the peace, progress and good government of that Union territory with effect from the date appointed for the first meeting of the Legislature:
 
 Provided further that whenever the body functioning as a Legislature for the Union territory of Pondicherry is dissolved, or the functioning of that body as such Legislature remains suspended on account of any action taken under any such law as is referred to in clause (1) of article 239A, the President may, during the period of such dissolution or suspension, make regulations for the peace, progress and good government of that Union territory.
