@@ -29,7 +29,7 @@ articles: "Articles 1 and 4"
 
 12. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
 
-13. Uttar Pradesh — 13. Uttar Pradesh
+13. Uttar Pradesh — The territories which immediately before the commencement of this Constitution were either comprised in the Province known as the United Provinces or were being administered as if they formed part of that Province, the territories specified in clause (b) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, and the territories specified in clause (b) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (a) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, and the territories specified in clause (a) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979.
 
 14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956
 
@@ -37,7 +37,7 @@ articles: "Articles 1 and 4"
 
 16. Nagaland — The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.
 
-17. Haryana — 17. Haryana
+17. Haryana — The territories specified in sub-section (1) of section 3 of the Punjab Reorganisation Act, 1966 and the territories specified in clause (a) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (v) of sub-section (1) of section 4 of that Act.
 
 18. Himachal Pradesh — The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioners’ Provinces under the names of Himachal Pradesh and Bilaspur and the territories specified in sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
 
