@@ -22,9 +22,11 @@ part_title: "TRIBUNALS"
 
 (g) production, procurement, supply and distribution of food-stuffs (including edible oilseeds and oils) and such other goods as the President may, by public notification, declare to be essential goods for the purpose of this article and control of prices of such goods;
 
-(h) offences against laws with respect to any of the matters specified in sub-clauses (a) to (g) and fees in respect of any of those matters;
+(h) rent, its regulation and control and tenancy issues including the right, title and interest of landlords and tenants;
 
-(i) any matter incidental to any of the matters specified in sub-clauses (a) to (h).
+(i) offences against laws with respect to any of the matters specified in sub-clauses (a) to (h) and fees in respect of any of those matters;
+
+(j) any matter incidental to any of the matters specified in sub-clauses (a) to (i).
 
 (3) A law made under clause (1) may—
 
