@@ -26,7 +26,7 @@ Provided that if and so often as a resolution approving the continuance in force
 
 Provided further that if the dissolution of the House of the People takes place during any such period of six months and a resolution approving the continuance in force of such Proclamation has been passed by the Council of States, but no resolution with respect to the continuance in force of such Proclamation has been passed by the House of the People during the said period, the Proclamation shall cease to operate at the expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless before the expiration of the said period of thirty days a resolution approving the continuance in force of the Proclamation has been also passed by the House of the People:
 
-Provided also that in the case of the Proclamation issued under clause (1) on the 11th day of May, 1987 with respect to the State of Punjab, the reference in the first proviso to this clause to “three years” shall be construed as a reference to four years.
+Provided also that in the case of the Proclamation issued under clause (1) on the 11th day of May, 1987 with respect to the State of Punjab, the reference in the first proviso to this clause to “three years” shall be construed as a reference to five years.
 
 (5) Notwithstanding anything contained in clause (4), a resolution with respect to the continuance in force of a Proclamation approved under clause (3) for any period beyond the expiration of one year from the date of issue of such Proclamation shall not be passed by either House of Parliament unless—
 
