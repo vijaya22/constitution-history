@@ -221,7 +221,21 @@ Provided further that it shall not be competent under any such regulations to re
 
 (b) the President may, with respect to any Act of Parliament, by notification, direct that it shall not apply to an autonomous district or an autonomous region in the State of Meghalaya, or shall apply to such district or region or any part thereof subject to such exceptions or modifications as he may specify in the notification and any such direction may be given so as to have retrospective effect.
 
-⟨wording before the Sixth Schedule to the Constitution (Amendment) Act, 1988 not yet imported⟩
+12AA. Application of Acts of Parliament and of the Legislature of the State of Tripura to the autonomous districts and autonomous regions in the State of Tripura.—Notwithstanding anything in this Constitution,—
+
+(a) no Act of the Legislature of the State of Tripura in respect of any of the matters specified in paragraph 3 of this Schedule as matters with respect to which a District Council or a Regional Council may make laws, and no Act of the Legislature of the State of Tripura prohibiting or restricting the consumption of any non-distilled alcoholic liquor shall apply to the autonomous district or an autonomous region in that State unless, in either case, the District Council for that district or having jurisdiction over such region by public notification so directs, and the District Council in giving such direction with respect to any Act may direct that the Act shall, in its application to that district or such region or any part thereof have effect subject to such exceptions or modifications as it thinks fit;
+
+(b) the Governor may, by public notification, direct that any Act of the Legislature of the State of Tripura to which the provisions of clause (a) of this sub-paragraph do not apply, shall not apply to the autonomous district or an autonomous region in that State, or shall apply to that district or such region, or any part thereof, subject to such exceptions or modifications, as he may specify in the notification;
+
+(c) the President may, with respect to any Act of Parliament, by notification, direct that it shall not apply to the autonomous district or an autonomous region in the State of Tripura, or shall apply to such district or region or any part thereof, subject to such exceptions or modifications as he may specify in the notification and any such direction may be given so as to have retrospective effect.
+
+12B. Application of Acts of Parliament and of the Legislature of the State of Mizoram to autonomous districts and autonomous regions in the State of Mizoram.—Notwithstanding anything in this Constitution,—
+
+(a) no Act of the Legislature of the State of Mizoram in respect of any of the matters specified in paragraph 3 of this Schedule as matters with respect to which a District Council or a Regional Council may make laws, and no Act of the Legislature of the State of Mizoram prohibiting or restricting the consumption of any non-distilled alcoholic liquor shall apply to any autonomous district or autonomous region in that State unless, in either case, the District Council for such district or having jurisdiction over such region, by public notification, so directs, and the District Council, in giving such direction with respect to any Act, may direct that the Act shall, in its application to such district or region or any part thereof, have effect subject to such exceptions or modifications as it thinks fit;
+
+(b) the Governor may, by public notification, direct that any Act of the Legislature of the State of Mizoram to which the provisions of clause (a) of this sub-paragraph do not apply, shall not apply to an autonomous district or an autonomous region in that State, or shall apply to such district or region, or any part thereof, subject to such exceptions or modifications, as he may specify in the notification;
+
+(c) the President may, with respect to any Act of Parliament, by notification, direct that it shall not apply to an autonomous district or an autonomous region in the State of Mizoram, or shall apply to such district or region or any part thereof, subject to such exceptions or modifications as he may specify in the notification and any such direction may be given so as to have retrospective effect.
 
 13. Estimated receipts and expenditure pertaining to autonomous districts to be shown separately in the annual financial statement.—The estimated receipts and expenditure pertaining to an autonomous district which are to be credited to, or is to be made from, the Consolidated Fund of the State shall be first placed before the District Council for discussion and then after such discussion be shown separately in the annual financial statement of the State to be laid before the Legislature of the State under article 202.
 
@@ -305,7 +319,9 @@ Tripura Tribal Areas District
 
 1. The Chakma District.
 
-⟨wording before the Sixth Schedule to the Constitution (Amendment) Act, 1988 not yet imported⟩
+2. The Mara District.
+
+3. The Lai District.
 
 20A. Dissolution of the Mizo District Council.—(1) Notwithstanding anything in this Schedule, the District Council of the Mizo District existing immediately before the prescribed date (hereinafter referred to as the Mizo District Council) shall stand dissolved and cease to exist.
 
@@ -342,6 +358,8 @@ Tripura Tribal Areas District
 (d) the continuance of any laws made by the existing Regional Council and in force immediately before the prescribed date, subject to such adaptations and modifications, whether by way of repeal or amendment, as the Administrator may make in this behalf until such laws are altered, repealed or amended by a competent Legislature or other competent authority;
 
 (e) such incidental, consequential and supplementary matters as the Administrator considers necessary.
+
+20BB. Exercise of discretionary powers by the Governor in the discharge of his functions.—The Governor, in the discharge of his functions under sub-paragraphs (2) and (3) of paragraph 1, sub-paragraphs (1) and (7) of paragraph 2, sub-paragraph (3) of paragraph 3, sub-paragraph (4) of paragraph 4, paragraph 5, sub-paragraph (1) of paragraph 6, sub-paragraph (2) of paragraph 7, sub-paragraph (3) of paragraph 9, sub-paragraph (1) of paragraph 14, sub-paragraph (1) of paragraph 15 and sub-paragraphs (1) and (2) of paragraph 16 of this Schedule, shall, after consulting the Council of Ministers, and if he thinks it necessary, the District Council or the Regional Council concerned, take such action as he considers necessary in his discretion.
 
 20C. Interpretation.—Subject to any provision made in this behalf, the provisions of this Schedule shall, in their application to the Union territory of Mizoram, have effect—
 
