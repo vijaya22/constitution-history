@@ -9,34 +9,42 @@ articles: "Articles 344(1) and 351"
 
 2. Bengali.
 
-3. Gujarati.
+3. Bodo.
 
-4. Hindi.
+4. Dogri.
 
-5. Kannada.
+5. Gujarati.
 
-6. Kashmiri.
+6. Hindi.
 
-7. Konkani.
+7. Kannada.
 
-8. Malayalam.
+8. Kashmiri.
 
-9. Manipuri.
+9. Konkani.
 
-10. Marathi.
+10. Maithili.
 
-11. Nepali.
+11. Malayalam.
 
-12. Oriya.
+12. Manipuri.
 
-13. Punjabi.
+13. Marathi.
 
-14. Sanskrit.
+14. Nepali.
 
-15. Sindhi.
+15. Oriya.
 
-16. Tamil.
+16. Punjabi.
 
-17. Telugu.
+17. Sanskrit.
 
-18. Urdu.
+18. Santhali.
+
+19. Sindhi.
+
+20. Tamil.
+
+21. Telugu.
+
+22. Urdu.
