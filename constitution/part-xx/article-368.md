@@ -21,7 +21,3 @@ Provided that if such amendment seeks to make any change in—
 (e) the provisions of this article, the amendment shall also require to be ratified by the Legislatures of not less than one-half of the States by resolutions to that effect passed by those Legislatures before the Bill making provision for such amendment is presented to the President for assent.
 
 (3) Nothing in article 13 shall apply to any amendment made under this article.
-
-(4) No amendment of this Constitution (including the provisions of Part III) made or purporting to have been made under this article [whether before or after the commencement of section 55 of the Constitution (Forty-second Amendment) Act, 1976] shall be called in question in any court on any ground.
-
-(5) For the removal of doubts, it is hereby declared that there shall be no limitation whatever on the constituent power of Parliament to amend by way of addition, variation or repeal the provisions of this Constitution under this article.
