@@ -71,8 +71,6 @@ Provided that where the question which has arisen is as to whether the Chairman 
 
 (2) All proceedings under sub-paragraph (1) of this paragraph in relation to any question as to disqualification of a member of a House under this Schedule shall be deemed to be proceedings in Parliament within the meaning of article 122 or, as the case may be, proceedings in the Legislature of a State within the meaning of article 212.
 
-7. Bar of jurisdiction of courts.—Notwithstanding anything in this Constitution, no court shall have any jurisdiction in respect of any matter connected with the disqualification of a member of a House under this Schedule.
-
 8. Rules.—(1) Subject to the provisions of sub-paragraph (2) of this paragraph, the Chairman or the Speaker of a House may make rules for giving effect to the provisions of this Schedule, and in particular, and without prejudice to the generality of the foregoing, such rules may provide for—
 
 (a) the maintenance of registers or other records as to the political parties, if any, to which different members of the House belong;
