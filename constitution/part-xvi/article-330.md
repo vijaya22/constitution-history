@@ -8,7 +8,7 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (a) the Scheduled Castes;
 
-(b) the Scheduled Tribes except the Scheduled Tribes in the tribal areas of Assam; and
+(b) the Scheduled Tribes except the Scheduled Tribes in the tribal areas of Assam and in Nagaland; and
 
 (c) the Scheduled Tribes in the autonomous districts of Assam.
 
