@@ -11,7 +11,7 @@ articles: "Articles 1 and 4"
 
 3. Bihar — ⟨wording before the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968 not yet imported⟩
 
-⟨wording before the Bombay Reorganisation Act, 1960 not yet imported⟩
+4. Gujarat — The territories referred to in sub-section (1) of section 3 of the Bombay Reorganisation Act, 1960.
 
 5. Kerala — The territories specified in sub-section (1) of section 5 of the States Reorganisation Act, 1956.
 
@@ -19,19 +19,21 @@ articles: "Articles 1 and 4"
 
 7. Madras — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Madras or were being administered as if they formed part of that Province and the territories specified in section 4 of the States Reorganisation Act, 1956, and the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, but excluding the territories specified in sub-section (1) of section 3 and sub-section (1) of section 4 of the Andhra State Act, 1953 and the territories specified in clause (b) of sub-section (1) of section 5, section 6 and clause (d) of sub-section (1) of section 7 of the States Reorganisation Act, 1956 and the territories specified in the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959.
 
+8. Maharashtra — The territories specified in sub-section (1) of section 8 of the States Reorganisation Act, 1956, but excluding the territories referred to in sub-section (1) of section 3 of the Bombay Reorganisation Act, 1960.
+
 9. Mysore — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956
 
-9. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
+10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
-10. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956
+11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956
 
-11. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
+12. Rajasthan — The territories specified in section 10 of the States Reorganisation Act, 1956 but excluding the territories specified in the First Schedule to the Rajasthan and Madhya Pradesh (Transfer of Territories) Act, 1959.
 
 13. Uttar Pradesh — 13. Uttar Pradesh
 
 14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956
 
-14. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
+15. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
 
 ### II. THE UNION TERRITORIES
 
