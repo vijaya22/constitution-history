@@ -3,6 +3,7 @@ article: "240"
 title: "Power of President to make regulations for certain Union territories"
 part: "VIII"
 part_title: "THE UNION TERRITORIES"
+effective: "1972-02-15"
 ---
 (1) The President may make regulations for the peace, progress and good government of the Union territory of—
 
@@ -16,6 +17,12 @@ part_title: "THE UNION TERRITORIES"
 
 (e) Pondicherry;
 
+(f) Mizoram;
+
+(g) Arunachal Pradesh:
+
 Provided that when any body is created under article 239A to function as a Legislature for the Union territory of Pondicherry, the President shall not make any regulation for the peace, progress and good government of that Union territory with effect from the date appointed for the first meeting of the Legislature:
 
-(2) Any regulation so made may repeal or amend any Act made by Parliament or any existing law, which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.
+Provided further that whenever the body functioning as a Legislature for the Union territory of Pondicherry is dissolved, or the functioning of that body as such Legislature remains suspended on account of any action taken under any such law as is referred to in clause (1) of article 239A, the President may, during the period of such dissolution or suspension, make regulations for the peace, progress and good government of that Union territory.
+
+(2) Any regulation so made may repeal or amend any Act made by Parliament or any other law, which is for the time being applicable to the Union territory and, when promulgated by the President, shall have the same force and effect as an Act of Parliament which applies to that territory.
