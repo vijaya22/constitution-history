@@ -45,6 +45,8 @@ articles: "Articles 1 and 4"
 
 5. The Laccadive, Minicoy and Amindivi Islands — The territory specified in section 6 of the States Reorganisation Act, 1956.
 
+⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
+
 ⟨wording before the Goa, Daman and Diu Reorganisation Act, 1987 not yet imported⟩
 
 ⟨wording before the State of Arunachal Pradesh Act, 1986 not yet imported⟩
