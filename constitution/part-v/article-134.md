@@ -3,6 +3,7 @@ article: "134"
 title: "Appellate jurisdiction of the Supreme Court in regard to criminal matters"
 part: "V"
 part_title: "THE UNION"
+effective: "1979-08-01"
 ---
 (1) An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court—
 
@@ -10,7 +11,7 @@ part_title: "THE UNION"
 
 (b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or
 
-(c) certifies that the case is a fit one for appeal to the Supreme Court:
+(c) certifies under article 134A that the case is a fit one for appeal to the Supreme Court:
 
 Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require.
 

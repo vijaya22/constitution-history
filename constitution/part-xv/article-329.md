@@ -4,7 +4,7 @@ title: "Bar to interference by courts in electoral matters"
 part: "XV"
 part_title: "ELECTIONS"
 ---
-Notwithstanding anything in this Constitution but subject to the provisions of article 329A —
+Notwithstanding anything in this Constitution —
 
 (a) the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 327 or article 328, shall not be called in question in any court;
 

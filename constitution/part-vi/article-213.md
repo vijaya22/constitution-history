@@ -26,6 +26,4 @@ Explanation.—Where the Houses of the Legislature of a State having a Legislati
 
 Provided that, for the purposes of the provisions of this Constitution relating to the effect of an Act of the Legislature of a State which is repugnant to an Act of Parliament or an existing law with respect to a matter enumerated in the Concurrent List, an Ordinance promulgated under this article in pursuance of instructions from the President shall be deemed to be an Act of the Legislature of the State which has been reserved for the consideration of the President and assented to by him.
 
-(4) Notwithstanding anything in this Constitution, the satisfaction of the Governor mentioned in clause (1) shall be final and conclusive and shall not be questioned in any court on any ground.
-
 CHAPTER V.—THE HIGH COURTS IN THE STATES

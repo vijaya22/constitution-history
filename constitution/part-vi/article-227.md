@@ -3,9 +3,8 @@ article: "227"
 title: "Power of superintendence over all courts by the High Court"
 part: "VI"
 part_title: "THE STATES"
-effective: "1977-02-01"
 ---
-(1) Every High Court shall have superintendence over all courts subject to its appellate jurisdiction.
+(1) Every High Court shall have superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction.
 
 (2) Without prejudice to the generality of the foregoing provision, the High Court may—
 
@@ -20,5 +19,3 @@ effective: "1977-02-01"
 Provided that any rules made, forms prescribed or tables settled under clause (2) or clause (3) shall not be inconsistent with the provision of any law for the time being in force, and shall require the previous approval of the Governor.
 
 (4) Nothing in this article shall be deemed to confer on a High Court powers of superintendence over any court or tribunal constituted by or under any law relating to the Armed Forces.
-
-(5) Nothing in this article shall be construed as giving to a High Court any jurisdiction to question any judgment of any inferior court which is not otherwise subject to appeal or revision.

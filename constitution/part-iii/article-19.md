@@ -14,9 +14,9 @@ part_title: "FUNDAMENTAL RIGHTS"
 
 (d) to move freely throughout the territory of India;
 
-(e) to reside and settle in any part of the territory of India;
+(e) to reside and settle in any part of the territory of India; and
 
-(f) to acquire, hold and dispose of property; and
+(f) * * * * *
 
 (g) to practise any profession, or to carry on any occupation, trade or business.
 
@@ -26,7 +26,7 @@ part_title: "FUNDAMENTAL RIGHTS"
 
 (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
 
-(5) Nothing in sub-clauses (d), (e) and (f) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
+(5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
 
 (6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—
 

@@ -3,8 +3,9 @@ article: "133"
 title: "Appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to civil matters"
 part: "V"
 part_title: "THE UNION"
+effective: "1979-08-01"
 ---
-(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies.—
+(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies under article 134A—
 
 (a) that the case involves a substantial question of law of general importance; and
 

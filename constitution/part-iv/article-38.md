@@ -4,4 +4,6 @@ title: "State to secure a social order for the promotion of welfare of the peopl
 part: "IV"
 part_title: "DIRECTIVE PRINCIPLES OF STATE POLICY"
 ---
-The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.
+(1) The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.
+
+(2) The State shall, in particular, strive to minimise the inequalities in income, and endeavour to eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations.
