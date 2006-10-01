@@ -4,7 +4,7 @@ title: "Creation of local Legislatures or Council of Ministers or both for certa
 part: "VIII"
 part_title: "THE UNION TERRITORIES"
 ---
-(1) Parliament may by law create for the Union territory of Pondicherry—
+(1) Parliament may by law create for the Union territory of Puducherry—
 
 (a) a body, whether elected or partly nominated and partly elected, to function as a Legislature for the Union territory, or
 

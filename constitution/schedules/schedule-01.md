@@ -75,7 +75,7 @@ articles: "Articles 1 and 4"
 
 *⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
 
-6. Pondicherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
+6. Puducherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
 
 7. Chandigarh — The territories specified in section 4 of the Punjab Reorganisation Act, 1966.
 

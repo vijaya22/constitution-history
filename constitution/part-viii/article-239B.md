@@ -4,7 +4,7 @@ title: "Power of administrator to promulgate Ordinances during recess of Legisla
 part: "VIII"
 part_title: "THE UNION TERRITORIES"
 ---
-(1) If at any time, except when the Legislature of the Union territory of Pondicherry is in session, the administrator thereof is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:
+(1) If at any time, except when the Legislature of the Union territory of Puducherry is in session, the administrator thereof is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require:
 
 Provided that no such Ordinance shall be promulgated by the administrator except after obtaining instructions from the President in that behalf:
 

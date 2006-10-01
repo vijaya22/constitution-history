@@ -67,6 +67,6 @@ To each State or Union territory specified in the first column of the following 
 
 29. Delhi — 3
 
-30. Pondicherry — 1
+30. Puducherry — 1
 
 ### Total 233
