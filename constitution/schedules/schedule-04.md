@@ -43,7 +43,7 @@ To each State or Union territory specified in the first column of the following 
 
 17. Uttar Pradesh — 31
 
-18. Uttaranchal — 3
+18. Uttarakhand — 3
 
 19. West Bengal — 16
 

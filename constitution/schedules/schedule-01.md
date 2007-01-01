@@ -57,7 +57,7 @@ articles: "Articles 1 and 4"
 
 26. Chhattisgarh — The territories specified in section 3 of the Madhya Pradesh Reorganisation Act, 2000.
 
-27. Uttaranchal — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
+27. Uttarakhand — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
 
 28. Jharkhand — The territories specified in section 3 of the Bihar Reorganisation Act, 2000.
 
