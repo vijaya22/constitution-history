@@ -33,7 +33,7 @@ articles: "Articles 344(1) and 351"
 
 14. Nepali.
 
-15. Oriya.
+15. Odia.
 
 16. Punjabi.
 
