@@ -6,7 +6,7 @@ part_title: "THE STATES"
 ---
 (1) The Chief Minister shall be appointed by the Governor and the other Ministers shall be appointed by the Governor on the advice of the Chief Minister, and the Ministers shall hold office during the pleasure of the Governor:
 
-Provided that in the States of Chhattisgarh, Jharkhand, Madhya Pradesh and Orissa there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and backward classes or any other work.
+Provided that in the States of Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and backward classes or any other work.
 
 (1A) The total number of Ministers, including the Chief Minister, in the Council of Ministers in a State shall not exceed fifteen per cent. of the total number of members of the Legislative Assembly of that State:
 

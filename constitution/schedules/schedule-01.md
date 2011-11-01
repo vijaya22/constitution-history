@@ -23,7 +23,7 @@ articles: "Articles 1 and 4"
 
 9. Karnataka — The territories specified in sub-section (1) of section 7 of the States Reorganisation Act, 1956 but excluding the territory specified in the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968.
 
-10. Orissa — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
+10. Odisha — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Orissa or were being administered as if they formed part of that Province.
 
 11. Punjab — The territories specified in section 11 of the States Reorganisation Act, 1956 and the territories referred to in Part II of the First Schedule to the Acquired Territories (Merger) Act, 1960 but excluding the territories referred to in Part II of the First Schedule to the Constitution (Ninth Amendment) Act, 1960 and the territories specified in sub-section (1) of section 3, section 4 and sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
 

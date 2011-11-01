@@ -35,7 +35,7 @@ To each State or Union territory specified in the first column of the following 
 
 13. Karnataka — 12
 
-14. Orissa — 10
+14. Odisha — 10
 
 15. Punjab — 7
 
