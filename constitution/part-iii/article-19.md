@@ -10,7 +10,7 @@ part_title: "FUNDAMENTAL RIGHTS"
 
 (b) to assemble peaceably and without arms;
 
-(c) to form associations or unions;
+(c) to form associations or unions or co-operative societies;
 
 (d) to move freely throughout the territory of India;
 
