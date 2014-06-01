@@ -9,64 +9,66 @@ To each State or Union territory specified in the first column of the following 
 
 ### TABLE
 
-1. Andhra Pradesh — 18
+1. Andhra Pradesh — 11
 
-2. Assam — 7
+2. Telangana — 7
 
-3. Bihar — 16
+3. Assam — 7
 
-4. Jharkhand — 6
+4. Bihar — 16
 
-5. Goa — 1
+5. Jharkhand — 6
 
-6. Gujarat — 11
+6. Goa — 1
 
-7. Haryana — 5
+7. Gujarat — 11
 
-8. Kerala — 9
+8. Haryana — 5
 
-9. Madhya Pradesh — 11
+9. Kerala — 9
 
-10. Chhattisgarh — 5
+10. Madhya Pradesh — 11
 
-11. Tamil Nadu — 18
+11. Chhattisgarh — 5
 
-12. Maharashtra — 19
+12. Tamil Nadu — 18
 
-13. Karnataka — 12
+13. Maharashtra — 19
 
-14. Odisha — 10
+14. Karnataka — 12
 
-15. Punjab — 7
+15. Odisha — 10
 
-16. Rajasthan — 10
+16. Punjab — 7
 
-17. Uttar Pradesh — 31
+17. Rajasthan — 10
 
-18. Uttarakhand — 3
+18. Uttar Pradesh — 31
 
-19. West Bengal — 16
+19. Uttarakhand — 3
 
-20. Jammu and Kashmir — 4
+20. West Bengal — 16
 
-21. Nagaland — 1
+21. Jammu and Kashmir — 4
 
-22. Himachal Pradesh — 3
+22. Nagaland — 1
 
-23. Manipur — 1
+23. Himachal Pradesh — 3
 
-24. Tripura — 1
+24. Manipur — 1
 
-25. Meghalaya — 1
+25. Tripura — 1
 
-26. Sikkim — 1
+26. Meghalaya — 1
 
-27. Mizoram — 1
+27. Sikkim — 1
 
-28. Arunachal Pradesh — 1
+28. Mizoram — 1
 
-29. Delhi — 3
+29. Arunachal Pradesh — 1
 
-30. Puducherry — 1
+30. Delhi — 3
+
+31. Puducherry — 1
 
 ### Total 233

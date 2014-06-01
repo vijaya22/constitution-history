@@ -1,10 +1,11 @@
 ---
 article: "371D"
-title: "Special provisions with respect to the State of Andhra Pradesh"
+title: "Special provisions with respect to the State of Andhra Pradesh or the State of Telangana"
 part: "XXI"
 part_title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
+effective: "2014-06-02"
 ---
-(1) The President may by order made with respect to the State of Andhra Pradesh provide, having regard to the requirements of the State as a whole, for equitable opportunities and facilities for the people belonging to different parts of the State, in the matter of public employment and in the matter of education, and different provisions may be made for various parts of the State.
+(1) The President may by order made with respect to the State of Andhra Pradesh or the State of Telangana, provide, having regard to the requirement of each State, for equitable opportunities and facilities for the people belonging to different parts of such State, in the matter of public employment and in the matter of education, and different provisions may be made for various parts of the States.
 
 (2) An order made under clause (1) may, in particular,—
 
@@ -24,7 +25,7 @@ part_title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
 
 (ii) in the matter of admission to any such University or other educational institution referred to in sub-clause (b) as may be specified in this behalf in the order, to or in favour of candidates who have resided or studied for any period specified in the order in the local area in respect of such cadre, University or other educational institution, as the case may be.
 
-(3) The President may, by order, provide for the constitution of an Administrative Tribunal for the State of Andhra Pradesh to exercise such jurisdiction, powers and authority [including any jurisdiction, power and authority which immediately before the commencement of the Constitution (Thirty-second Amendment) Act, 1973, was exercisable by any court (other than the Supreme Court) or by any tribunal or other authority] as may be specified in the order with respect to the following matters, namely:—
+(3) The President may, by order, provide for the constitution of an Administrative Tribunal for the State of Andhra Pradesh and for the State of Telangana to exercise such jurisdiction, powers and authority [including any jurisdiction, power and authority which immediately before the commencement of the Constitution (Thirty-second Amendment) Act, 1973, was exercisable by any court (other than the Supreme Court) or by any tribunal or other authority] as may be specified in the order with respect to the following matters, namely:—
 
 (a) appointment, allotment or promotion to such class or classes of posts in any civil service of the State, or to such class or classes of civil posts under the State, or to such class or classes of posts under the control of any local authority within the State, as may be specified in the order;
 

@@ -2,10 +2,11 @@
 schedule: "1"
 title: "First Schedule"
 articles: "Articles 1 and 4"
+effective: "2014-06-02"
 ---
 ### I. THE STATES
 
-1. Andhra Pradesh — The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, sub-section (1) of section 3 of the States Reorganisation Act, 1956, the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, and the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968, but excluding the territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959.
+1. Andhra Pradesh — The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, sub-section (1) of section 3 of the States Reorganisation Act, 1956, the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, and the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968, but excluding the territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 and the territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.
 
 2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962 and the territories specified in sections 5, 6 and 7 of the North-Eastern Areas (Reorganisation) Act, 1971
 
@@ -60,6 +61,8 @@ articles: "Articles 1 and 4"
 27. Uttarakhand — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
 
 28. Jharkhand — The territories specified in section 3 of the Bihar Reorganisation Act, 2000.
+
+29. Telangana — The territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.
 
 ### II. THE UNION TERRITORIES
 
