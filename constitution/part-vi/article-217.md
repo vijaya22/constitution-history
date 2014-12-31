@@ -4,7 +4,7 @@ title: "Appointment and conditions of the office of a Judge of a High Court"
 part: "VI"
 part_title: "THE STATES"
 ---
-(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal after consultation with the Chief Justice of India, the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, and the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty-two years:
+(1) Every Judge of a High Court shall be appointed by the President by warrant under his hand and seal on the recommendation of the National Judicial Appointments Commission referred to in article 124A, and the Governor of the State, and, in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court, shall hold office, in the case of an additional or acting Judge, as provided in article 224, and in any other case, until he attains the age of sixty-two years:
 
 Provided that—
 

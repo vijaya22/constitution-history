@@ -6,11 +6,11 @@ part_title: "THE UNION"
 ---
 (1) There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than [seven] other Judges.
 
-(2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Court in the States as the President may deem necessary for the purpose and shall hold office until he attains the age of sixty-five years:
+(2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal on the recommendation of the National Judicial Appointments Commission referred to in article 124A and shall hold office until he attains the age of sixty-five years:
 
-Provided that in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted:
+* * * * *
 
-provided further that—
+Provided that—
 
 (a) a Judge may, by writing under his hand addressed to the President, resign his office;
 
