@@ -2,13 +2,12 @@
 schedule: "1"
 title: "First Schedule"
 articles: "Articles 1 and 4"
-effective: "2014-06-02"
 ---
 ### I. THE STATES
 
 1. Andhra Pradesh — The territories specified in sub-section (1) of section 3 of the Andhra State Act, 1953, sub-section (1) of section 3 of the States Reorganisation Act, 1956, the First Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959, and the Schedule to the Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968, but excluding the territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 and the territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.
 
-2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962 and the territories specified in sections 5, 6 and 7 of the North-Eastern Areas (Reorganisation) Act, 1971
+2. Assam — The territories which immediately before the commencement of this Constitution were comprised in the Province of Assam, the Khasi States and the Assam Tribal Areas, but excluding the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951 and the territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962 and the territories specified in sections 5, 6 and 7 of the North-Eastern Areas (Reorganisation) Act, 1971 and the territories referred to in Part I of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (a) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part I of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
 3. Bihar — The territories which immediately before the commencement of this Constitution were either comprised in the Province of Bihar or were being administered as if they formed part of that Province and the territories specified in clause (a) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, but excluding the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956, and the territories specified in clause (b) of sub-section (1) of section 3 of the first mentioned Act and the territories specified in section 3 of the Bihar Reorganisation Act, 2000.
 
@@ -32,7 +31,7 @@ effective: "2014-06-02"
 
 13. Uttar Pradesh — The territories which immediately before the commencement of this Constitution were either comprised in the Province known as the United Provinces or were being administered as if they formed part of that Province, the territories specified in clause (b) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, and the territories specified in clause (b) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (a) of sub-section (1) of section 3 of the Bihar and Uttar Pradesh (Alteration of Boundaries) Act, 1968, and the territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000 and the territories specified in clause (a) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979.
 
-14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956
+14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956 and also the territories referred to in Part III of the First Schedule but excluding the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (c) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part III of the First Schedule and the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
 15. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
 
@@ -44,9 +43,9 @@ effective: "2014-06-02"
 
 19. Manipur — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Manipur.
 
-20. Tripura — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Tripura
+20. Tripura — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Tripura and the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (d) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
-21. Meghalaya — The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971
+21. Meghalaya — The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971 and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
 22. Sikkim — The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.
 
