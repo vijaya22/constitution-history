@@ -8,6 +8,8 @@ part_title: "THE STATES"
 
 (2) In relation to any such High Court,—
 
+(a) the reference in article 217 to the Governor of the State shall be construed as reference to the Governors of all the States in relation to which the High Court exercises jurisdiction
+
 (b) the reference in article 227 to the Governor shall, in relation to any rules, forms or tables for subordinate courts, be construed as a reference to the Governor of the State in which the subordinate courts are situate; and
 
 (c) the references in articles 219 and 229 to the State shall be construed as a reference to the State in which the High Court has its principal seat:
