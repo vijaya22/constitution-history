@@ -3,7 +3,8 @@ article: "250"
 title: "Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation"
 part: "XI"
 part_title: "RELATIONS BETWEEN THE UNION AND THE STATES"
+effective: "2016-09-16"
 ---
-(1) Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to any of the matters enumerated in the State List.
+(1) Notwithstanding anything in this Chapter, Parliament shall, while a Proclamation of Emergency is in operation, have power to make laws for the whole or any part of the territory of India with respect to goods and services tax provided under article 246A or any of the matters enumerated in the State List.
 
 (2) A law made by Parliament which Parliament would not but for the issue of a Proclamation of Emergency have been competent to make shall, to the extent of the incompetency, cease to have effect on the expiration of a period of six months after the Proclamation has ceased to operate, except as respects things done or omitted to be done before the expiration of the said period.

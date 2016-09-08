@@ -3,8 +3,9 @@ article: "268"
 title: "Duties levied by the Union but collected and appropriated by the States"
 part: "XII"
 part_title: "FINANCE, PROPERTY, CONTRACTS AND SUITS"
+effective: "2016-09-16"
 ---
-(1) Such stamp duties and such duties of excise on medicinal and toilet preparations as are mentioned in the Union List shall be levied by the Government of India but shall be collected—
+(1) Such stamp duties as are mentioned in the Union List shall be levied by the Government of India but shall be collected—
 
 (a) in the case where such duties are leviable within any Union territory, by the Government of India, and
 

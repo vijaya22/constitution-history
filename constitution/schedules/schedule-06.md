@@ -2,6 +2,7 @@
 schedule: "6"
 title: "Sixth Schedule"
 articles: "Articles 244(2) and 275(1)"
+effective: "2016-09-16"
 ---
 Provisions as to the Administration of Tribal Areas in the States of
 
@@ -173,9 +174,11 @@ Provided that nothing in such laws shall prevent the compulsory acquisition of a
 
 (b) taxes on animals, vehicles and boats;
 
-(c) taxes on the entry of goods into a market for sale therein, and tolls on passengers and goods carried in ferries; and
+(c) taxes on the entry of goods into a market for sale therein, and tolls on passengers and goods carried in ferries;
 
-(d) taxes for the maintenance of schools, dispensaries or roads;
+(d) taxes for the maintenance of schools, dispensaries or roads; and
+
+(e) taxes on entertainment and amusements.
 
 (4) A Regional Council or District Council, as the case may be, may make regulations to provide for the levy and collection of any of the taxes specified in sub-paragraphs (2) and (3) of this paragraph and every such regulation shall be submitted forthwith to the Governor and, until assented to by him, shall have no effect.
 

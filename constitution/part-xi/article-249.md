@@ -3,8 +3,9 @@ article: "249"
 title: "Power of Parliament to legislate with respect to a matter in the State List in the national interest"
 part: "XI"
 part_title: "RELATIONS BETWEEN THE UNION AND THE STATES"
+effective: "2016-09-16"
 ---
-(1) Notwithstanding anything in the foregoing provisions of this Chapter, if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest that Parliament should make laws with respect to any matter enumerated in the State List specified in the resolution, it shall be lawful for Parliament to make laws for the whole or any part of the territory of India with respect to that matter while the resolution remains in force.
+(1) Notwithstanding anything in the foregoing provisions of this Chapter, if the Council of States has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest that Parliament should make laws with respect to goods and services tax provided under article 246A or any matter enumerated in the State List specified in the resolution, it shall be lawful for Parliament to make laws for the whole or any part of the territory of India with respect to that matter while the resolution remains in force.
 
 (2) A resolution passed under clause (1) shall remain in force for such period not exceeding one year as may be specified therein:
 

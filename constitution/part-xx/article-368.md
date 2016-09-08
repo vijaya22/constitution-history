@@ -3,6 +3,7 @@ article: "368"
 title: "Power of Parliament to amend the Constitution and procedure therefor"
 part: "XX"
 part_title: "AMENDMENT OF THE CONSTITUTION"
+effective: "2016-09-16"
 ---
 (1) Notwithstanding anything in this Constitution, Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article.
 
@@ -10,7 +11,7 @@ part_title: "AMENDMENT OF THE CONSTITUTION"
 
 Provided that if such amendment seeks to make any change in—
 
-(a) article 54, article 55, article 73, article 162 or article 241; or
+(a) article 54, article 55, article 73, article 162, article 241 or article 279A; or
 
 (b) Chapter IV of Part V, Chapter V of Part VI, or Chapter I of Part XI; or
 

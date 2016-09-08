@@ -2,6 +2,7 @@
 schedule: "7"
 title: "Seventh Schedule"
 articles: "Article 246"
+effective: "2016-09-16"
 ---
 ### List I—Union List
 
@@ -179,13 +180,19 @@ articles: "Article 246"
 
 83. Duties of customs including export duties.
 
-84. Duties of excise on tobacco and other goods manufactured or produced in India except—
+84. Duties of excise on the following goods manufactured or produced in India, namely:—
 
-(a) alcoholic liquors for human consumption;
+(a) petroleum crude;
 
-(b) opium, Indian hemp and other narcotic drugs and narcotics,
+(b) high speed diesel;
 
-but including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry.
+(c) motor spirit (commonly known as petrol);
+
+(d) natural gas;
+
+(e) aviation turbine fuel; and
+
+(f) tobacco and tobacco products.
 
 85. Corporation tax.
 
@@ -201,13 +208,13 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 91. Rates of stamp duty in respect of bills of exchange, cheques, promissory notes, bills of lading, letters of credit, policies of insurance, transfer of shares, debentures, proxies and receipts.
 
-92. Taxes on the sale or purchase of newspapers and on advertisements published therein.
+92.  * * * * * *
 
 92A. Taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce.
 
 92B. Taxes on the consignments of goods (whether the consignment is to the person making it or to any other person), where such consignment takes place in the course of inter-State trade or commerce.
 
-92C. Taxes on services.
+92C.  * * * * * *
 
 93. Offences against laws with respect to any of the matters in this List.
 
@@ -327,13 +334,13 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 (b) opium, Indian hemp and other narcotic drugs and narcotics, but not including medicinal and toilet preparations containing alcohol or any substance included in sub-paragraph (b) of this entry.
 
-52. Taxes on the entry of goods into a local area for consumption, use or sale therein.
+52.  * * * * * *
 
 53. Taxes on the consumption or sale of electricity.
 
-54. Taxes on the sale or purchase of goods other than newspapers, subject to the provisions of entry 92A of List I.
+54. Taxes on the sale of petroleum crude, high speed diesel, motor spirit (commonly known as petrol), natural gas, aviation turbine fuel and alcoholic liquor for human consumption, but not including sale in the course of inter-State trade or commerce or sale in the course of international trade or commerce of such goods.
 
-55. Taxes on advertisements other than advertisements published in the newspapers and advertisements broadcast by radio or television.
+55.  * * * * * *
 
 56. Taxes on goods and passengers carried by road or on inland waterways.
 
@@ -347,7 +354,7 @@ but including medicinal and toilet preparations containing alcohol or any substa
 
 61. Capitation taxes.
 
-62. Taxes on luxuries, including taxes on entertainments, amusements, betting and gambling.
+62. Taxes on entertainments and amusements to the extent levied and collected by a Panchayat or a Municipality or a Regional Council or a District Council.
 
 63. Rates of stamp duty in respect of documents other than those specified in the provisions of List I with regard to rates of stamp duty.
 

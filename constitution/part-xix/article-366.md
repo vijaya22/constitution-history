@@ -3,6 +3,7 @@ article: "366"
 title: "Definitions"
 part: "XIX"
 part_title: "MISCELLANEOUS"
+effective: "2016-09-16"
 ---
 In this Constitution, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say—
 
@@ -38,7 +39,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (12) “goods” includes all materials, commodities, and articles;
 
-;
+(12A) “goods and services tax” means any tax on supply of goods, or services or both except taxes on the supply of the alcoholic liquor for human consumption;
 
 (13) “guarantee” includes any obligation undertaken before the commencement of this Constitution to make payments in the event of the profits of an undertaking falling short of a specified amount;
 
@@ -76,7 +77,9 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (26) “securities” includes stock;
 
-;
+(26A) “Services” means anything other than goods;
+
+(26B) “State” with reference to articles 246A, 268, 269, 269A and article 279A includes a Union territory with Legislature;
 
 ;
 

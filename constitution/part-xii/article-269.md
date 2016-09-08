@@ -3,9 +3,9 @@ article: "269"
 title: "Taxes levied and collected by the Union but assigned to the States"
 part: "XII"
 part_title: "FINANCE, PROPERTY, CONTRACTS AND SUITS"
-effective: "2000-06-09"
+effective: "2016-09-16"
 ---
-(1) Taxes on the sale or purchase of goods and taxes on the consignment of goods shall be levied and collected by the Government of India but shall be assigned and shall be deemed to have been assigned to the States on or after the 1st day of April, 1996 in the manner provided in clause (2).
+(1) Taxes on the sale or purchase of goods and taxes on the consignment of goods except as provided in article 269A shall be levied and collected by the Government of India but shall be assigned and shall be deemed to have been assigned to the States on or after the 1st day of April, 1996 in the manner provided in clause (2).
 
 Explanation.—For the purposes of this clause,—
 
