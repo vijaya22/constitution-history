@@ -3,6 +3,7 @@ article: "338"
 title: "National Commission for Scheduled Castes"
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
+effective: "2018-08-15"
 ---
 (1) There shall be a Commission for the Scheduled Castes to be known as the National Commission for the Scheduled Castes.
 
@@ -46,4 +47,4 @@ part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 
 (9) The Union and every State Government shall consult the Commission on all major policy matters affecting Scheduled Castes.
 
-(10) In this article, references to the Scheduled Castes shall be construed as including references to such other backward classes as the President may, on receipt of the report of a Commission appointed under cl. (1) of article 340, by order specify and also to the Anglo-Indian community.
+(10) In this article, references to the Scheduled Castes shall be construed as including references to the Anglo-Indian community.
