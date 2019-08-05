@@ -2,7 +2,7 @@
 article: "370"
 title: "Temporary provisions with respect to the State of Jammu and Kashmir"
 part: "XXI"
-part_title: "TEMPORARY AND TRANSITIONAL PROVISIONS"
+part_title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
 ---
 (1) Notwithstanding anything in this Constitution,—
 
@@ -28,4 +28,4 @@ Provided further that no such order which relates to matters other than those re
 
 (3) Notwithstanding anything in the foregoing provisions of this article, the President may, by public notification, declare that this article shall cease to be operative or shall be operative only with such exceptions and modifications and from such date as he may specify:
 
-Provided that the recommendation of the Constituent Assembly of the State referred to in clause (2) shall be necessary before the President issues such a notification.
+Provided that the recommendation of the clause (2) of Legislative Assembly of the State shall be necessary before the President issues such a notification.

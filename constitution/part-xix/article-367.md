@@ -11,3 +11,5 @@ part_title: "MISCELLANEOUS"
 (3) For the purposes of this Constitution “foreign State” means any State other than India:
 
 Provided that, subject to the provisions of any law made by Parliament, the President may by order4 declare any State not to be a foreign State for such purposes as may be specified in the order.
+
+(4)  * * * *
