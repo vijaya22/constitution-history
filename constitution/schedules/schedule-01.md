@@ -33,35 +33,35 @@ articles: "Articles 1 and 4"
 
 14. West Bengal — The territories which immediately before the commencement of this Constitution were either comprised in the Province of West Bengal or were being administered as if they formed part of that Province and the territory of Chandernagore as defined in clause (c) of section 2 of the Chandernagore (Merger) Act, 1954 and also the territories specified in sub-section (1) of section 3 of the Bihar and West Bengal (Transfer of Territories) Act, 1956 and also the territories referred to in Part III of the First Schedule but excluding the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (c) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part III of the First Schedule and the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
-15. Jammu and Kashmir — The territory which immediately before the commencement of this Constitution was comprised in the Indian State of Jammu and Kashmir.
+* * * * *
 
-16. Nagaland — The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.
+15. Nagaland — The territories specified in sub-section (1) of section 3 of the State of Nagaland Act, 1962.
 
-17. Haryana — The territories specified in sub-section (1) of section 3 of the Punjab Reorganisation Act, 1966 and the territories specified in clause (a) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (v) of sub-section (1) of section 4 of that Act.
+16. Haryana — The territories specified in sub-section (1) of section 3 of the Punjab Reorganisation Act, 1966 and the territories specified in clause (a) of sub-section (1) of section 4 of the Haryana and Uttar Pradesh (Alteration of Boundaries) Act, 1979, but excluding the territories specified in clause (v) of sub-section (1) of section 4 of that Act.
 
-18. Himachal Pradesh — The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioners’ Provinces under the names of Himachal Pradesh and Bilaspur and the territories specified in sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
+17. Himachal Pradesh — The territories which immediately before the commencement of this Constitution were being administered as if they were Chief Commissioners’ Provinces under the names of Himachal Pradesh and Bilaspur and the territories specified in sub-section (1) of section 5 of the Punjab Reorganisation Act, 1966.
 
-19. Manipur — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Manipur.
+18. Manipur — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Manipur.
 
-20. Tripura — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Tripura and the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (d) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
+19. Tripura — The territory which immediately before the commencement of this Constitution was being administered as if it were a Chief Commissioner’s Province under the name of Tripura and the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015, notwithstanding anything contained in clause (d) of section 3 of the Constitution (Ninth Amendment) Act, 1960, so far as it relates to the territories referred to in Part II of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
-21. Meghalaya — The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971 and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
+20. Meghalaya — The territories specified in section 5 of the North-Eastern Areas (Reorganisation) Act, 1971 and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015.
 
-22. Sikkim — The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.
+21. Sikkim — The territories which immediately before the commencement of the Constitution (Thirty-sixth Amendment) Act, 1975, were comprised in Sikkim.
 
-23. Mizoram — The territories specified in section 6 of the North-Eastern Areas (Reorganisation) Act, 1971.
+22. Mizoram — The territories specified in section 6 of the North-Eastern Areas (Reorganisation) Act, 1971.
 
-24. Arunachal Pradesh — The territories specified in section 7 of the North-Eastern Areas (Reorganisation) Act, 1971.
+23. Arunachal Pradesh — The territories specified in section 7 of the North-Eastern Areas (Reorganisation) Act, 1971.
 
-25. Goa — The territories specified in section 3 of the Goa, Daman and Diu Reorganisation Act, 1987.
+24. Goa — The territories specified in section 3 of the Goa, Daman and Diu Reorganisation Act, 1987.
 
-26. Chhattisgarh — The territories specified in section 3 of the Madhya Pradesh Reorganisation Act, 2000.
+25. Chhattisgarh — The territories specified in section 3 of the Madhya Pradesh Reorganisation Act, 2000.
 
-27. Uttarakhand — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
+26. Uttarakhand — The territories specified in section 3 of the Uttar Pradesh Reorganisation Act, 2000.
 
-28. Jharkhand — The territories specified in section 3 of the Bihar Reorganisation Act, 2000.
+27. Jharkhand — The territories specified in section 3 of the Bihar Reorganisation Act, 2000.
 
-29. Telangana — The territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.
+28. Telangana — The territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.
 
 ### II. THE UNION TERRITORIES
 
@@ -84,3 +84,7 @@ articles: "Articles 1 and 4"
 * * * * *
 
 * * * * *
+
+8. Jammu and Kashmir — The territories specified in section 4 of the Jammu and Kashmir Reorganisation Act, 2019.
+
+9. Ladakh — The territories specified in section 3 of the Jammu and Kashmir Reorganisation Act, 2019.
