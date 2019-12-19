@@ -73,9 +73,9 @@ articles: "Articles 1 and 4"
 
 3. Lakshadweep — The territory specified in section 6 of the States Reorganisation Act, 1956.
 
-⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
+4. Dadra and Nagar Haveli and Daman and Diu — The territory which immediately before the eleventh day of August, 1961 was comprised in Free Dadra and Nagar Haveli and the territories specified in section 4 of the Goa, Daman and Diu Reorganisation Act, 1987.
 
-*⟨wording before the Dadra and Nagar Haveli and Daman and Diu (Merger of Union territories) Act, 2019 not yet imported⟩
+* * * * *
 
 6. Puducherry — The territories which immediately before the sixteenth day of August, 1962, were comprised in the French Establishments in India known as Pondicherry, Karikal, Mahe and Yanam.
 

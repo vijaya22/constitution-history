@@ -3,6 +3,7 @@ article: "240"
 title: "Power of President to make regulations for certain Union territories"
 part: "VIII"
 part_title: "THE UNION TERRITORIES"
+effective: "2020-01-26"
 ---
 (1) The President may make regulations for the peace, progress and good government of the Union territory of—
 
@@ -10,9 +11,9 @@ part_title: "THE UNION TERRITORIES"
 
 (b) Lakshadweep;
 
-(c) Dadra and Nagar Haveli;
+(c) Dadra and Nagar Haveli and Daman and Diu;
 
-(d) Daman and Diu;
+(d)  * * * *;
 
 (e) Puducherry;
 
