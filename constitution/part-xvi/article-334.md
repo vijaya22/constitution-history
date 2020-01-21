@@ -1,6 +1,6 @@
 ---
 article: "334"
-title: "\u0005223:4@104\u0006"
+title: "Reservation of seats and special representation to cease after certain period"
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
 ---
@@ -8,6 +8,6 @@ Notwithstanding anything in the foregoing provisions of this Part, the provision
 
 (a) the reservation of seats for the Scheduled Castes and the Scheduled Tribes in the House of the People and in the Legislative Assemblies of the States; and
 
-(b) the representation of the Anglo-Indian community in the House of the People and in the Legislative Assemblies of the States by nomination, shall cease to have effect on the expiration of a period of seventy years from the commencement of this Constitution:
+(b) the representation of the Anglo-Indian community in the House of the People and in the Legislative Assemblies of the States by nomination, shall cease to have effect on the expiration of a period of eighty years in respect of clause (a) and seventy years in respect of clause (b) from the commencement of this Constitution:
 
 Provided that nothing in this article shall affect any representation in the House of the People or in the Legislative Assembly of a State until the dissolution of the then existing House or Assembly, as the case may be.
