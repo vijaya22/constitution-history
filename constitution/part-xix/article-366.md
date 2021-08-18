@@ -80,7 +80,7 @@ In this Constitution, unless the context otherwise requires, the following expre
 
 (26B) “State” with reference to articles 246A, 268, 269, 269A and article 279A includes a Union territory with Legislature;
 
-(26C) "socially and educationally backward classes" means such backward classes as are so deemed under Article 342A for the purposes of this Constitution;;
+(26C) "socially and educationally backward classes" means such backward classes as are so deemed under article 342A for the purposes of the Central Government or the State or Union territory, as the case may be;
 
 (27) “sub-clause” means a sub-clause of the clause in which the expression occurs;
 

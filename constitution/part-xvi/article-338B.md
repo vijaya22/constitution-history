@@ -3,7 +3,6 @@ article: "338B"
 title: "National Commission for Backward Classes"
 part: "XVI"
 part_title: "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES"
-effective: "2018-08-15"
 ---
 (1) There shall be a Commission for the socially and educationally backward classes to be known as the National Commission for Backward Classes.
 
@@ -46,3 +45,5 @@ effective: "2018-08-15"
 (f) any other matter which the President may by rule, determine.
 
 (9) The Union and every State Government shall consult the Commission on all major policy matters affecting the socially and educationally backward classes:
+
+Provided that nothing in this clause shall apply for the purposes of clause (3) of article 342A.
